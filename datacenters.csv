@@ -365,17 +365,18 @@
 34.143.128.0,34.143.255.255,Google Cloud,https://cloud.google.com/
 34.144.192.0,34.152.69.255,Google Cloud,https://cloud.google.com/
 34.152.72.0,34.152.79.255,Google Cloud,https://cloud.google.com/
-34.154.0.0,34.155.255.255,Google Cloud,https://cloud.google.com/
+34.154.0.0,34.154.255.255,Google Cloud,https://cloud.google.com/
 34.157.0.0,34.157.9.255,Google Cloud,https://cloud.google.com/
-34.157.12.0,34.157.85.255,Google Cloud,https://cloud.google.com/
+34.157.16.0,34.157.85.255,Google Cloud,https://cloud.google.com/
 34.157.87.0,34.157.119.255,Google Cloud,https://cloud.google.com/
 34.157.121.0,34.157.121.255,Google Cloud,https://cloud.google.com/
 34.157.124.0,34.157.137.255,Google Cloud,https://cloud.google.com/
-34.157.140.0,34.157.213.255,Google Cloud,https://cloud.google.com/
+34.157.144.0,34.157.213.255,Google Cloud,https://cloud.google.com/
 34.157.215.0,34.157.217.255,Google Cloud,https://cloud.google.com/
 34.157.220.0,34.157.247.255,Google Cloud,https://cloud.google.com/
 34.157.249.0,34.157.255.255,Google Cloud,https://cloud.google.com/
-34.159.0.0,34.165.255.255,Google Cloud,https://cloud.google.com/
+34.159.0.0,34.162.255.255,Google Cloud,https://cloud.google.com/
+34.164.0.0,34.165.255.255,Google Cloud,https://cloud.google.com/
 34.168.0.0,34.176.255.255,Google Cloud,https://cloud.google.com/
 34.177.32.0,34.177.35.255,Google Cloud,https://cloud.google.com/
 34.177.40.0,34.177.47.255,Google Cloud,https://cloud.google.com/
@@ -2207,7 +2208,6 @@
 128.199.0.0,128.199.255.255,DigitalOcean,https://www.digitalocean.com/
 128.204.194.0,128.204.207.255,Snel Internet Services B.V.,https://www.snelserver.com/
 128.204.208.0,128.204.215.255,ecritel.net,http://www.ecritel.net/
-130.137.170.0,130.137.170.3,Amazon AWS,http://www.amazon.com/aws/
 130.185.144.0,130.185.151.255,Titan Internet Ltd,http://www.titaninternet.co.uk/index.cfm
 130.185.152.0,130.185.155.255,webexxpurts.com,http://webexxpurts.com/
 130.211.4.0,130.211.255.255,Google Cloud,https://cloud.google.com/

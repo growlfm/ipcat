@@ -37,7 +37,8 @@
 4.199.0.0,4.203.95.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 4.204.0.0,4.232.199.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 4.233.0.0,4.248.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-4.249.0.0,4.255.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+4.249.0.0,4.252.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+4.253.0.0,4.255.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 5.9.0.0,5.9.255.255,Hetzner Online AG,http://www.hetzner.de/
 5.10.64.0,5.10.127.255,SoftLayer,http://www.softlayer.com/
 5.34.182.0,5.34.183.255,UA Servers,https://itldc.com/
@@ -603,9 +604,9 @@
 40.121.0.0,40.123.136.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.123.140.0,40.123.148.167,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.123.152.0,40.123.165.53,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.123.168.0,40.123.170.97,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.123.168.0,40.123.170.99,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.123.172.0,40.123.172.155,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.123.173.0,40.123.185.51,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.123.173.0,40.123.185.59,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.123.188.0,40.125.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.126.0.0,40.126.63.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.126.128.0,40.127.32.255,Microsoft Azure,http://www.windowsazure.com/en-us/

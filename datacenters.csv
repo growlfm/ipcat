@@ -167,6 +167,7 @@
 18.88.0.0,18.88.63.255,Amazon AWS,http://www.amazon.com/aws/
 18.88.128.0,18.88.191.255,Amazon AWS,http://www.amazon.com/aws/
 18.89.0.0,18.89.63.255,Amazon AWS,http://www.amazon.com/aws/
+18.89.128.0,18.89.191.255,Amazon AWS,http://www.amazon.com/aws/
 18.100.0.0,18.102.255.255,Amazon AWS,http://www.amazon.com/aws/
 18.116.0.0,18.119.255.255,Amazon AWS,http://www.amazon.com/aws/
 18.130.0.0,18.130.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -2277,7 +2278,7 @@
 141.138.136.0,141.138.143.255,transip,https://www.transip.nl/
 142.0.32.0,142.0.47.255,Volume Drive,http://volumedrive.com
 142.4.32.0,142.4.63.255,WebNX Internet Services,http://webnx.com/
-142.4.160.0,142.4.161.135,Amazon AWS,http://www.amazon.com/aws/
+142.4.160.0,142.4.161.183,Amazon AWS,http://www.amazon.com/aws/
 142.4.177.0,142.4.179.255,Amazon AWS,http://www.amazon.com/aws/
 142.4.192.0,142.4.223.255,OVH,http://www.ovh.co.uk/
 142.11.192.0,142.11.255.255,hostwinds.com,http://www.hostwinds.com/
@@ -2405,7 +2406,11 @@
 159.253.128.0,159.253.159.255,SoftLayer,http://www.softlayer.com/
 160.1.0.0,160.1.255.255,Amazon AWS,http://www.amazon.com/aws/
 161.35.0.0,161.35.255.255,DigitalOcean,https://www.digitalocean.com/
+161.178.0.0,161.178.63.255,Amazon AWS,http://www.amazon.com/aws/
+161.178.128.0,161.178.191.255,Amazon AWS,http://www.amazon.com/aws/
 161.189.0.0,161.189.255.255,Amazon AWS,http://www.amazon.com/aws/
+161.193.0.0,161.193.63.255,Amazon AWS,http://www.amazon.com/aws/
+161.193.128.0,161.193.191.255,Amazon AWS,http://www.amazon.com/aws/
 161.202.0.0,161.202.255.255,SoftLayer,http://www.softlayer.com/
 162.158.0.0,162.159.255.255,Cloudflare Inc,https://www.cloudflare.com/
 162.208.8.0,162.208.11.255,vpscheap.net,http://vpscheap.net/

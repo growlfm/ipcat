@@ -2287,7 +2287,7 @@
 141.138.136.0,141.138.143.255,transip,https://www.transip.nl/
 142.0.32.0,142.0.47.255,Volume Drive,http://volumedrive.com
 142.4.32.0,142.4.63.255,WebNX Internet Services,http://webnx.com/
-142.4.160.0,142.4.161.199,Amazon AWS,http://www.amazon.com/aws/
+142.4.160.0,142.4.161.207,Amazon AWS,http://www.amazon.com/aws/
 142.4.177.0,142.4.179.255,Amazon AWS,http://www.amazon.com/aws/
 142.4.192.0,142.4.223.255,OVH,http://www.ovh.co.uk/
 142.11.192.0,142.11.255.255,hostwinds.com,http://www.hostwinds.com/

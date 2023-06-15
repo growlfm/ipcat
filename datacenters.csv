@@ -2760,6 +2760,7 @@
 181.191.255.0,181.191.255.255,panamaserver.com,http://panamaserver.com/
 182.16.0.0,182.16.127.255,simcentric,http://simcentric.com/
 182.18.128.0,182.18.191.255,CtrlS,http://www.ctrls.in/
+182.30.0.0,182.30.255.255,Amazon AWS,http://www.amazon.com/aws/
 182.50.128.0,182.50.159.255,GoDaddy.com Inc,http://www.godaddy.com/
 182.54.232.0,182.54.239.255,GPLHost,https://www.gplhost.com/
 182.161.96.0,182.161.127.255,kinx.net,http://idc.kinx.net/

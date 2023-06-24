@@ -2276,6 +2276,8 @@
 134.209.0.0,134.209.255.255,DigitalOcean,https://www.digitalocean.com/
 134.255.192.0,134.255.255.255,Optimate Server,http://optimate-server.de/
 136.18.50.0,136.18.51.255,Amazon AWS,http://www.amazon.com/aws/
+136.18.128.0,136.18.129.255,Amazon AWS,http://www.amazon.com/aws/
+136.18.132.0,136.18.135.255,Amazon AWS,http://www.amazon.com/aws/
 137.74.0.0,137.74.255.255,OVH,https://www.ovh.ie/
 137.116.0.0,137.116.99.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 137.116.112.0,137.117.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/

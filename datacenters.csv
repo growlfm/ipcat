@@ -26,7 +26,7 @@
 3.5.208.0,3.5.213.255,Amazon AWS,http://www.amazon.com/aws/
 3.5.216.0,3.32.255.255,Amazon AWS,http://www.amazon.com/aws/
 3.33.34.0,3.33.35.255,Amazon AWS,http://www.amazon.com/aws/
-3.33.40.0,3.33.41.255,Amazon AWS,http://www.amazon.com/aws/
+3.33.40.0,3.33.43.255,Amazon AWS,http://www.amazon.com/aws/
 3.34.0.0,3.39.255.255,Amazon AWS,http://www.amazon.com/aws/
 3.64.0.0,3.99.255.255,Amazon AWS,http://www.amazon.com/aws/
 3.101.0.0,3.101.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -2442,6 +2442,7 @@
 161.35.0.0,161.35.255.255,DigitalOcean,https://www.digitalocean.com/
 161.178.0.0,161.178.63.255,Amazon AWS,http://www.amazon.com/aws/
 161.178.128.0,161.178.191.255,Amazon AWS,http://www.amazon.com/aws/
+161.188.164.0,161.188.169.255,Amazon AWS,http://www.amazon.com/aws/
 161.189.0.0,161.189.255.255,Amazon AWS,http://www.amazon.com/aws/
 161.193.0.0,161.193.63.255,Amazon AWS,http://www.amazon.com/aws/
 161.193.128.0,161.193.191.255,Amazon AWS,http://www.amazon.com/aws/

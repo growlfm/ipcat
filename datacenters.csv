@@ -5,8 +5,7 @@
 3.2.33.64,3.2.34.63,Amazon AWS,http://www.amazon.com/aws/
 3.2.34.128,3.2.36.127,Amazon AWS,http://www.amazon.com/aws/
 3.2.37.0,3.2.37.63,Amazon AWS,http://www.amazon.com/aws/
-3.2.37.128,3.2.37.191,Amazon AWS,http://www.amazon.com/aws/
-3.2.38.0,3.2.38.63,Amazon AWS,http://www.amazon.com/aws/
+3.2.37.128,3.2.38.63,Amazon AWS,http://www.amazon.com/aws/
 3.2.38.128,3.2.39.191,Amazon AWS,http://www.amazon.com/aws/
 3.2.40.0,3.2.40.127,Amazon AWS,http://www.amazon.com/aws/
 3.2.41.0,3.2.42.127,Amazon AWS,http://www.amazon.com/aws/
@@ -26,7 +25,7 @@
 3.5.208.0,3.5.213.255,Amazon AWS,http://www.amazon.com/aws/
 3.5.216.0,3.32.255.255,Amazon AWS,http://www.amazon.com/aws/
 3.33.34.0,3.33.35.255,Amazon AWS,http://www.amazon.com/aws/
-3.33.40.0,3.33.43.255,Amazon AWS,http://www.amazon.com/aws/
+3.33.40.0,3.33.42.255,Amazon AWS,http://www.amazon.com/aws/
 3.34.0.0,3.39.255.255,Amazon AWS,http://www.amazon.com/aws/
 3.64.0.0,3.99.255.255,Amazon AWS,http://www.amazon.com/aws/
 3.101.0.0,3.101.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -146,8 +145,7 @@
 15.160.0.0,15.161.255.255,Amazon AWS,http://www.amazon.com/aws/
 15.164.0.0,15.165.255.255,Amazon AWS,http://www.amazon.com/aws/
 15.168.0.0,15.168.255.255,Amazon AWS,http://www.amazon.com/aws/
-15.177.0.0,15.177.94.255,Amazon AWS,http://www.amazon.com/aws/
-15.177.96.0,15.177.100.255,Amazon AWS,http://www.amazon.com/aws/
+15.177.0.0,15.177.100.255,Amazon AWS,http://www.amazon.com/aws/
 15.181.0.0,15.181.254.255,Amazon AWS,http://www.amazon.com/aws/
 15.184.0.0,15.185.255.255,Amazon AWS,http://www.amazon.com/aws/
 15.188.0.0,15.188.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -648,7 +646,7 @@
 43.192.0.0,43.193.127.255,Amazon AWS,http://www.amazon.com/aws/
 43.196.0.0,43.196.255.255,Amazon AWS,http://www.amazon.com/aws/
 43.198.0.0,43.207.255.255,Amazon AWS,http://www.amazon.com/aws/
-43.218.0.0,43.218.255.255,Amazon AWS,http://www.amazon.com/aws/
+43.216.0.0,43.218.255.255,Amazon AWS,http://www.amazon.com/aws/
 43.249.72.0,43.249.75.255,Fastly,https://www.fastly.com/
 44.192.0.0,44.255.255.255,Amazon AWS,http://www.amazon.com/aws/
 45.32.0.0,45.32.255.255,Choopa,https://www.choopa.com/
@@ -2005,8 +2003,7 @@
 99.78.238.255,99.78.238.255,Amazon AWS,http://www.amazon.com/aws/
 99.79.0.0,99.81.255.255,Amazon AWS,http://www.amazon.com/aws/
 99.150.0.0,99.150.127.255,Amazon AWS,http://www.amazon.com/aws/
-99.151.64.0,99.151.159.255,Amazon AWS,http://www.amazon.com/aws/
-99.151.168.0,99.151.175.255,Amazon AWS,http://www.amazon.com/aws/
+99.151.64.0,99.151.175.255,Amazon AWS,http://www.amazon.com/aws/
 99.151.184.0,99.151.191.255,Amazon AWS,http://www.amazon.com/aws/
 99.192.128.0,99.192.255.255,MojoHost,http://www.mojohost.com
 99.198.96.0,99.198.127.255,SingleHop,http://www.singlehop.com/

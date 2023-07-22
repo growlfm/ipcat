@@ -25,7 +25,7 @@
 3.5.208.0,3.5.213.255,Amazon AWS,http://www.amazon.com/aws/
 3.5.216.0,3.32.255.255,Amazon AWS,http://www.amazon.com/aws/
 3.33.34.0,3.33.35.255,Amazon AWS,http://www.amazon.com/aws/
-3.33.40.0,3.33.43.255,Amazon AWS,http://www.amazon.com/aws/
+3.33.40.0,3.33.42.255,Amazon AWS,http://www.amazon.com/aws/
 3.34.0.0,3.39.255.255,Amazon AWS,http://www.amazon.com/aws/
 3.64.0.0,3.99.255.255,Amazon AWS,http://www.amazon.com/aws/
 3.101.0.0,3.101.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -2309,7 +2309,7 @@
 141.138.136.0,141.138.143.255,transip,https://www.transip.nl/
 142.0.32.0,142.0.47.255,Volume Drive,http://volumedrive.com
 142.4.32.0,142.4.63.255,WebNX Internet Services,http://webnx.com/
-142.4.160.0,142.4.161.231,Amazon AWS,http://www.amazon.com/aws/
+142.4.160.0,142.4.161.239,Amazon AWS,http://www.amazon.com/aws/
 142.4.177.0,142.4.180.255,Amazon AWS,http://www.amazon.com/aws/
 142.4.192.0,142.4.223.255,OVH,http://www.ovh.co.uk/
 142.11.192.0,142.11.255.255,hostwinds.com,http://www.hostwinds.com/

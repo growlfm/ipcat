@@ -2968,6 +2968,7 @@
 192.155.192.0,192.155.255.255,SoftLayer,http://www.softlayer.com/
 192.157.32.0,192.157.35.255,Amazon AWS,http://www.amazon.com/aws/
 192.157.48.0,192.157.63.255,servermania.com,http://www.servermania.com/
+192.157.64.0,192.157.71.255,Amazon AWS,http://www.amazon.com/aws/
 192.158.28.0,192.158.31.255,Google Cloud,https://cloud.google.com/
 192.161.48.0,192.161.63.255,QuadraNet,https://quadranet.com/
 192.161.160.0,192.161.191.255,QuadraNet,https://quadranet.com/

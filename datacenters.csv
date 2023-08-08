@@ -25,7 +25,7 @@
 3.5.208.0,3.5.213.255,Amazon AWS,http://www.amazon.com/aws/
 3.5.216.0,3.32.255.255,Amazon AWS,http://www.amazon.com/aws/
 3.33.34.0,3.33.35.255,Amazon AWS,http://www.amazon.com/aws/
-3.33.40.0,3.33.43.255,Amazon AWS,http://www.amazon.com/aws/
+3.33.42.0,3.33.43.255,Amazon AWS,http://www.amazon.com/aws/
 3.34.0.0,3.39.255.255,Amazon AWS,http://www.amazon.com/aws/
 3.64.0.0,3.99.255.255,Amazon AWS,http://www.amazon.com/aws/
 3.101.0.0,3.101.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -754,7 +754,7 @@
 51.13.16.0,51.13.191.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 51.15.0.0,51.15.255.255,Online.net,https://www.online.net/en
 51.16.0.0,51.17.255.255,Amazon AWS,http://www.amazon.com/aws/
-51.20.0.0,51.20.255.255,Amazon AWS,http://www.amazon.com/aws/
+51.20.0.0,51.21.255.255,Amazon AWS,http://www.amazon.com/aws/
 51.38.80.0,51.38.255.255,OVH,http://www.ovh.co.uk/
 51.53.0.0,51.53.207.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 51.96.0.0,51.96.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -2967,7 +2967,7 @@
 192.154.96.0,192.154.111.255,Gorilla Servers,http://gorillaservers.com/
 192.155.80.0,192.155.95.255,Linode,http://www.linode.com/
 192.155.192.0,192.155.255.255,SoftLayer,http://www.softlayer.com/
-192.157.32.0,192.157.35.255,Amazon AWS,http://www.amazon.com/aws/
+192.157.32.0,192.157.32.255,Amazon AWS,http://www.amazon.com/aws/
 192.157.48.0,192.157.63.255,servermania.com,http://www.servermania.com/
 192.157.64.0,192.157.71.255,Amazon AWS,http://www.amazon.com/aws/
 192.158.28.0,192.158.31.255,Google Cloud,https://cloud.google.com/

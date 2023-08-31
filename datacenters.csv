@@ -1960,7 +1960,7 @@
 95.215.44.0,95.215.47.255,Yourserver,https://yourserver.se
 95.215.60.0,95.215.63.255,sologigabit.com,http://www.sologigabit.com/en/Dedicated-Servers
 96.0.0.0,96.0.108.255,Amazon AWS,http://www.amazon.com/aws/
-96.0.112.0,96.0.159.255,Amazon AWS,http://www.amazon.com/aws/
+96.0.110.0,96.0.175.255,Amazon AWS,http://www.amazon.com/aws/
 96.6.0.0,96.7.255.255,Akamai,http://akamai.com/
 96.8.112.0,96.8.127.255,Velocity Servers,http://www.velocity-servers.net/
 96.9.128.0,96.9.191.255,hostnoc,http://www.hostnoc.net/
@@ -2320,7 +2320,7 @@
 141.138.136.0,141.138.143.255,transip,https://www.transip.nl/
 142.0.32.0,142.0.47.255,Volume Drive,http://volumedrive.com
 142.4.32.0,142.4.63.255,WebNX Internet Services,http://webnx.com/
-142.4.160.0,142.4.161.239,Amazon AWS,http://www.amazon.com/aws/
+142.4.160.0,142.4.162.7,Amazon AWS,http://www.amazon.com/aws/
 142.4.177.0,142.4.180.255,Amazon AWS,http://www.amazon.com/aws/
 142.4.192.0,142.4.223.255,OVH,http://www.ovh.co.uk/
 142.11.192.0,142.11.255.255,hostwinds.com,http://www.hostwinds.com/

@@ -765,6 +765,7 @@
 51.16.0.0,51.17.255.255,Amazon AWS,http://www.amazon.com/aws/
 51.20.0.0,51.21.255.255,Amazon AWS,http://www.amazon.com/aws/
 51.38.80.0,51.38.255.255,OVH,http://www.ovh.co.uk/
+51.44.0.0,51.44.255.255,Amazon AWS,http://www.amazon.com/aws/
 51.53.0.0,51.53.207.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 51.84.0.0,51.84.255.255,Amazon AWS,http://www.amazon.com/aws/
 51.96.0.0,51.96.255.255,Amazon AWS,http://www.amazon.com/aws/

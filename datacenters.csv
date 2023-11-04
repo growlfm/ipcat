@@ -2952,6 +2952,7 @@
 191.252.0.0,191.252.255.255,Locaweb,https://www.locaweb.com.br/
 192.3.0.0,192.3.255.255,ColoCrossing,http://www.colocrossing.com/
 192.30.136.0,192.30.139.255,Input Output Flood LLC,http://ioflood.com/
+192.31.212.0,192.31.213.255,Amazon AWS,http://www.amazon.com/aws/
 192.34.56.0,192.34.63.255,DigitalOcean,https://www.digitalocean.com/
 192.34.108.0,192.34.111.255,WoW Technologies,http://wowrack.com/
 192.40.56.0,192.40.59.255,Total Server Solutions,http://totalserversolutions.com/
@@ -3419,6 +3420,7 @@
 204.68.96.0,204.68.127.255,American Internet Services,http://americanis.net/
 204.74.208.0,204.74.223.255,Take 2 Hosting,http://www.take2hosting.com/
 204.79.180.0,204.79.180.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+204.87.185.0,204.87.185.255,Amazon AWS,http://www.amazon.com/aws/
 204.93.128.0,204.93.255.255,ServerCentral,http://www.servercentral.net/
 204.109.56.0,204.109.63.255,Tranquil Hosting,http://www.tqhosting.com/
 204.124.180.0,204.124.183.255,Volume Drive,http://volumedrive.com

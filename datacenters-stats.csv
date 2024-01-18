@@ -1,9 +1,9 @@
 Datacenter Name, Total IPs
-Amazon AWS,57589325
-Microsoft Azure,37712114
+Amazon AWS,59655533
+Microsoft Azure,39660780
 Akamai,13172736
-Google Cloud,11414784
-DigitalOcean,2736256
+Google Cloud,12864256
+DigitalOcean,2653312
 SoftLayer,1903104
 "ThePlanet.com Internet Services, Inc.",1638656
 Cloudflare Inc,1524736

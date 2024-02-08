@@ -149,7 +149,6 @@
 15.184.0.0,15.185.255.255,Amazon AWS,http://www.amazon.com/aws/
 15.188.0.0,15.188.255.255,Amazon AWS,http://www.amazon.com/aws/
 15.193.0.0,15.193.10.255,Amazon AWS,http://www.amazon.com/aws/
-15.197.64.0,15.197.95.255,Amazon AWS,http://www.amazon.com/aws/
 15.200.0.0,15.200.255.255,Amazon AWS,http://www.amazon.com/aws/
 15.205.0.0,15.207.255.255,Amazon AWS,http://www.amazon.com/aws/
 15.220.0.0,15.220.207.255,Amazon AWS,http://www.amazon.com/aws/
@@ -1637,6 +1636,7 @@
 82.196.0.0,82.196.15.255,DigitalOcean,https://www.digitalocean.com/
 82.211.0.0,82.211.63.255,accelerated.de,http://accelerated.de/
 83.98.128.0,83.98.128.255,Flexwebhosting.nl,http://www.flexwebhosting.nl/
+83.118.240.0,83.118.243.255,Amazon AWS,http://www.amazon.com/aws/
 83.136.80.0,83.136.87.255,myLoc,http://www.myloc.de/
 83.136.248.0,83.136.255.255,UpCloud,https://www.upcloud.com/
 83.137.144.0,83.137.151.255,duocast,http://duocast.nl/

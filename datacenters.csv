@@ -763,7 +763,7 @@
 51.38.80.0,51.38.255.255,OVH,http://www.ovh.co.uk/
 51.44.0.0,51.44.255.255,Amazon AWS,http://www.amazon.com/aws/
 51.53.0.0,51.53.207.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-51.84.0.0,51.84.255.255,Amazon AWS,http://www.amazon.com/aws/
+51.84.0.0,51.85.255.255,Amazon AWS,http://www.amazon.com/aws/
 51.92.0.0,51.92.255.255,Amazon AWS,http://www.amazon.com/aws/
 51.96.0.0,51.96.255.255,Amazon AWS,http://www.amazon.com/aws/
 51.103.0.0,51.103.192.63,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -941,6 +941,8 @@
 54.232.0.0,54.238.255.255,Amazon AWS,http://www.amazon.com/aws/
 54.239.103.128,54.239.103.191,Amazon AWS,http://www.amazon.com/aws/
 54.241.0.0,54.255.255.255,Amazon AWS,http://www.amazon.com/aws/
+56.112.0.0,56.112.255.255,Amazon AWS,http://www.amazon.com/aws/
+56.155.0.0,56.155.127.255,Amazon AWS,http://www.amazon.com/aws/
 57.150.0.0,57.150.25.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 57.151.0.0,57.151.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 57.180.0.0,57.183.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -2001,6 +2003,7 @@
 98.67.128.0,98.67.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 98.70.0.0,98.70.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 98.71.0.0,98.71.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+98.80.0.0,98.87.255.255,Amazon AWS,http://www.amazon.com/aws/
 98.126.0.0,98.126.255.255,VPLS Inc. d/b/a Krypt Technologies,http://krypt.com/
 98.129.0.0,98.129.255.255,Rackspace,http://www.rackspace.com/
 98.130.0.0,98.130.255.255,Amazon AWS,http://www.amazon.com/aws/

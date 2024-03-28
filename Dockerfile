@@ -1,4 +1,4 @@
-FROM golang:1.19.2-bullseye
+FROM golang:1.22.1-bullseye
 
 ENV SERVICE_NAME ipcat
 

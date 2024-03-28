@@ -19,9 +19,9 @@ type AzureValueProperties struct {
 }
 
 type AzureValue struct {
-    Name       string                 `json:"name"`
-    Id         string                 `json:"id"`
-    Properties AzureValueProperties   `json:"properties"`
+    Name       string               `json:"name"`
+    Id         string               `json:"id"`
+    Properties AzureValueProperties `json:"properties"`
 }
 
 type Azure struct {
@@ -33,7 +33,12 @@ type Azure struct {
 var findPublicIPsURL = func() (string, error) {
     //  Ref: Azure IP Ranges and Service Tags – Public Cloud
     //  https://www.microsoft.com/en-us/download/details.aspx?id=56519
-    const downloadPage = "https://www.microsoft.com/en-us/download/confirmation.aspx?id=56519"
+    //const downloadPage = "https://www.microsoft.com/en-us/download/confirmation.aspx?id=56519"
+
+    //  MS download page is hosted via Akamai CDN.
+    //  Akamai CDN started tar pitting Go client in Jan 2024 (even when explicitly setting User-Agent),
+    //  so use mirror page instead.
+    const downloadPage = "https://assets.growl.fm/ipcat/azure/ms_download_page.html"
 
     resp, err := http.Get(downloadPage)
     if err != nil {

@@ -1,39 +1,64 @@
 name: Update IP list
 
 on:
-    workflow_dispatch: {}
-    push:
-        branches:
-            - main
-    schedule:
-        - cron: "0 1 * * *"
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 1 * * *"
 
 jobs:
-    build:
-        runs-on: ubuntu-latest
-        steps:
-            - name: Checkout
-              uses: actions/checkout@v4
-            - name: Configure git
-              uses: oleksiyrudenko/gha-git-credentials@v2.1.1
-              with:
-                  token: ${{ secrets.DEVOPS_GITHUB_TOKEN }}
-            - name: Create .env file
-              run: |
-                  touch .env
-            - name: Build
-              run: |
-                  docker compose build
-            - name: Update
-              run: |
-                  docker compose run update
-            - name: Copy artifacts
-              run: |
-                  cp ${{ github.workspace }}/tmp/ipcat/* ${{ github.workspace }}
-            - name: Commit changes to IP list
-              uses: EndBug/add-and-commit@v9
-              with:
-                  add: ./datacenters.csv ./datacenters-stats.csv
-                  author_name: Growl Dev-Ops
-                  author_email: dev-ops@growl.fm
-                  message: Update IP list
+  build:
+    runs-on: ubuntu-latest
+    if: ${{ !startsWith(github.event.head_commit.message, 'Update IP list') }}
+    env:
+      ORGANIZATION_NAME: growlfm
+      REPOSITORY: ipcat
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.DEVOPS_GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+
+      - name: Ensure cache directory exists
+        run: mkdir -p /tmp/.buildx-cache
+
+      - name: Cache Docker layers
+        uses: actions/cache@v4
+        with:
+          path: /tmp/.buildx-cache
+          key: ${{ runner.os }}-buildx-${{ github.sha }}
+          restore-keys: |
+            ${{ runner.os }}-buildx-
+
+      - name: Build
+        run: |
+            docker compose build
+
+      - name: Update
+        run: |
+            docker compose run update
+
+      - name: Copy artifacts
+        run: |
+            cp ${{ github.workspace }}/tmp/ipcat/* ${{ github.workspace }}
+
+      - name: Commit updated IP list artifacts
+        run: |
+          git config --global user.name "Growl Dev-Ops"
+          git config --global user.email "dev-ops@growl.fm"
+          git add ./datacenters.csv ./datacenters-stats.csv
+          git commit -m "Update IP list"
+          git push
+
+      - name: Save Docker layers cache
+        if: always()
+        uses: actions/cache@v4
+        with:
+          path: /tmp/.buildx-cache
+          key: ${{ runner.os }}-buildx-${{ github.sha }}
+

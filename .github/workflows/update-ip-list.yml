@@ -50,7 +50,7 @@ jobs:
       - name: Check for diffs
         id: check_changes
         run: |
-          if [ -n "$(git diff HEAD@{1} -- ./datacenters.csv ./datacenters-stats.csv)" ]; then
+          if [ -n "$(git diff --name-only ./datacenters.csv ./datacenters-stats.csv)" ]; then
             echo "diffs=true" >> $GITHUB_OUTPUT
           else
             echo "diffs=false" >> $GITHUB_OUTPUT

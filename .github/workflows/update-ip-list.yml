@@ -47,7 +47,17 @@ jobs:
         run: |
             cp ${{ github.workspace }}/tmp/ipcat/* ${{ github.workspace }}
 
+      - name: Check for diffs
+        id: check_changes
+        run: |
+          if [ -n "$(git diff HEAD@{1} -- ./datacenters.csv ./datacenters-stats.csv)" ]; then
+            echo "diffs=true" >> $GITHUB_OUTPUT
+          else
+            echo "diffs=false" >> $GITHUB_OUTPUT
+          fi
+
       - name: Commit updated IP list artifacts
+        if: ${{ steps.check_changes.outputs.diffs == 'true' }}
         run: |
           git config --global user.name "Growl Dev-Ops"
           git config --global user.email "dev-ops@growl.fm"

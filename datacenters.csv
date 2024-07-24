@@ -196,7 +196,7 @@
 20.21.0.0,20.29.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 20.31.0.0,20.31.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 20.33.0.0,20.33.91.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-20.33.128.0,20.33.245.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.33.128.0,20.33.246.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 20.36.0.0,20.38.30.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 20.38.32.0,20.38.47.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 20.38.64.0,20.38.191.255,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -649,17 +649,17 @@
 40.112.36.0,40.112.37.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.112.38.192,40.112.38.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.112.48.0,40.119.100.187,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.119.104.0,40.120.128.91,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.119.104.0,40.120.128.99,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.120.132.0,40.120.132.253,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.120.136.0,40.120.140.207,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.120.144.0,40.120.144.223,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.120.148.0,40.120.150.247,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.120.152.0,40.120.153.249,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.120.156.0,40.120.158.179,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.120.160.0,40.120.166.67,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.120.148.0,40.120.150.251,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.120.152.0,40.120.154.3,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.120.156.0,40.120.158.187,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.120.160.0,40.120.166.75,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.120.168.0,40.120.168.129,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.120.172.0,40.120.172.143,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.120.180.0,40.120.180.91,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.120.180.0,40.120.180.95,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.120.188.0,40.120.188.69,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.121.0.0,40.123.136.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.123.140.0,40.123.149.17,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -755,7 +755,7 @@
 47.128.0.0,47.131.255.255,Amazon AWS,http://www.amazon.com/aws/
 48.209.0.0,48.209.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 48.210.0.0,48.210.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-48.211.0.0,48.211.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+48.211.0.0,48.211.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 48.216.0.0,48.219.151.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 49.247.0.0,49.247.255.255,1000dedi.net,http://www.1000dedi.net/
 50.2.0.0,50.3.255.255,infinitie.net,http://www.serverhub.com/
@@ -985,7 +985,7 @@
 56.124.0.0,56.124.127.255,Amazon AWS,http://www.amazon.com/aws/
 56.136.0.0,56.136.255.255,Amazon AWS,http://www.amazon.com/aws/
 56.155.0.0,56.155.127.255,Amazon AWS,http://www.amazon.com/aws/
-57.150.0.0,57.150.129.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+57.150.0.0,57.150.133.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 57.151.0.0,57.155.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 57.158.0.0,57.158.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 57.159.0.0,57.159.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/

@@ -389,10 +389,12 @@
 34.153.38.0,34.153.38.255,Google Cloud,https://cloud.google.com/
 34.153.40.0,34.153.41.255,Google Cloud,https://cloud.google.com/
 34.153.44.0,34.153.44.255,Google Cloud,https://cloud.google.com/
+34.153.48.0,34.153.55.255,Google Cloud,https://cloud.google.com/
 34.153.224.0,34.153.225.255,Google Cloud,https://cloud.google.com/
 34.153.230.0,34.153.230.255,Google Cloud,https://cloud.google.com/
 34.153.232.0,34.153.233.255,Google Cloud,https://cloud.google.com/
 34.153.236.0,34.153.236.255,Google Cloud,https://cloud.google.com/
+34.153.240.0,34.153.247.255,Google Cloud,https://cloud.google.com/
 34.154.0.0,34.155.255.255,Google Cloud,https://cloud.google.com/
 34.157.0.0,34.157.9.255,Google Cloud,https://cloud.google.com/
 34.157.12.0,34.157.85.255,Google Cloud,https://cloud.google.com/

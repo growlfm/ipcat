@@ -19,8 +19,7 @@
 3.33.40.0,3.33.43.255,Amazon AWS,http://www.amazon.com/aws/
 3.34.0.0,3.39.255.255,Amazon AWS,http://www.amazon.com/aws/
 3.64.0.0,3.99.255.255,Amazon AWS,http://www.amazon.com/aws/
-3.101.0.0,3.101.255.255,Amazon AWS,http://www.amazon.com/aws/
-3.104.0.0,3.115.255.255,Amazon AWS,http://www.amazon.com/aws/
+3.101.0.0,3.115.255.255,Amazon AWS,http://www.amazon.com/aws/
 3.120.0.0,3.151.255.255,Amazon AWS,http://www.amazon.com/aws/
 3.208.0.0,3.239.255.255,Amazon AWS,http://www.amazon.com/aws/
 3.248.0.0,3.255.255.255,Amazon AWS,http://www.amazon.com/aws/

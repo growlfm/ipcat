@@ -16,7 +16,6 @@
 3.5.180.0,3.5.191.255,Amazon AWS,http://www.amazon.com/aws/
 3.5.202.0,3.32.255.255,Amazon AWS,http://www.amazon.com/aws/
 3.33.34.0,3.33.35.255,Amazon AWS,http://www.amazon.com/aws/
-3.33.40.0,3.33.43.255,Amazon AWS,http://www.amazon.com/aws/
 3.34.0.0,3.39.255.255,Amazon AWS,http://www.amazon.com/aws/
 3.64.0.0,3.99.255.255,Amazon AWS,http://www.amazon.com/aws/
 3.101.0.0,3.115.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -3042,7 +3041,6 @@
 192.154.96.0,192.154.111.255,Gorilla Servers,http://gorillaservers.com/
 192.155.80.0,192.155.95.255,Linode,http://www.linode.com/
 192.155.192.0,192.155.255.255,SoftLayer,http://www.softlayer.com/
-192.157.32.0,192.157.34.255,Amazon AWS,http://www.amazon.com/aws/
 192.157.48.0,192.157.63.255,servermania.com,http://www.servermania.com/
 192.158.28.0,192.158.31.255,Google Cloud,https://cloud.google.com/
 192.161.48.0,192.161.63.255,QuadraNet,https://quadranet.com/
@@ -3059,7 +3057,6 @@
 192.186.128.0,192.186.191.255,servermania.com,http://www.servermania.com/
 192.186.192.0,192.186.255.255,GoDaddy.com Inc,http://www.godaddy.com/
 192.187.96.0,192.187.127.255,Data Shack,https://www.datashack.net/
-192.189.196.0,192.189.196.255,Amazon AWS,http://www.amazon.com/aws/
 192.198.84.196,192.198.84.199,Hosixy,http://hosixy.com/
 192.198.96.0,192.198.127.255,servermania.com,http://www.servermania.com/
 192.198.192.0,192.198.207.255,Secure Servers,http://www.securedservers.com/

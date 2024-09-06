@@ -1105,7 +1105,7 @@
 64.247.192.0,64.247.223.255,LightEdge,http://www.lightedge.com
 64.251.0.0,64.251.31.255,ServerPronto,http://www.serverpronto.com/
 64.252.64.0,64.252.89.255,Amazon AWS,http://www.amazon.com/aws/
-64.252.98.0,64.252.124.255,Amazon AWS,http://www.amazon.com/aws/
+64.252.97.0,64.252.124.255,Amazon AWS,http://www.amazon.com/aws/
 65.0.0.0,65.3.255.255,Amazon AWS,http://www.amazon.com/aws/
 65.17.192.0,65.17.255.255,Datapipe,http://www.datapipe.com/
 65.19.128.0,65.19.191.255,Hurricane Electric,http://www.he.net/

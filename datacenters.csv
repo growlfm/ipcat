@@ -1694,7 +1694,7 @@
 82.211.0.0,82.211.63.255,accelerated.de,http://accelerated.de/
 83.98.128.0,83.98.128.255,Flexwebhosting.nl,http://www.flexwebhosting.nl/
 83.118.240.0,83.118.243.255,Amazon AWS,http://www.amazon.com/aws/
-83.119.128.0,83.119.191.255,Amazon AWS,http://www.amazon.com/aws/
+83.119.64.0,83.119.191.255,Amazon AWS,http://www.amazon.com/aws/
 83.136.80.0,83.136.87.255,myLoc,http://www.myloc.de/
 83.136.248.0,83.136.255.255,UpCloud,https://www.upcloud.com/
 83.137.144.0,83.137.151.255,duocast,http://duocast.nl/

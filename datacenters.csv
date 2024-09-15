@@ -344,8 +344,7 @@
 31.222.128.0,31.222.191.255,Rackspace,http://www.rackspace.com/
 34.0.0.0,34.0.227.255,Google Cloud,https://cloud.google.com/
 34.0.240.0,34.1.63.255,Google Cloud,https://cloud.google.com/
-34.1.128.0,34.1.143.255,Google Cloud,https://cloud.google.com/
-34.1.160.0,34.1.255.255,Google Cloud,https://cloud.google.com/
+34.1.128.0,34.1.255.255,Google Cloud,https://cloud.google.com/
 34.16.0.0,34.34.191.255,Google Cloud,https://cloud.google.com/
 34.34.216.0,34.34.223.255,Google Cloud,https://cloud.google.com/
 34.35.0.0,34.42.255.255,Google Cloud,https://cloud.google.com/

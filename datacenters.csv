@@ -2520,7 +2520,8 @@
 161.35.0.0,161.35.255.255,DigitalOcean,https://www.digitalocean.com/
 161.178.0.0,161.178.63.255,Amazon AWS,http://www.amazon.com/aws/
 161.178.128.0,161.178.191.255,Amazon AWS,http://www.amazon.com/aws/
-161.188.0.0,161.188.47.255,Amazon AWS,http://www.amazon.com/aws/
+161.188.0.0,161.188.95.255,Amazon AWS,http://www.amazon.com/aws/
+161.188.112.0,161.188.123.255,Amazon AWS,http://www.amazon.com/aws/
 161.188.127.0,161.188.127.255,Amazon AWS,http://www.amazon.com/aws/
 161.189.0.0,161.189.255.255,Amazon AWS,http://www.amazon.com/aws/
 161.193.0.0,161.193.63.255,Amazon AWS,http://www.amazon.com/aws/

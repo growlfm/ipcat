@@ -2066,7 +2066,7 @@
 98.67.128.0,98.67.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 98.70.0.0,98.70.191.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 98.71.0.0,98.71.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-98.80.0.0,98.87.255.255,Amazon AWS,http://www.amazon.com/aws/
+98.80.0.0,98.95.255.255,Amazon AWS,http://www.amazon.com/aws/
 98.126.0.0,98.126.255.255,VPLS Inc. d/b/a Krypt Technologies,http://krypt.com/
 98.129.0.0,98.129.255.255,Rackspace,http://www.rackspace.com/
 98.130.0.0,98.130.255.255,Amazon AWS,http://www.amazon.com/aws/

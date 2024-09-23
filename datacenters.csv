@@ -344,14 +344,14 @@
 31.222.128.0,31.222.191.255,Rackspace,http://www.rackspace.com/
 34.0.0.0,34.0.227.255,Google Cloud,https://cloud.google.com/
 34.0.240.0,34.1.63.255,Google Cloud,https://cloud.google.com/
-34.1.128.0,34.1.255.255,Google Cloud,https://cloud.google.com/
+34.1.128.0,34.2.15.255,Google Cloud,https://cloud.google.com/
 34.16.0.0,34.34.191.255,Google Cloud,https://cloud.google.com/
 34.34.216.0,34.34.223.255,Google Cloud,https://cloud.google.com/
 34.35.0.0,34.42.255.255,Google Cloud,https://cloud.google.com/
 34.44.0.0,34.50.127.255,Google Cloud,https://cloud.google.com/
 34.51.0.0,34.51.127.255,Google Cloud,https://cloud.google.com/
 34.53.0.0,34.53.127.255,Google Cloud,https://cloud.google.com/
-34.54.0.0,34.54.255.255,Google Cloud,https://cloud.google.com/
+34.54.0.0,34.57.255.255,Google Cloud,https://cloud.google.com/
 34.64.32.0,34.95.255.255,Google Cloud,https://cloud.google.com/
 34.96.64.0,34.97.255.255,Google Cloud,https://cloud.google.com/
 34.98.64.0,34.98.135.255,Google Cloud,https://cloud.google.com/

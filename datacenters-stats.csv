@@ -1,6 +1,6 @@
 Datacenter Name, Total IPs
 Amazon AWS,62902813
-Microsoft Azure,43320272
+Microsoft Azure,43578574
 Google Cloud,14461696
 Akamai,13172736
 DigitalOcean,2653312
@@ -51,7 +51,6 @@ ServiHosting Networks S.L.,163840
 Strato,163840
 hostwinds.com,161792
 Peak10,155904
-servermania.com,155648
 Datapipe,151040
 American Internet Services,147456
 plusserver.de,147456
@@ -150,7 +149,6 @@ iomart,34864
 Gorilla Servers,34816
 Turnkey Internet,34816
 prolocation.net,33784
-B2 NET Solutions,32768
 Data Foundry,32768
 datahouse.nl,32768
 gigeNET,32768
@@ -332,6 +330,7 @@ Velocity Servers,8192
 Web2Objects,8192
 WebControl GmbH,8192
 Xiolink,8192
+Server Mania,7696
 BODHost,7168
 alfahosting.de,6912
 hosteam.pl,6912

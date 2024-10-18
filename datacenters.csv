@@ -977,7 +977,7 @@
 52.123.198.0,52.123.201.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.123.204.0,52.123.208.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.125.128.0,52.125.141.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.129.208.0,52.129.209.255,Amazon AWS,http://www.amazon.com/aws/
+52.129.208.0,52.129.211.255,Amazon AWS,http://www.amazon.com/aws/
 52.129.224.0,52.129.227.255,Amazon AWS,http://www.amazon.com/aws/
 52.136.0.0,52.143.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.146.0.0,52.165.48.15,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -1165,7 +1165,7 @@
 64.247.192.0,64.247.223.255,LightEdge,http://www.lightedge.com
 64.251.0.0,64.251.31.255,ServerPronto,http://www.serverpronto.com/
 64.252.64.0,64.252.89.255,Amazon AWS,http://www.amazon.com/aws/
-64.252.97.0,64.252.124.255,Amazon AWS,http://www.amazon.com/aws/
+64.252.97.0,64.252.125.255,Amazon AWS,http://www.amazon.com/aws/
 65.0.0.0,65.3.255.255,Amazon AWS,http://www.amazon.com/aws/
 65.17.192.0,65.17.255.255,Datapipe,http://www.datapipe.com/
 65.19.128.0,65.19.191.255,Hurricane Electric,http://www.he.net/

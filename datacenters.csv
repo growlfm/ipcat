@@ -718,6 +718,7 @@
 40.127.128.0,40.127.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.172.0.0,40.172.255.255,Amazon AWS,http://www.amazon.com/aws/
 40.176.0.0,40.177.255.255,Amazon AWS,http://www.amazon.com/aws/
+40.192.0.0,40.192.127.255,Amazon AWS,http://www.amazon.com/aws/
 42.1.60.0,42.1.63.255,Exa Bytes Network Sdn Bhd,http://exabytes.com/
 43.192.0.0,43.193.64.255,Amazon AWS,http://www.amazon.com/aws/
 43.196.0.0,43.196.255.255,Amazon AWS,http://www.amazon.com/aws/

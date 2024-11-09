@@ -981,7 +981,6 @@
 52.123.198.0,52.123.201.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.123.204.0,52.123.208.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.125.128.0,52.125.141.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.129.208.0,52.129.211.255,Amazon AWS,http://www.amazon.com/aws/
 52.129.224.0,52.129.227.255,Amazon AWS,http://www.amazon.com/aws/
 52.136.0.0,52.143.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.146.0.0,52.165.48.15,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -3132,6 +3131,7 @@
 192.154.96.0,192.154.111.255,Gorilla Servers,http://gorillaservers.com/
 192.155.80.0,192.155.95.255,Linode,http://www.linode.com/
 192.155.192.0,192.155.255.255,SoftLayer,http://www.softlayer.com/
+192.157.36.0,192.157.37.255,Amazon AWS,http://www.amazon.com/aws/
 192.158.28.0,192.158.31.255,Google Cloud,https://cloud.google.com/
 192.161.48.0,192.161.63.255,QuadraNet,https://quadranet.com/
 192.161.160.0,192.161.191.255,QuadraNet,https://quadranet.com/

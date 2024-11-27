@@ -165,7 +165,9 @@
 15.193.0.0,15.193.10.255,Amazon AWS,http://www.amazon.com/aws/
 15.200.0.0,15.200.255.255,Amazon AWS,http://www.amazon.com/aws/
 15.205.0.0,15.207.255.255,Amazon AWS,http://www.amazon.com/aws/
-15.220.0.0,15.220.207.255,Amazon AWS,http://www.amazon.com/aws/
+15.220.0.0,15.220.43.255,Amazon AWS,http://www.amazon.com/aws/
+15.220.48.0,15.220.95.255,Amazon AWS,http://www.amazon.com/aws/
+15.220.112.0,15.220.207.255,Amazon AWS,http://www.amazon.com/aws/
 15.220.208.128,15.220.208.191,Amazon AWS,http://www.amazon.com/aws/
 15.220.216.0,15.220.255.255,Amazon AWS,http://www.amazon.com/aws/
 15.222.0.0,15.223.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -3142,7 +3144,6 @@
 192.154.96.0,192.154.111.255,Gorilla Servers,http://gorillaservers.com/
 192.155.80.0,192.155.95.255,Linode,http://www.linode.com/
 192.155.192.0,192.155.255.255,SoftLayer,http://www.softlayer.com/
-192.157.36.0,192.157.36.255,Amazon AWS,http://www.amazon.com/aws/
 192.158.28.0,192.158.31.255,Google Cloud,https://cloud.google.com/
 192.161.48.0,192.161.63.255,QuadraNet,https://quadranet.com/
 192.161.160.0,192.161.191.255,QuadraNet,https://quadranet.com/

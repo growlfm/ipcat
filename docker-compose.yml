@@ -1,5 +1,3 @@
-version: "2.4"
-
 services:
     ipcat:
         working_dir: /opt/ipcat

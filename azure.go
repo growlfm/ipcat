@@ -33,15 +33,10 @@ type Azure struct {
 	Values       []AzureValue `json:"values"`
 }
 
-var findPublicIPsURL = func() (string, error) {
+func findPublicIPsURL() (string, error) {
 	//  Ref: Azure IP Ranges and Service Tags – Public Cloud
 	//  https://www.microsoft.com/en-us/download/details.aspx?id=56519
-	const downloadPage = "https://www.microsoft.com/en-us/download/confirmation.aspx?id=56519"
-
-	req, err := http.NewRequest("GET", downloadPage, nil)
-	if err != nil {
-		panic(err)
-	}
+	const downloadPage = "https://www.microsoft.com/en-us/download/details.aspx?id=56519"
 
 	client := http.Client{
 		Transport: &http2.Transport{
@@ -50,6 +45,14 @@ var findPublicIPsURL = func() (string, error) {
 			},
 		},
 	}
+
+	req, err := http.NewRequest("GET", downloadPage, nil)
+	if err != nil {
+		panic(err)
+	}
+
+	// Set a user agent to mimic a browser request
+    req.Header.Set("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36")
 
 	resp, err := client.Do(req)
 	if err != nil {
@@ -62,14 +65,15 @@ var findPublicIPsURL = func() (string, error) {
 		panic(err)
 	}
 
-	re := regexp.MustCompile(`url=https://download\.microsoft\.com/download/.*/ServiceTags_Public_.*\.json`)
-	addr := re.Find(body)
+	pageContent := string(body)
+	r := regexp.MustCompile(`"url":"(https?://[^"]*ServiceTags_Public[^\"]*\.json)"`)
+	match := r.FindStringSubmatch(pageContent)
 
-	if string(addr) == "" {
-		return "", errors.New("could not find PublicIPs address on download page")
+	if len(match) < 1 {
+        return "", errors.New("could not find PublicIPs address on download page")
 	}
 
-	return string(addr)[4:], nil
+	return match[1], nil
 }
 
 // Downloads and returns raw bytes of the Azure IP range list
@@ -84,7 +88,7 @@ func DownloadAzure() ([]byte, error) {
 		return nil, err
 	}
 	if resp.StatusCode != 200 {
-		return nil, fmt.Errorf("failed to download Azure ranges: status code %s", resp.Status)
+		return nil, fmt.Errorf("failed to download Azure ranges from url, %s: status code %s", url, resp.Status)
 	}
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {

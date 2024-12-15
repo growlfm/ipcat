@@ -378,11 +378,11 @@
 31.222.128.0,31.222.191.255,Rackspace,http://www.rackspace.com/
 34.0.0.0,34.0.227.255,Google Cloud,https://cloud.google.com/
 34.0.240.0,34.1.63.255,Google Cloud,https://cloud.google.com/
-34.1.128.0,34.2.47.255,Google Cloud,https://cloud.google.com/
+34.1.128.0,34.2.63.255,Google Cloud,https://cloud.google.com/
 34.2.128.0,34.2.255.255,Google Cloud,https://cloud.google.com/
 34.8.0.0,34.13.63.255,Google Cloud,https://cloud.google.com/
-34.13.68.0,34.13.71.255,Google Cloud,https://cloud.google.com/
-34.13.128.0,34.14.127.255,Google Cloud,https://cloud.google.com/
+34.13.68.0,34.13.79.255,Google Cloud,https://cloud.google.com/
+34.13.128.0,34.14.191.255,Google Cloud,https://cloud.google.com/
 34.16.0.0,34.34.191.255,Google Cloud,https://cloud.google.com/
 34.34.216.0,34.34.223.255,Google Cloud,https://cloud.google.com/
 34.35.0.0,34.42.255.255,Google Cloud,https://cloud.google.com/
@@ -427,8 +427,7 @@
 34.153.224.0,34.153.225.255,Google Cloud,https://cloud.google.com/
 34.153.230.0,34.153.230.255,Google Cloud,https://cloud.google.com/
 34.153.232.0,34.153.247.255,Google Cloud,https://cloud.google.com/
-34.153.250.0,34.153.253.255,Google Cloud,https://cloud.google.com/
-34.154.0.0,34.155.255.255,Google Cloud,https://cloud.google.com/
+34.153.250.0,34.155.255.255,Google Cloud,https://cloud.google.com/
 34.157.0.0,34.157.9.255,Google Cloud,https://cloud.google.com/
 34.157.12.0,34.157.85.255,Google Cloud,https://cloud.google.com/
 34.157.87.0,34.157.119.255,Google Cloud,https://cloud.google.com/

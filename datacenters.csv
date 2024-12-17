@@ -1063,7 +1063,7 @@
 56.112.0.0,56.112.255.255,Amazon AWS,http://www.amazon.com/aws/
 56.124.0.0,56.124.127.255,Amazon AWS,http://www.amazon.com/aws/
 56.125.0.0,56.125.255.255,Amazon AWS,http://www.amazon.com/aws/
-56.136.0.0,56.136.255.255,Amazon AWS,http://www.amazon.com/aws/
+56.136.0.0,56.137.255.255,Amazon AWS,http://www.amazon.com/aws/
 56.155.0.0,56.155.127.255,Amazon AWS,http://www.amazon.com/aws/
 56.228.0.0,56.228.255.255,Amazon AWS,http://www.amazon.com/aws/
 57.150.0.0,57.150.243.255,Microsoft Azure,http://www.windowsazure.com/en-us/

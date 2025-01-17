@@ -461,7 +461,7 @@
 35.71.64.0,35.71.75.255,Amazon AWS,http://www.amazon.com/aws/
 35.71.96.0,35.71.126.255,Amazon AWS,http://www.amazon.com/aws/
 35.72.0.0,35.96.159.255,Amazon AWS,http://www.amazon.com/aws/
-35.96.240.0,35.96.241.255,Amazon AWS,http://www.amazon.com/aws/
+35.96.240.0,35.96.243.255,Amazon AWS,http://www.amazon.com/aws/
 35.152.0.0,35.183.255.255,Amazon AWS,http://www.amazon.com/aws/
 35.184.0.0,35.187.127.255,Google Cloud,https://cloud.google.com/
 35.187.144.0,35.190.95.255,Google Cloud,https://cloud.google.com/
@@ -736,8 +736,7 @@
 42.1.60.0,42.1.63.255,Exa Bytes Network Sdn Bhd,http://exabytes.com/
 43.192.0.0,43.193.64.255,Amazon AWS,http://www.amazon.com/aws/
 43.196.0.0,43.196.255.255,Amazon AWS,http://www.amazon.com/aws/
-43.198.0.0,43.209.255.255,Amazon AWS,http://www.amazon.com/aws/
-43.212.0.0,43.213.255.255,Amazon AWS,http://www.amazon.com/aws/
+43.198.0.0,43.213.255.255,Amazon AWS,http://www.amazon.com/aws/
 43.216.0.0,43.218.255.255,Amazon AWS,http://www.amazon.com/aws/
 43.220.0.0,43.220.255.255,Amazon AWS,http://www.amazon.com/aws/
 43.249.72.0,43.249.75.255,Fastly,https://www.fastly.com/
@@ -1686,7 +1685,7 @@
 77.246.32.0,77.246.47.255,Datapipe,http://www.datapipe.com/
 77.246.160.0,77.246.175.255,ServerSpace Limited,http://www.serverspace.co.uk/
 77.247.181.160,77.247.181.175,NFOrce,https://www.nforce.com/
-78.12.0.0,78.13.255.255,Amazon AWS,http://www.amazon.com/aws/
+78.12.0.0,78.15.255.255,Amazon AWS,http://www.amazon.com/aws/
 78.24.8.0,78.24.15.255,vshosting.cz,http://vshosting.cz/
 78.31.48.0,78.31.55.255,trueserver.nl,http://trueserver.nl/
 78.31.104.0,78.31.111.255,Memset Ltd,http://www.memset.com/
@@ -2505,7 +2504,6 @@
 141.138.136.0,141.138.143.255,transip,https://www.transip.nl/
 142.0.32.0,142.0.47.255,Volume Drive,http://volumedrive.com
 142.4.32.0,142.4.63.255,WebNX Internet Services,http://webnx.com/
-142.4.164.0,142.4.167.255,Amazon AWS,http://www.amazon.com/aws/
 142.4.177.0,142.4.180.255,Amazon AWS,http://www.amazon.com/aws/
 142.4.192.0,142.4.223.255,OVH,http://www.ovh.co.uk/
 142.11.192.0,142.11.255.255,hostwinds.com,http://www.hostwinds.com/

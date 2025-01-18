@@ -749,8 +749,7 @@
 45.43.128.0,45.43.191.255,Server Network Technologies,http://www.hoststore.com/
 45.55.0.0,45.55.255.255,DigitalOcean,https://www.digitalocean.com/
 45.56.64.0,45.56.127.255,Linode,http://www.linode.com/
-45.57.171.0,45.57.171.255,Server Mania,http://www.servermania.com/
-45.57.187.0,45.57.187.255,Server Mania,http://www.servermania.com/
+45.57.128.0,45.57.191.255,Amazon AWS,http://www.amazon.com/aws/
 45.57.228.0,45.57.229.255,Server Mania,http://www.servermania.com/
 45.57.245.0,45.57.247.255,Server Mania,http://www.servermania.com/
 45.59.128.0,45.59.191.255,Roya Hosting,http://www.royahosting.com/

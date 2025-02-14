@@ -1635,6 +1635,7 @@
 75.2.128.0,75.2.191.255,Amazon AWS,http://www.amazon.com/aws/
 75.3.0.0,75.3.63.255,Amazon AWS,http://www.amazon.com/aws/
 75.3.128.0,75.3.191.255,Amazon AWS,http://www.amazon.com/aws/
+75.45.128.0,75.45.191.255,Amazon AWS,http://www.amazon.com/aws/
 75.75.224.0,75.75.255.255,infinitie.net,http://www.serverhub.com/
 75.98.160.0,75.98.175.255,A2 Hosting,http://www.a2hosting.com/
 75.101.128.0,75.101.255.255,Amazon AWS,http://www.amazon.com/aws/

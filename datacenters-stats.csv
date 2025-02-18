@@ -1,7 +1,7 @@
 Datacenter Name, Total IPs
 Amazon AWS,64970781
 Microsoft Azure,45138388
-Google Cloud,14596864
+Google Cloud,14597632
 Akamai,13172736
 DigitalOcean,2653312
 SoftLayer,1903104
@@ -21,12 +21,12 @@ C I Host,352256
 Leaseweb,345344
 infinitie.net,313344
 Fastly,304128
-Psychz Networks,296960
 Choopa,286808
 HostMySite.com,280320
 SingleHop,266240
 Tencent Cloud,262144
 Linode,259072
+Psychz Networks,249600
 iWeb Technologies Inc.,245760
 Fortress Integrated Technologies,237568
 KW Datacenter CA,216064

@@ -83,6 +83,7 @@
 5.144.163.120,5.144.166.255,seeweb.it,http://seeweb.it/
 5.152.192.0,5.152.223.255,Redstation Limited,http://redstation.com/
 5.153.0.0,5.153.63.255,SoftLayer,http://www.softlayer.com/
+5.174.0.0,5.174.255.255,Amazon AWS,http://www.amazon.com/aws/
 5.183.76.0,5.183.77.255,Psychz Networks,http://psychz.net/
 5.189.144.0,5.189.159.255,Contabo GmbH,https://contabo.de/
 5.196.1.0,5.196.255.255,OVH FR,http://www.ovh.com
@@ -144,7 +145,8 @@
 13.105.114.88,13.105.114.215,Microsoft Azure,http://www.windowsazure.com/en-us/
 13.105.116.0,13.105.116.127,Microsoft Azure,http://www.windowsazure.com/en-us/
 13.112.0.0,13.115.255.255,Amazon AWS,http://www.amazon.com/aws/
-13.124.0.0,13.127.255.255,Amazon AWS,http://www.amazon.com/aws/
+13.124.0.0,13.128.255.255,Amazon AWS,http://www.amazon.com/aws/
+13.130.0.0,13.130.255.255,Amazon AWS,http://www.amazon.com/aws/
 13.134.0.0,13.135.255.255,Amazon AWS,http://www.amazon.com/aws/
 13.192.0.0,13.192.255.255,Amazon AWS,http://www.amazon.com/aws/
 13.200.0.0,13.223.255.255,Amazon AWS,http://www.amazon.com/aws/

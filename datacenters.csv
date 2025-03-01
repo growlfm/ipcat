@@ -160,6 +160,8 @@
 13.250.0.0,13.251.255.255,Amazon AWS,http://www.amazon.com/aws/
 14.102.144.0,14.102.146.255,IP ServerOne,http://ipserverone.com/
 14.128.8.0,14.128.11.255,Servenet Solution Limited Partnership,http://servenet.co.th/
+15.103.0.0,15.103.255.255,Amazon AWS,http://www.amazon.com/aws/
+15.128.0.0,15.128.255.255,Amazon AWS,http://www.amazon.com/aws/
 15.145.0.0,15.145.5.255,Amazon AWS,http://www.amazon.com/aws/
 15.145.8.0,15.145.25.255,Amazon AWS,http://www.amazon.com/aws/
 15.152.0.0,15.152.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -471,7 +473,8 @@
 34.177.78.0,34.177.78.127,Google Cloud,https://cloud.google.com/
 34.177.79.0,34.177.79.255,Google Cloud,https://cloud.google.com/
 34.179.0.0,34.179.255.255,Google Cloud,https://cloud.google.com/
-34.181.0.0,34.182.255.255,Google Cloud,https://cloud.google.com/
+34.181.0.0,34.183.3.127,Google Cloud,https://cloud.google.com/
+34.184.0.0,34.184.3.127,Google Cloud,https://cloud.google.com/
 34.192.0.0,34.255.255.255,Amazon AWS,http://www.amazon.com/aws/
 35.50.128.0,35.50.135.255,Amazon AWS,http://www.amazon.com/aws/
 35.50.142.0,35.50.144.255,Amazon AWS,http://www.amazon.com/aws/
@@ -484,7 +487,7 @@
 35.71.64.0,35.71.75.255,Amazon AWS,http://www.amazon.com/aws/
 35.71.96.0,35.71.127.255,Amazon AWS,http://www.amazon.com/aws/
 35.72.0.0,35.96.159.255,Amazon AWS,http://www.amazon.com/aws/
-35.96.240.0,35.96.247.255,Amazon AWS,http://www.amazon.com/aws/
+35.96.240.0,35.96.248.255,Amazon AWS,http://www.amazon.com/aws/
 35.152.0.0,35.183.255.255,Amazon AWS,http://www.amazon.com/aws/
 35.184.0.0,35.187.127.255,Google Cloud,https://cloud.google.com/
 35.187.144.0,35.190.95.255,Google Cloud,https://cloud.google.com/

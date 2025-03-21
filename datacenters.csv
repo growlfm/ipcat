@@ -84,6 +84,7 @@
 5.152.192.0,5.152.223.255,Redstation Limited,http://redstation.com/
 5.153.0.0,5.153.63.255,SoftLayer,http://www.softlayer.com/
 5.174.0.0,5.174.255.255,Amazon AWS,http://www.amazon.com/aws/
+5.179.96.0,5.179.111.255,Amazon AWS,http://www.amazon.com/aws/
 5.183.76.0,5.183.77.255,Psychz Networks,http://psychz.net/
 5.189.144.0,5.189.159.255,Contabo GmbH,https://contabo.de/
 5.196.1.0,5.196.255.255,OVH FR,http://www.ovh.com
@@ -396,6 +397,7 @@
 31.216.48.0,31.216.55.255,Hosting UK,http://hostinguk.net/
 31.220.104.0,31.220.104.255,Hostinger,https://www.hostinger.com/
 31.220.128.0,31.220.131.255,everhost,http://everhost.co/
+31.220.220.0,31.220.223.255,Amazon AWS,http://www.amazon.com/aws/
 31.222.128.0,31.222.191.255,Rackspace,http://www.rackspace.com/
 34.0.0.0,34.0.227.255,Google Cloud,https://cloud.google.com/
 34.0.240.0,34.1.63.255,Google Cloud,https://cloud.google.com/

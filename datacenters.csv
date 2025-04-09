@@ -1580,7 +1580,6 @@
 71.131.192.0,71.132.63.255,Amazon AWS,http://www.amazon.com/aws/
 71.136.64.0,71.136.127.255,Amazon AWS,http://www.amazon.com/aws/
 71.137.0.0,71.137.63.255,Amazon AWS,http://www.amazon.com/aws/
-71.141.0.0,71.141.7.255,Amazon AWS,http://www.amazon.com/aws/
 72.1.96.0,72.1.127.255,latisys,http://www.latisys.com/
 72.1.240.0,72.1.255.255,ndchost.com,http://www.ndchost.com/
 72.3.128.0,72.3.255.255,Rackspace,http://www.rackspace.com/

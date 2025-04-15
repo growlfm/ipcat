@@ -466,7 +466,8 @@
 35.71.64.0,35.71.75.255,Amazon AWS,http://www.amazon.com/aws/
 35.71.96.0,35.71.127.255,Amazon AWS,http://www.amazon.com/aws/
 35.72.0.0,35.96.159.255,Amazon AWS,http://www.amazon.com/aws/
-35.96.240.0,35.96.249.255,Amazon AWS,http://www.amazon.com/aws/
+35.96.240.0,35.96.243.255,Amazon AWS,http://www.amazon.com/aws/
+35.96.245.0,35.96.249.255,Amazon AWS,http://www.amazon.com/aws/
 35.152.0.0,35.183.255.255,Amazon AWS,http://www.amazon.com/aws/
 35.184.0.0,35.187.127.255,Google Cloud,https://cloud.google.com/
 35.187.144.0,35.190.95.255,Google Cloud,https://cloud.google.com/

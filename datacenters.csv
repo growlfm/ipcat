@@ -129,7 +129,7 @@
 13.146.0.0,13.146.255.255,Amazon AWS,http://www.amazon.com/aws/
 13.152.0.0,13.152.255.255,Amazon AWS,http://www.amazon.com/aws/
 13.154.0.0,13.154.255.255,Amazon AWS,http://www.amazon.com/aws/
-13.160.0.0,13.160.255.255,Amazon AWS,http://www.amazon.com/aws/
+13.158.0.0,13.160.255.255,Amazon AWS,http://www.amazon.com/aws/
 13.192.0.0,13.192.255.255,Amazon AWS,http://www.amazon.com/aws/
 13.200.0.0,13.223.255.255,Amazon AWS,http://www.amazon.com/aws/
 13.228.0.0,13.239.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -2176,6 +2176,7 @@
 94.245.123.176,94.245.123.191,Microsoft Azure,http://www.windowsazure.com/en-us/
 94.247.0.0,94.247.7.255,Red Hosting,http://redhosting.nl/
 94.247.168.0,94.247.175.255,GleSYS,http://www.glesys.se
+95.40.0.0,95.41.255.255,Amazon AWS,http://www.amazon.com/aws/
 95.57.120.0,95.57.120.255,Kazakhtelecom Colocation,
 95.85.1.0,95.85.63.255,DigitalOcean,https://www.digitalocean.com/
 95.100.0.0,95.101.255.255,Akamai,http://akamai.com/

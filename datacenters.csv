@@ -381,6 +381,7 @@
 34.1.128.0,34.2.63.255,Google Cloud,https://cloud.google.com/
 34.2.76.0,34.2.77.255,Google Cloud,https://cloud.google.com/
 34.2.128.0,34.2.255.255,Google Cloud,https://cloud.google.com/
+34.3.80.0,34.3.95.255,Google Cloud,https://cloud.google.com/
 34.8.0.0,34.13.63.255,Google Cloud,https://cloud.google.com/
 34.13.68.0,34.13.79.255,Google Cloud,https://cloud.google.com/
 34.13.112.0,34.14.191.255,Google Cloud,https://cloud.google.com/
@@ -453,8 +454,12 @@
 34.179.0.0,34.179.255.255,Google Cloud,https://cloud.google.com/
 34.181.0.0,34.183.3.127,Google Cloud,https://cloud.google.com/
 34.183.4.0,34.183.5.255,Google Cloud,https://cloud.google.com/
+34.183.8.0,34.183.9.255,Google Cloud,https://cloud.google.com/
+34.183.12.0,34.183.19.255,Google Cloud,https://cloud.google.com/
 34.184.0.0,34.184.3.127,Google Cloud,https://cloud.google.com/
 34.184.4.0,34.184.5.255,Google Cloud,https://cloud.google.com/
+34.184.8.0,34.184.9.255,Google Cloud,https://cloud.google.com/
+34.184.12.0,34.184.19.255,Google Cloud,https://cloud.google.com/
 34.192.0.0,34.255.255.255,Amazon AWS,http://www.amazon.com/aws/
 35.50.128.0,35.50.135.255,Amazon AWS,http://www.amazon.com/aws/
 35.50.142.0,35.50.144.255,Amazon AWS,http://www.amazon.com/aws/
@@ -3544,6 +3549,7 @@
 198.24.128.0,198.24.191.255,Secure Servers,http://www.securedservers.com/
 198.27.64.0,198.27.127.255,OVH,http://www.ovh.co.uk/
 198.37.127.0,198.37.127.255,Psychz Networks,http://psychz.net/
+198.41.100.0,198.41.106.255,Amazon AWS,http://www.amazon.com/aws/
 198.41.128.0,198.41.255.255,Cloudflare Inc,https://www.cloudflare.com/
 198.44.0.0,198.44.127.255,hostwinds.com,http://www.hostwinds.com/
 198.44.165.0,198.44.165.255,Psychz Networks,http://psychz.net/

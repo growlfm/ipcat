@@ -3549,7 +3549,7 @@
 198.24.128.0,198.24.191.255,Secure Servers,http://www.securedservers.com/
 198.27.64.0,198.27.127.255,OVH,http://www.ovh.co.uk/
 198.37.127.0,198.37.127.255,Psychz Networks,http://psychz.net/
-198.41.100.0,198.41.106.255,Amazon AWS,http://www.amazon.com/aws/
+198.41.96.0,198.41.107.255,Amazon AWS,http://www.amazon.com/aws/
 198.41.128.0,198.41.255.255,Cloudflare Inc,https://www.cloudflare.com/
 198.44.0.0,198.44.127.255,hostwinds.com,http://www.hostwinds.com/
 198.44.165.0,198.44.165.255,Psychz Networks,http://psychz.net/

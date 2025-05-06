@@ -174,6 +174,7 @@
 16.56.0.0,16.56.191.255,Amazon AWS,http://www.amazon.com/aws/
 16.57.0.0,16.57.63.255,Amazon AWS,http://www.amazon.com/aws/
 16.62.0.0,16.64.127.255,Amazon AWS,http://www.amazon.com/aws/
+16.65.0.0,16.65.255.255,Amazon AWS,http://www.amazon.com/aws/
 16.78.0.0,16.79.255.255,Amazon AWS,http://www.amazon.com/aws/
 16.156.0.0,16.157.255.255,Amazon AWS,http://www.amazon.com/aws/
 16.162.0.0,16.163.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -2876,7 +2877,7 @@
 168.63.129.32,168.63.143.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 168.63.148.0,168.63.156.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 168.63.160.0,168.63.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-168.185.4.0,168.185.5.255,Amazon AWS,http://www.amazon.com/aws/
+168.185.4.0,168.185.4.255,Amazon AWS,http://www.amazon.com/aws/
 168.197.12.0,168.197.15.255,Imperanet,http://imperanet.com.br/
 168.235.144.0,168.235.159.255,CLOUD-52 (KW Datacenter),http://www.kwdatacentre.com/
 169.38.64.0,169.38.127.255,SoftLayer,http://www.softlayer.com/

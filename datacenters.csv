@@ -473,6 +473,7 @@
 35.50.224.0,35.50.224.255,Amazon AWS,http://www.amazon.com/aws/
 35.50.226.0,35.50.239.255,Amazon AWS,http://www.amazon.com/aws/
 35.55.37.0,35.55.37.255,Amazon AWS,http://www.amazon.com/aws/
+35.55.40.0,35.55.40.255,Amazon AWS,http://www.amazon.com/aws/
 35.55.126.0,35.55.127.255,Amazon AWS,http://www.amazon.com/aws/
 35.71.64.0,35.71.75.255,Amazon AWS,http://www.amazon.com/aws/
 35.71.96.0,35.71.127.255,Amazon AWS,http://www.amazon.com/aws/
@@ -1267,7 +1268,7 @@
 64.247.192.0,64.247.223.255,LightEdge,http://www.lightedge.com
 64.251.0.0,64.251.31.255,ServerPronto,http://www.serverpronto.com/
 64.252.64.0,64.252.89.255,Amazon AWS,http://www.amazon.com/aws/
-64.252.97.0,64.252.125.255,Amazon AWS,http://www.amazon.com/aws/
+64.252.97.0,64.252.126.255,Amazon AWS,http://www.amazon.com/aws/
 65.0.0.0,65.3.255.255,Amazon AWS,http://www.amazon.com/aws/
 65.17.192.0,65.17.255.255,Datapipe,http://www.datapipe.com/
 65.19.128.0,65.19.191.255,Hurricane Electric,http://www.he.net/

@@ -482,8 +482,7 @@
 35.55.126.0,35.55.127.255,Amazon AWS,http://www.amazon.com/aws/
 35.71.64.0,35.71.75.255,Amazon AWS,http://www.amazon.com/aws/
 35.71.96.0,35.71.127.255,Amazon AWS,http://www.amazon.com/aws/
-35.72.0.0,35.96.4.255,Amazon AWS,http://www.amazon.com/aws/
-35.96.6.0,35.96.12.255,Amazon AWS,http://www.amazon.com/aws/
+35.72.0.0,35.96.12.255,Amazon AWS,http://www.amazon.com/aws/
 35.96.14.0,35.96.33.255,Amazon AWS,http://www.amazon.com/aws/
 35.96.48.0,35.96.159.255,Amazon AWS,http://www.amazon.com/aws/
 35.96.240.0,35.96.242.255,Amazon AWS,http://www.amazon.com/aws/
@@ -2226,7 +2225,7 @@
 95.215.44.0,95.215.47.255,Yourserver,https://yourserver.se
 95.215.60.0,95.215.63.255,sologigabit.com,http://www.sologigabit.com/en/Dedicated-Servers
 96.0.0.0,96.0.108.255,Amazon AWS,http://www.amazon.com/aws/
-96.0.110.0,96.0.175.255,Amazon AWS,http://www.amazon.com/aws/
+96.0.110.0,96.0.187.255,Amazon AWS,http://www.amazon.com/aws/
 96.6.0.0,96.7.255.255,Akamai,http://akamai.com/
 96.8.112.0,96.8.127.255,Velocity Servers,http://www.velocity-servers.net/
 96.9.128.0,96.9.191.255,hostnoc,http://www.hostnoc.net/

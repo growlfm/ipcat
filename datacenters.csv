@@ -470,6 +470,7 @@
 34.184.12.0,34.184.19.255,Google Cloud,https://cloud.google.com/
 34.187.0.0,34.187.127.255,Google Cloud,https://cloud.google.com/
 34.192.0.0,34.255.255.255,Amazon AWS,http://www.amazon.com/aws/
+35.44.0.0,35.45.255.255,Amazon AWS,http://www.amazon.com/aws/
 35.50.128.0,35.50.135.255,Amazon AWS,http://www.amazon.com/aws/
 35.50.142.0,35.50.144.255,Amazon AWS,http://www.amazon.com/aws/
 35.50.176.0,35.50.178.255,Amazon AWS,http://www.amazon.com/aws/

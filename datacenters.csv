@@ -43,6 +43,7 @@
 5.45.80.0,5.45.87.255,3NT UK,http://3nt.com/
 5.60.0.0,5.60.15.255,Amazon AWS,http://www.amazon.com/aws/
 5.60.64.0,5.60.95.255,Amazon AWS,http://www.amazon.com/aws/
+5.60.128.0,5.60.255.255,Amazon AWS,http://www.amazon.com/aws/
 5.77.32.0,5.77.63.255,eukhost.com,http://eukhost.com/
 5.79.0.0,5.79.7.255,Rackspace,http://www.rackspace.com/
 5.79.16.0,5.79.24.255,Rackspace,http://www.rackspace.com/
@@ -4288,7 +4289,7 @@
 216.240.128.0,216.240.159.255,calPOP,http://calpop.com/
 216.243.128.0,216.243.191.255,ipHouse,http://www.iphouse.com/
 216.243.192.0,216.243.239.255,LightEdge,http://www.lightedge.com
-216.244.0.0,216.244.0.255,Amazon AWS,http://www.amazon.com/aws/
+216.244.0.0,216.244.1.255,Amazon AWS,http://www.amazon.com/aws/
 216.244.64.0,216.244.95.255,WoW Technologies,http://wowrack.com/
 216.245.192.0,216.245.223.255,Limestone Networks,http://www.limestonenetworks.com/
 216.246.0.0,216.246.127.255,ServerCentral,http://www.servercentral.net/

@@ -18,7 +18,6 @@
 3.5.172.0,3.5.175.255,Amazon AWS,http://www.amazon.com/aws/
 3.5.180.0,3.5.199.255,Amazon AWS,http://www.amazon.com/aws/
 3.5.202.0,3.32.255.255,Amazon AWS,http://www.amazon.com/aws/
-3.33.34.0,3.33.35.255,Amazon AWS,http://www.amazon.com/aws/
 3.34.0.0,3.39.255.255,Amazon AWS,http://www.amazon.com/aws/
 3.64.0.0,3.99.255.255,Amazon AWS,http://www.amazon.com/aws/
 3.101.0.0,3.115.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -170,6 +169,7 @@
 15.222.0.0,15.223.255.255,Amazon AWS,http://www.amazon.com/aws/
 15.228.0.0,15.229.255.255,Amazon AWS,http://www.amazon.com/aws/
 15.236.0.0,15.237.255.255,Amazon AWS,http://www.amazon.com/aws/
+15.240.0.0,15.240.255.255,Amazon AWS,http://www.amazon.com/aws/
 15.253.0.0,15.254.255.255,Amazon AWS,http://www.amazon.com/aws/
 16.15.0.0,16.15.23.255,Amazon AWS,http://www.amazon.com/aws/
 16.15.176.0,16.16.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -1141,14 +1141,14 @@
 54.222.52.0,54.222.55.255,Amazon AWS,http://www.amazon.com/aws/
 54.222.58.32,54.222.58.47,Amazon AWS,http://www.amazon.com/aws/
 54.222.64.0,54.222.64.255,Amazon AWS,http://www.amazon.com/aws/
-54.222.88.0,54.222.89.255,Amazon AWS,http://www.amazon.com/aws/
+54.222.88.0,54.222.88.255,Amazon AWS,http://www.amazon.com/aws/
 54.222.100.0,54.222.103.255,Amazon AWS,http://www.amazon.com/aws/
 54.222.128.0,54.229.255.255,Amazon AWS,http://www.amazon.com/aws/
 54.232.0.0,54.238.255.255,Amazon AWS,http://www.amazon.com/aws/
 54.239.103.128,54.239.103.191,Amazon AWS,http://www.amazon.com/aws/
 54.241.0.0,54.255.255.255,Amazon AWS,http://www.amazon.com/aws/
 56.68.0.0,56.68.127.255,Amazon AWS,http://www.amazon.com/aws/
-56.69.0.0,56.69.255.255,Amazon AWS,http://www.amazon.com/aws/
+56.69.0.0,56.70.255.255,Amazon AWS,http://www.amazon.com/aws/
 56.112.0.0,56.112.255.255,Amazon AWS,http://www.amazon.com/aws/
 56.124.0.0,56.124.127.255,Amazon AWS,http://www.amazon.com/aws/
 56.125.0.0,56.127.255.255,Amazon AWS,http://www.amazon.com/aws/

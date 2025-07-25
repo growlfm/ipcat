@@ -41,6 +41,7 @@
 5.45.72.0,5.45.75.255,3NT UK,http://3nt.com/
 5.45.80.0,5.45.87.255,3NT UK,http://3nt.com/
 5.60.0.0,5.60.15.255,Amazon AWS,http://www.amazon.com/aws/
+5.60.32.0,5.60.47.255,Amazon AWS,http://www.amazon.com/aws/
 5.60.64.0,5.60.95.255,Amazon AWS,http://www.amazon.com/aws/
 5.60.128.0,5.60.255.255,Amazon AWS,http://www.amazon.com/aws/
 5.77.32.0,5.77.63.255,eukhost.com,http://eukhost.com/
@@ -489,7 +490,7 @@
 35.55.1.0,35.55.42.255,Amazon AWS,http://www.amazon.com/aws/
 35.55.126.0,35.55.127.255,Amazon AWS,http://www.amazon.com/aws/
 35.71.64.0,35.71.75.255,Amazon AWS,http://www.amazon.com/aws/
-35.71.94.0,35.71.94.255,Amazon AWS,http://www.amazon.com/aws/
+35.71.93.0,35.71.94.255,Amazon AWS,http://www.amazon.com/aws/
 35.71.96.0,35.71.127.255,Amazon AWS,http://www.amazon.com/aws/
 35.72.0.0,35.96.4.255,Amazon AWS,http://www.amazon.com/aws/
 35.96.6.0,35.96.12.255,Amazon AWS,http://www.amazon.com/aws/

@@ -495,8 +495,7 @@
 35.96.6.0,35.96.12.255,Amazon AWS,http://www.amazon.com/aws/
 35.96.14.0,35.96.45.255,Amazon AWS,http://www.amazon.com/aws/
 35.96.48.0,35.96.159.255,Amazon AWS,http://www.amazon.com/aws/
-35.96.240.0,35.96.240.31,Amazon AWS,http://www.amazon.com/aws/
-35.96.241.0,35.96.246.255,Amazon AWS,http://www.amazon.com/aws/
+35.96.240.0,35.96.246.255,Amazon AWS,http://www.amazon.com/aws/
 35.96.248.0,35.97.15.255,Amazon AWS,http://www.amazon.com/aws/
 35.152.0.0,35.183.255.255,Amazon AWS,http://www.amazon.com/aws/
 35.184.0.0,35.187.127.255,Google Cloud,https://cloud.google.com/
@@ -1899,6 +1898,7 @@
 83.143.112.0,83.143.119.255,availo.no,http://www.availo.no/
 83.145.200.0,83.145.200.255,Tentacle Networks Oy,https://www.tentacle.fi/
 83.149.64.0,83.149.127.255,Leaseweb,http://www.leaseweb.com/
+83.160.0.0,83.161.255.255,Amazon AWS,http://www.amazon.com/aws/
 83.167.224.0,83.167.255.255,Master Internet S.R.O.,http://www.master.cz/
 83.169.0.0,83.169.63.255,Host Europe,http://www.hosteurope.de/
 83.170.64.0,83.170.127.255,UK2 Group,http://www.uk2.net/
@@ -2812,6 +2812,7 @@
 159.122.0.0,159.122.255.255,SoftLayer,http://www.softlayer.com/
 159.203.0.0,159.203.255.255,DigitalOcean,https://www.digitalocean.com/
 159.223.0.0,159.223.239.255,DigitalOcean,https://www.digitalocean.com/
+159.248.0.0,159.248.15.255,Amazon AWS,http://www.amazon.com/aws/
 159.248.200.0,159.248.207.255,Amazon AWS,http://www.amazon.com/aws/
 159.248.216.0,159.248.247.255,Amazon AWS,http://www.amazon.com/aws/
 159.253.24.0,159.253.31.255,GleSys,http://glesys.se/

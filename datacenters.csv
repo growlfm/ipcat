@@ -42,8 +42,7 @@
 5.45.80.0,5.45.87.255,3NT UK,http://3nt.com/
 5.60.0.0,5.60.15.255,Amazon AWS,http://www.amazon.com/aws/
 5.60.32.0,5.60.47.255,Amazon AWS,http://www.amazon.com/aws/
-5.60.64.0,5.60.95.255,Amazon AWS,http://www.amazon.com/aws/
-5.60.128.0,5.60.255.255,Amazon AWS,http://www.amazon.com/aws/
+5.60.64.0,5.60.255.255,Amazon AWS,http://www.amazon.com/aws/
 5.77.32.0,5.77.63.255,eukhost.com,http://eukhost.com/
 5.79.0.0,5.79.7.255,Rackspace,http://www.rackspace.com/
 5.79.16.0,5.79.24.255,Rackspace,http://www.rackspace.com/

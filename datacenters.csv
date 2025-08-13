@@ -4326,7 +4326,7 @@
 216.240.128.0,216.240.159.255,calPOP,http://calpop.com/
 216.243.128.0,216.243.191.255,ipHouse,http://www.iphouse.com/
 216.243.192.0,216.243.239.255,LightEdge,http://www.lightedge.com
-216.244.0.0,216.244.9.255,Amazon AWS,http://www.amazon.com/aws/
+216.244.0.0,216.244.10.255,Amazon AWS,http://www.amazon.com/aws/
 216.244.64.0,216.244.95.255,WoW Technologies,http://wowrack.com/
 216.245.192.0,216.245.223.255,Limestone Networks,http://www.limestonenetworks.com/
 216.246.0.0,216.246.127.255,ServerCentral,http://www.servercentral.net/

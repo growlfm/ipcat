@@ -5,7 +5,8 @@
 2.56.137.0,2.56.137.255,Psychz Networks,http://psychz.net/
 3.0.0.0,3.2.0.255,Amazon AWS,http://www.amazon.com/aws/
 3.2.2.0,3.2.3.255,Amazon AWS,http://www.amazon.com/aws/
-3.2.64.0,3.2.66.255,Amazon AWS,http://www.amazon.com/aws/
+3.2.64.0,3.2.89.255,Amazon AWS,http://www.amazon.com/aws/
+3.2.91.0,3.2.97.255,Amazon AWS,http://www.amazon.com/aws/
 3.3.2.0,3.3.2.255,Amazon AWS,http://www.amazon.com/aws/
 3.3.5.0,3.3.5.255,Amazon AWS,http://www.amazon.com/aws/
 3.3.32.0,3.3.33.255,Amazon AWS,http://www.amazon.com/aws/
@@ -502,8 +503,7 @@
 35.71.64.0,35.71.75.255,Amazon AWS,http://www.amazon.com/aws/
 35.71.93.0,35.71.94.255,Amazon AWS,http://www.amazon.com/aws/
 35.71.96.0,35.71.127.255,Amazon AWS,http://www.amazon.com/aws/
-35.72.0.0,35.96.4.255,Amazon AWS,http://www.amazon.com/aws/
-35.96.6.0,35.96.12.255,Amazon AWS,http://www.amazon.com/aws/
+35.72.0.0,35.96.12.255,Amazon AWS,http://www.amazon.com/aws/
 35.96.14.0,35.96.45.255,Amazon AWS,http://www.amazon.com/aws/
 35.96.48.0,35.96.159.255,Amazon AWS,http://www.amazon.com/aws/
 35.96.240.0,35.96.246.255,Amazon AWS,http://www.amazon.com/aws/
@@ -958,6 +958,7 @@
 50.116.64.0,50.116.127.255,WebsiteWelcome.com,http://www.websitewelcome.com/
 50.117.0.0,50.117.127.255,EGIHosting.com,http://www.egihosting.com/
 51.0.29.128,51.0.29.143,Amazon AWS,http://www.amazon.com/aws/
+51.0.31.0,51.0.31.255,Amazon AWS,http://www.amazon.com/aws/
 51.0.80.0,51.0.119.255,Amazon AWS,http://www.amazon.com/aws/
 51.0.128.0,51.0.135.255,Amazon AWS,http://www.amazon.com/aws/
 51.0.252.0,51.0.252.255,Amazon AWS,http://www.amazon.com/aws/

@@ -2669,6 +2669,7 @@
 136.18.50.0,136.18.51.255,Amazon AWS,http://www.amazon.com/aws/
 136.18.128.0,136.18.161.255,Amazon AWS,http://www.amazon.com/aws/
 136.18.254.0,136.18.255.255,Amazon AWS,http://www.amazon.com/aws/
+136.112.0.0,136.115.255.255,Google Cloud,https://cloud.google.com/
 137.74.0.0,137.74.255.255,OVH,https://www.ovh.ie/
 137.116.0.0,137.116.99.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 137.116.112.0,137.117.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/

@@ -5,8 +5,7 @@
 2.56.137.0,2.56.137.255,Psychz Networks,http://psychz.net/
 3.0.0.0,3.2.0.255,Amazon AWS,http://www.amazon.com/aws/
 3.2.2.0,3.2.3.255,Amazon AWS,http://www.amazon.com/aws/
-3.2.64.0,3.2.89.255,Amazon AWS,http://www.amazon.com/aws/
-3.2.91.0,3.2.97.255,Amazon AWS,http://www.amazon.com/aws/
+3.2.64.0,3.2.97.255,Amazon AWS,http://www.amazon.com/aws/
 3.3.2.0,3.3.2.255,Amazon AWS,http://www.amazon.com/aws/
 3.3.5.0,3.3.5.255,Amazon AWS,http://www.amazon.com/aws/
 3.3.32.0,3.3.33.255,Amazon AWS,http://www.amazon.com/aws/
@@ -496,6 +495,7 @@
 35.50.210.0,35.50.214.255,Amazon AWS,http://www.amazon.com/aws/
 35.50.224.0,35.50.224.255,Amazon AWS,http://www.amazon.com/aws/
 35.50.226.0,35.50.239.255,Amazon AWS,http://www.amazon.com/aws/
+35.54.62.0,35.54.62.255,Amazon AWS,http://www.amazon.com/aws/
 35.55.1.0,35.55.27.255,Amazon AWS,http://www.amazon.com/aws/
 35.55.29.0,35.55.30.255,Amazon AWS,http://www.amazon.com/aws/
 35.55.32.0,35.55.42.255,Amazon AWS,http://www.amazon.com/aws/
@@ -4327,7 +4327,7 @@
 216.243.192.0,216.243.239.255,LightEdge,http://www.lightedge.com
 216.244.0.0,216.244.10.255,Amazon AWS,http://www.amazon.com/aws/
 216.244.12.0,216.244.37.255,Amazon AWS,http://www.amazon.com/aws/
-216.244.48.0,216.244.63.255,Amazon AWS,http://www.amazon.com/aws/
+216.244.40.0,216.244.63.255,Amazon AWS,http://www.amazon.com/aws/
 216.244.64.0,216.244.95.255,WoW Technologies,http://wowrack.com/
 216.245.192.0,216.245.223.255,Limestone Networks,http://www.limestonenetworks.com/
 216.246.0.0,216.246.127.255,ServerCentral,http://www.servercentral.net/

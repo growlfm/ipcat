@@ -5,7 +5,7 @@
 2.56.137.0,2.56.137.255,Psychz Networks,http://psychz.net/
 3.0.0.0,3.2.0.255,Amazon AWS,http://www.amazon.com/aws/
 3.2.2.0,3.2.3.255,Amazon AWS,http://www.amazon.com/aws/
-3.2.64.0,3.2.97.255,Amazon AWS,http://www.amazon.com/aws/
+3.2.64.0,3.2.98.255,Amazon AWS,http://www.amazon.com/aws/
 3.3.2.0,3.3.2.255,Amazon AWS,http://www.amazon.com/aws/
 3.3.5.0,3.3.5.255,Amazon AWS,http://www.amazon.com/aws/
 3.3.32.0,3.3.33.255,Amazon AWS,http://www.amazon.com/aws/
@@ -318,6 +318,7 @@
 23.226.64.0,23.226.79.255,Input Output Flood LLC,http://ioflood.com/
 23.227.160.0,23.227.191.255,Incero,http://www.incero.com/
 23.228.192.0,23.228.194.255,Amazon AWS,http://www.amazon.com/aws/
+23.228.196.0,23.228.197.255,Amazon AWS,http://www.amazon.com/aws/
 23.231.0.0,23.231.127.255,infinitie.net,http://www.serverhub.com/
 23.235.32.0,23.235.47.255,Fastly,https://www.fastly.com/
 23.235.224.0,23.235.255.255,Secure Servers,http://www.securedservers.com/
@@ -792,7 +793,7 @@
 41.216.184.0,41.216.184.255,Psychz Networks,http://psychz.net/
 42.1.60.0,42.1.63.255,Exa Bytes Network Sdn Bhd,http://exabytes.com/
 43.192.0.0,43.193.64.255,Amazon AWS,http://www.amazon.com/aws/
-43.194.0.0,43.194.15.255,Amazon AWS,http://www.amazon.com/aws/
+43.194.0.0,43.194.16.255,Amazon AWS,http://www.amazon.com/aws/
 43.195.0.0,43.195.15.255,Amazon AWS,http://www.amazon.com/aws/
 43.196.0.0,43.196.255.255,Amazon AWS,http://www.amazon.com/aws/
 43.198.0.0,43.213.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -1167,7 +1168,7 @@
 54.222.32.0,54.222.39.255,Amazon AWS,http://www.amazon.com/aws/
 54.222.52.0,54.222.55.255,Amazon AWS,http://www.amazon.com/aws/
 54.222.58.32,54.222.58.47,Amazon AWS,http://www.amazon.com/aws/
-54.222.64.0,54.222.64.255,Amazon AWS,http://www.amazon.com/aws/
+54.222.64.0,54.222.65.255,Amazon AWS,http://www.amazon.com/aws/
 54.222.88.0,54.222.88.255,Amazon AWS,http://www.amazon.com/aws/
 54.222.100.0,54.222.103.255,Amazon AWS,http://www.amazon.com/aws/
 54.222.128.0,54.229.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -2836,7 +2837,6 @@
 159.122.0.0,159.122.255.255,SoftLayer,http://www.softlayer.com/
 159.203.0.0,159.203.255.255,DigitalOcean,https://www.digitalocean.com/
 159.223.0.0,159.223.239.255,DigitalOcean,https://www.digitalocean.com/
-159.248.0.0,159.248.15.255,Amazon AWS,http://www.amazon.com/aws/
 159.248.200.0,159.248.207.255,Amazon AWS,http://www.amazon.com/aws/
 159.248.216.0,159.248.247.255,Amazon AWS,http://www.amazon.com/aws/
 159.253.24.0,159.253.31.255,GleSys,http://glesys.se/

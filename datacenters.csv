@@ -1,3 +1,4 @@
+1.178.1.0,1.178.1.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.4.0,1.178.11.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.64.0,1.178.65.255,Amazon AWS,http://www.amazon.com/aws/
 2.16.0.0,2.23.255.255,Akamai,http://akamai.com/
@@ -498,7 +499,7 @@
 35.50.210.0,35.50.214.255,Amazon AWS,http://www.amazon.com/aws/
 35.50.224.0,35.50.224.255,Amazon AWS,http://www.amazon.com/aws/
 35.50.226.0,35.50.239.255,Amazon AWS,http://www.amazon.com/aws/
-35.54.62.0,35.54.62.255,Amazon AWS,http://www.amazon.com/aws/
+35.54.32.0,35.54.62.255,Amazon AWS,http://www.amazon.com/aws/
 35.55.1.0,35.55.27.255,Amazon AWS,http://www.amazon.com/aws/
 35.55.29.0,35.55.30.255,Amazon AWS,http://www.amazon.com/aws/
 35.55.32.0,35.55.42.255,Amazon AWS,http://www.amazon.com/aws/

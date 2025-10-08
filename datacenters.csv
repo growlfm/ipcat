@@ -477,15 +477,13 @@
 34.177.78.0,34.177.78.127,Google Cloud,https://cloud.google.com/
 34.177.79.0,34.177.79.255,Google Cloud,https://cloud.google.com/
 34.178.0.0,34.180.127.255,Google Cloud,https://cloud.google.com/
-34.181.0.0,34.183.5.255,Google Cloud,https://cloud.google.com/
-34.183.8.0,34.183.9.255,Google Cloud,https://cloud.google.com/
+34.181.0.0,34.183.9.255,Google Cloud,https://cloud.google.com/
 34.183.12.0,34.183.19.255,Google Cloud,https://cloud.google.com/
 34.183.20.128,34.183.21.255,Google Cloud,https://cloud.google.com/
 34.183.24.0,34.183.29.255,Google Cloud,https://cloud.google.com/
 34.183.32.0,34.183.36.255,Google Cloud,https://cloud.google.com/
 34.183.40.0,34.183.47.255,Google Cloud,https://cloud.google.com/
-34.184.0.0,34.184.5.255,Google Cloud,https://cloud.google.com/
-34.184.8.0,34.184.9.255,Google Cloud,https://cloud.google.com/
+34.184.0.0,34.184.9.255,Google Cloud,https://cloud.google.com/
 34.184.12.0,34.184.19.255,Google Cloud,https://cloud.google.com/
 34.184.22.0,34.184.27.255,Google Cloud,https://cloud.google.com/
 34.184.30.0,34.184.35.255,Google Cloud,https://cloud.google.com/
@@ -809,6 +807,7 @@
 43.198.0.0,43.213.255.255,Amazon AWS,http://www.amazon.com/aws/
 43.216.0.0,43.218.255.255,Amazon AWS,http://www.amazon.com/aws/
 43.220.0.0,43.220.255.255,Amazon AWS,http://www.amazon.com/aws/
+43.226.24.0,43.226.26.255,Amazon AWS,http://www.amazon.com/aws/
 43.246.114.0,43.246.115.255,Psychz Networks,http://psychz.net/
 43.249.72.0,43.249.75.255,Fastly,https://www.fastly.com/
 43.250.72.0,43.250.75.255,Psychz Networks,http://psychz.net/

@@ -509,7 +509,8 @@
 35.71.93.0,35.71.94.255,Amazon AWS,http://www.amazon.com/aws/
 35.71.96.0,35.71.127.255,Amazon AWS,http://www.amazon.com/aws/
 35.72.0.0,35.96.12.255,Amazon AWS,http://www.amazon.com/aws/
-35.96.14.0,35.96.52.255,Amazon AWS,http://www.amazon.com/aws/
+35.96.14.0,35.96.47.255,Amazon AWS,http://www.amazon.com/aws/
+35.96.49.0,35.96.52.255,Amazon AWS,http://www.amazon.com/aws/
 35.96.64.0,35.96.159.255,Amazon AWS,http://www.amazon.com/aws/
 35.96.240.0,35.96.246.255,Amazon AWS,http://www.amazon.com/aws/
 35.96.248.0,35.97.15.255,Amazon AWS,http://www.amazon.com/aws/
@@ -1765,7 +1766,9 @@
 75.2.128.0,75.2.191.255,Amazon AWS,http://www.amazon.com/aws/
 75.3.0.0,75.3.63.255,Amazon AWS,http://www.amazon.com/aws/
 75.3.128.0,75.3.191.255,Amazon AWS,http://www.amazon.com/aws/
+75.22.192.0,75.22.255.255,Amazon AWS,http://www.amazon.com/aws/
 75.45.128.0,75.45.191.255,Amazon AWS,http://www.amazon.com/aws/
+75.47.0.0,75.47.63.255,Amazon AWS,http://www.amazon.com/aws/
 75.75.224.0,75.75.255.255,infinitie.net,http://www.serverhub.com/
 75.98.160.0,75.98.175.255,A2 Hosting,http://www.a2hosting.com/
 75.101.128.0,75.101.255.255,Amazon AWS,http://www.amazon.com/aws/

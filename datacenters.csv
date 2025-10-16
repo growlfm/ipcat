@@ -320,6 +320,7 @@
 23.227.160.0,23.227.191.255,Incero,http://www.incero.com/
 23.228.192.0,23.228.194.255,Amazon AWS,http://www.amazon.com/aws/
 23.228.196.0,23.228.198.255,Amazon AWS,http://www.amazon.com/aws/
+23.228.224.0,23.228.255.255,Amazon AWS,http://www.amazon.com/aws/
 23.231.0.0,23.231.127.255,infinitie.net,http://www.serverhub.com/
 23.235.32.0,23.235.47.255,Fastly,https://www.fastly.com/
 23.235.224.0,23.235.255.255,Secure Servers,http://www.securedservers.com/
@@ -994,6 +995,7 @@
 51.56.0.0,51.56.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 51.57.0.0,51.58.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 51.59.0.0,51.59.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+51.74.0.0,51.74.15.255,Amazon AWS,http://www.amazon.com/aws/
 51.84.0.0,51.85.255.255,Amazon AWS,http://www.amazon.com/aws/
 51.92.0.0,51.92.255.255,Amazon AWS,http://www.amazon.com/aws/
 51.94.0.0,51.96.255.255,Amazon AWS,http://www.amazon.com/aws/

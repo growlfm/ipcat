@@ -494,7 +494,9 @@
 34.192.0.0,34.255.255.255,Amazon AWS,http://www.amazon.com/aws/
 35.44.0.0,35.45.255.255,Amazon AWS,http://www.amazon.com/aws/
 35.50.128.0,35.50.135.255,Amazon AWS,http://www.amazon.com/aws/
-35.50.142.0,35.50.144.255,Amazon AWS,http://www.amazon.com/aws/
+35.50.137.0,35.50.137.255,Amazon AWS,http://www.amazon.com/aws/
+35.50.139.0,35.50.139.255,Amazon AWS,http://www.amazon.com/aws/
+35.50.141.0,35.50.144.255,Amazon AWS,http://www.amazon.com/aws/
 35.50.176.0,35.50.178.255,Amazon AWS,http://www.amazon.com/aws/
 35.50.192.0,35.50.197.255,Amazon AWS,http://www.amazon.com/aws/
 35.50.208.0,35.50.208.255,Amazon AWS,http://www.amazon.com/aws/

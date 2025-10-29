@@ -16,6 +16,7 @@
 3.4.8.0,3.4.10.255,Amazon AWS,http://www.amazon.com/aws/
 3.4.16.0,3.4.31.255,Amazon AWS,http://www.amazon.com/aws/
 3.5.0.0,3.5.93.255,Amazon AWS,http://www.amazon.com/aws/
+3.5.120.0,3.5.123.255,Amazon AWS,http://www.amazon.com/aws/
 3.5.126.0,3.5.169.255,Amazon AWS,http://www.amazon.com/aws/
 3.5.172.0,3.5.175.255,Amazon AWS,http://www.amazon.com/aws/
 3.5.180.0,3.5.199.255,Amazon AWS,http://www.amazon.com/aws/
@@ -810,7 +811,7 @@
 43.198.0.0,43.213.255.255,Amazon AWS,http://www.amazon.com/aws/
 43.216.0.0,43.218.255.255,Amazon AWS,http://www.amazon.com/aws/
 43.220.0.0,43.220.255.255,Amazon AWS,http://www.amazon.com/aws/
-43.226.24.0,43.226.26.255,Amazon AWS,http://www.amazon.com/aws/
+43.226.24.0,43.226.25.255,Amazon AWS,http://www.amazon.com/aws/
 43.246.114.0,43.246.115.255,Psychz Networks,http://psychz.net/
 43.249.72.0,43.249.75.255,Fastly,https://www.fastly.com/
 43.250.72.0,43.250.75.255,Psychz Networks,http://psychz.net/

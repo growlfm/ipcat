@@ -156,7 +156,7 @@
 15.164.0.0,15.165.255.255,Amazon AWS,http://www.amazon.com/aws/
 15.168.0.0,15.168.255.255,Amazon AWS,http://www.amazon.com/aws/
 15.177.0.0,15.177.100.255,Amazon AWS,http://www.amazon.com/aws/
-15.177.102.0,15.177.106.255,Amazon AWS,http://www.amazon.com/aws/
+15.177.102.0,15.177.107.255,Amazon AWS,http://www.amazon.com/aws/
 15.181.0.0,15.181.254.255,Amazon AWS,http://www.amazon.com/aws/
 15.184.0.0,15.185.255.255,Amazon AWS,http://www.amazon.com/aws/
 15.188.0.0,15.188.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -177,6 +177,7 @@
 15.240.0.0,15.240.255.255,Amazon AWS,http://www.amazon.com/aws/
 15.253.0.0,15.254.255.255,Amazon AWS,http://www.amazon.com/aws/
 16.15.0.0,16.15.23.255,Amazon AWS,http://www.amazon.com/aws/
+16.15.32.0,16.15.47.255,Amazon AWS,http://www.amazon.com/aws/
 16.15.176.0,16.16.255.255,Amazon AWS,http://www.amazon.com/aws/
 16.24.0.0,16.24.255.255,Amazon AWS,http://www.amazon.com/aws/
 16.26.0.0,16.28.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -341,6 +342,7 @@
 23.254.57.0,23.254.57.255,Server Mania,http://www.servermania.com/
 23.254.107.0,23.254.107.255,Server Mania,http://www.servermania.com/
 23.254.120.0,23.254.127.255,Amazon AWS,http://www.amazon.com/aws/
+24.110.16.0,24.110.31.255,Amazon AWS,http://www.amazon.com/aws/
 24.199.64.0,24.199.71.255,DigitalOcean,https://www.digitalocean.com/
 24.199.80.0,24.199.95.255,DigitalOcean,https://www.digitalocean.com/
 27.50.32.0,27.50.39.255,Hurricane Electric,http://www.he.net/
@@ -811,7 +813,6 @@
 43.198.0.0,43.213.255.255,Amazon AWS,http://www.amazon.com/aws/
 43.216.0.0,43.218.255.255,Amazon AWS,http://www.amazon.com/aws/
 43.220.0.0,43.220.255.255,Amazon AWS,http://www.amazon.com/aws/
-43.226.24.0,43.226.25.255,Amazon AWS,http://www.amazon.com/aws/
 43.246.114.0,43.246.115.255,Psychz Networks,http://psychz.net/
 43.249.72.0,43.249.75.255,Fastly,https://www.fastly.com/
 43.250.72.0,43.250.75.255,Psychz Networks,http://psychz.net/

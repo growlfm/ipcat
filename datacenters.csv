@@ -318,7 +318,7 @@
 23.192.0.0,23.223.255.255,Akamai,http://akamai.com/
 23.226.64.0,23.226.79.255,Input Output Flood LLC,http://ioflood.com/
 23.227.160.0,23.227.191.255,Incero,http://www.incero.com/
-23.228.192.0,23.228.194.255,Amazon AWS,http://www.amazon.com/aws/
+23.228.194.0,23.228.194.255,Amazon AWS,http://www.amazon.com/aws/
 23.228.196.0,23.228.198.255,Amazon AWS,http://www.amazon.com/aws/
 23.228.224.0,23.228.255.255,Amazon AWS,http://www.amazon.com/aws/
 23.231.0.0,23.231.127.255,infinitie.net,http://www.serverhub.com/

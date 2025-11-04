@@ -188,6 +188,7 @@
 16.71.0.0,16.71.127.255,Amazon AWS,http://www.amazon.com/aws/
 16.78.0.0,16.79.255.255,Amazon AWS,http://www.amazon.com/aws/
 16.112.0.0,16.112.255.255,Amazon AWS,http://www.amazon.com/aws/
+16.140.0.0,16.140.255.255,Amazon AWS,http://www.amazon.com/aws/
 16.144.0.0,16.146.255.255,Amazon AWS,http://www.amazon.com/aws/
 16.156.0.0,16.157.255.255,Amazon AWS,http://www.amazon.com/aws/
 16.162.0.0,16.163.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -320,7 +321,6 @@
 23.227.160.0,23.227.191.255,Incero,http://www.incero.com/
 23.228.194.0,23.228.194.255,Amazon AWS,http://www.amazon.com/aws/
 23.228.196.0,23.228.198.255,Amazon AWS,http://www.amazon.com/aws/
-23.228.224.0,23.228.255.255,Amazon AWS,http://www.amazon.com/aws/
 23.231.0.0,23.231.127.255,infinitie.net,http://www.serverhub.com/
 23.235.32.0,23.235.47.255,Fastly,https://www.fastly.com/
 23.235.224.0,23.235.255.255,Secure Servers,http://www.securedservers.com/
@@ -514,7 +514,8 @@
 35.71.96.0,35.71.127.255,Amazon AWS,http://www.amazon.com/aws/
 35.72.0.0,35.96.12.255,Amazon AWS,http://www.amazon.com/aws/
 35.96.14.0,35.96.17.255,Amazon AWS,http://www.amazon.com/aws/
-35.96.22.0,35.96.56.255,Amazon AWS,http://www.amazon.com/aws/
+35.96.22.0,35.96.29.255,Amazon AWS,http://www.amazon.com/aws/
+35.96.32.0,35.96.56.255,Amazon AWS,http://www.amazon.com/aws/
 35.96.64.0,35.96.159.255,Amazon AWS,http://www.amazon.com/aws/
 35.96.240.0,35.96.246.255,Amazon AWS,http://www.amazon.com/aws/
 35.96.248.0,35.97.15.255,Amazon AWS,http://www.amazon.com/aws/

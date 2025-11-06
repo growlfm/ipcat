@@ -397,6 +397,7 @@
 31.220.128.0,31.220.131.255,everhost,http://everhost.co/
 31.220.220.0,31.220.223.255,Amazon AWS,http://www.amazon.com/aws/
 31.220.236.0,31.220.236.255,Amazon AWS,http://www.amazon.com/aws/
+31.220.247.0,31.220.247.255,Amazon AWS,http://www.amazon.com/aws/
 31.222.128.0,31.222.191.255,Rackspace,http://www.rackspace.com/
 34.0.0.0,34.0.227.255,Google Cloud,https://cloud.google.com/
 34.0.240.0,34.1.63.255,Google Cloud,https://cloud.google.com/
@@ -1001,7 +1002,7 @@
 51.56.0.0,51.56.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 51.57.0.0,51.58.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 51.59.0.0,51.59.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-51.74.0.0,51.74.15.255,Amazon AWS,http://www.amazon.com/aws/
+51.72.0.0,51.74.15.255,Amazon AWS,http://www.amazon.com/aws/
 51.84.0.0,51.85.255.255,Amazon AWS,http://www.amazon.com/aws/
 51.92.0.0,51.92.255.255,Amazon AWS,http://www.amazon.com/aws/
 51.94.0.0,51.96.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -1164,7 +1165,7 @@
 54.25.82.0,54.25.82.255,Amazon AWS,http://www.amazon.com/aws/
 54.26.166.0,54.26.166.255,Amazon AWS,http://www.amazon.com/aws/
 54.46.0.0,54.46.127.255,Amazon AWS,http://www.amazon.com/aws/
-54.54.0.0,54.54.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.54.0.0,54.55.255.255,Amazon AWS,http://www.amazon.com/aws/
 54.64.0.0,54.95.255.255,Amazon AWS,http://www.amazon.com/aws/
 54.112.0.0,54.112.63.255,Amazon AWS,http://www.amazon.com/aws/
 54.116.0.0,54.117.255.255,Amazon AWS,http://www.amazon.com/aws/

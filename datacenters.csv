@@ -2763,6 +2763,7 @@
 148.251.0.0,148.251.255.255,Hetzner Online AG,http://www.hetzner.de/
 149.3.128.0,149.3.143.255,Redstation Limited,http://redstation.com/
 149.18.120.0,149.18.127.255,Psychz Networks,http://psychz.net/
+149.128.64.0,149.128.127.255,Amazon AWS,http://www.amazon.com/aws/
 149.154.152.0,149.154.159.255,EDIS,http://www.edis.at/
 149.202.0.0,149.202.255.255,OVH,https://www.ovh.co.uk/
 149.210.164.0,149.210.164.255,TransIP,https://www.transip.nl/
@@ -4322,7 +4323,8 @@
 216.185.129.0,216.185.130.255,Hostway,http://www.hostway.com/
 216.187.64.0,216.187.127.255,PEER 1,http://www.peer1.com/
 216.189.144.0,216.189.159.255,Host US,http://hostus.us/
-216.198.192.0,216.198.195.255,Amazon AWS,http://www.amazon.com/aws/
+216.198.192.0,216.198.193.255,Amazon AWS,http://www.amazon.com/aws/
+216.198.196.0,216.198.211.255,Amazon AWS,http://www.amazon.com/aws/
 216.211.128.0,216.211.143.255,Adhost,http://www.adhost.com/
 216.213.0.0,216.213.191.255,thorn.net,http://www.thorn.net/
 216.218.128.0,216.218.255.255,Hurricane Electric,http://www.he.net/

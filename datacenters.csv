@@ -321,6 +321,7 @@
 23.227.160.0,23.227.191.255,Incero,http://www.incero.com/
 23.228.194.0,23.228.194.255,Amazon AWS,http://www.amazon.com/aws/
 23.228.196.0,23.228.198.255,Amazon AWS,http://www.amazon.com/aws/
+23.228.228.0,23.228.235.255,Amazon AWS,http://www.amazon.com/aws/
 23.231.0.0,23.231.127.255,infinitie.net,http://www.serverhub.com/
 23.235.32.0,23.235.47.255,Fastly,https://www.fastly.com/
 23.235.224.0,23.235.255.255,Secure Servers,http://www.securedservers.com/
@@ -520,6 +521,7 @@
 35.96.64.0,35.96.159.255,Amazon AWS,http://www.amazon.com/aws/
 35.96.240.0,35.96.246.255,Amazon AWS,http://www.amazon.com/aws/
 35.96.248.0,35.97.15.255,Amazon AWS,http://www.amazon.com/aws/
+35.111.128.0,35.111.131.255,Amazon AWS,http://www.amazon.com/aws/
 35.111.252.0,35.111.255.255,Amazon AWS,http://www.amazon.com/aws/
 35.152.0.0,35.183.255.255,Amazon AWS,http://www.amazon.com/aws/
 35.184.0.0,35.187.127.255,Google Cloud,https://cloud.google.com/
@@ -802,7 +804,7 @@
 40.126.128.0,40.127.32.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.127.64.0,40.127.111.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.127.128.0,40.127.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.168.224.0,40.168.224.255,Amazon AWS,http://www.amazon.com/aws/
+40.168.224.0,40.168.225.255,Amazon AWS,http://www.amazon.com/aws/
 40.172.0.0,40.172.255.255,Amazon AWS,http://www.amazon.com/aws/
 40.176.0.0,40.177.255.255,Amazon AWS,http://www.amazon.com/aws/
 40.183.96.0,40.183.109.255,Psychz Networks,http://psychz.net/
@@ -2583,6 +2585,7 @@
 121.52.192.0,121.52.199.255,Conetix,http://conetix.com.au/
 121.78.0.0,121.78.255.255,kinx.net,http://idc.kinx.net/
 122.49.64.0,122.49.127.255,kinx.net,http://idc.kinx.net/
+122.200.61.0,122.200.61.255,Amazon AWS,http://www.amazon.com/aws/
 122.200.132.0,122.200.135.255,Datapipe,http://www.datapipe.com/
 122.248.192.0,122.248.255.255,Amazon AWS,http://www.amazon.com/aws/
 123.100.224.0,123.100.255.255,webvisions.com,http://webvisions.com/
@@ -4323,8 +4326,9 @@
 216.185.129.0,216.185.130.255,Hostway,http://www.hostway.com/
 216.187.64.0,216.187.127.255,PEER 1,http://www.peer1.com/
 216.189.144.0,216.189.159.255,Host US,http://hostus.us/
-216.198.192.0,216.198.193.255,Amazon AWS,http://www.amazon.com/aws/
+216.198.192.0,216.198.194.255,Amazon AWS,http://www.amazon.com/aws/
 216.198.196.0,216.198.211.255,Amazon AWS,http://www.amazon.com/aws/
+216.198.216.0,216.198.223.255,Amazon AWS,http://www.amazon.com/aws/
 216.211.128.0,216.211.143.255,Adhost,http://www.adhost.com/
 216.213.0.0,216.213.191.255,thorn.net,http://www.thorn.net/
 216.218.128.0,216.218.255.255,Hurricane Electric,http://www.he.net/
@@ -4345,8 +4349,7 @@
 216.243.128.0,216.243.191.255,ipHouse,http://www.iphouse.com/
 216.243.192.0,216.243.239.255,LightEdge,http://www.lightedge.com
 216.244.0.0,216.244.10.255,Amazon AWS,http://www.amazon.com/aws/
-216.244.12.0,216.244.37.255,Amazon AWS,http://www.amazon.com/aws/
-216.244.40.0,216.244.63.255,Amazon AWS,http://www.amazon.com/aws/
+216.244.12.0,216.244.63.255,Amazon AWS,http://www.amazon.com/aws/
 216.244.64.0,216.244.95.255,WoW Technologies,http://wowrack.com/
 216.245.192.0,216.245.223.255,Limestone Networks,http://www.limestonenetworks.com/
 216.246.0.0,216.246.127.255,ServerCentral,http://www.servercentral.net/

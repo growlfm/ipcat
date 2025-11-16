@@ -4327,8 +4327,7 @@
 216.187.64.0,216.187.127.255,PEER 1,http://www.peer1.com/
 216.189.144.0,216.189.159.255,Host US,http://hostus.us/
 216.198.192.0,216.198.194.255,Amazon AWS,http://www.amazon.com/aws/
-216.198.196.0,216.198.213.255,Amazon AWS,http://www.amazon.com/aws/
-216.198.216.0,216.198.229.255,Amazon AWS,http://www.amazon.com/aws/
+216.198.196.0,216.198.237.255,Amazon AWS,http://www.amazon.com/aws/
 216.211.128.0,216.211.143.255,Adhost,http://www.adhost.com/
 216.213.0.0,216.213.191.255,thorn.net,http://www.thorn.net/
 216.218.128.0,216.218.255.255,Hurricane Electric,http://www.he.net/
@@ -4348,8 +4347,7 @@
 216.240.128.0,216.240.159.255,calPOP,http://calpop.com/
 216.243.128.0,216.243.191.255,ipHouse,http://www.iphouse.com/
 216.243.192.0,216.243.239.255,LightEdge,http://www.lightedge.com
-216.244.0.0,216.244.10.255,Amazon AWS,http://www.amazon.com/aws/
-216.244.12.0,216.244.63.255,Amazon AWS,http://www.amazon.com/aws/
+216.244.0.0,216.244.63.255,Amazon AWS,http://www.amazon.com/aws/
 216.244.64.0,216.244.95.255,WoW Technologies,http://wowrack.com/
 216.245.192.0,216.245.223.255,Limestone Networks,http://www.limestonenetworks.com/
 216.246.0.0,216.246.127.255,ServerCentral,http://www.servercentral.net/

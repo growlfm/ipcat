@@ -194,6 +194,7 @@
 16.156.0.0,16.157.255.255,Amazon AWS,http://www.amazon.com/aws/
 16.162.0.0,16.163.255.255,Amazon AWS,http://www.amazon.com/aws/
 16.168.0.0,16.171.255.255,Amazon AWS,http://www.amazon.com/aws/
+16.174.0.0,16.174.255.255,Amazon AWS,http://www.amazon.com/aws/
 16.176.0.0,16.176.255.255,Amazon AWS,http://www.amazon.com/aws/
 16.184.0.0,16.184.63.255,Amazon AWS,http://www.amazon.com/aws/
 16.208.0.0,16.209.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -321,6 +322,7 @@
 23.227.160.0,23.227.191.255,Incero,http://www.incero.com/
 23.228.194.0,23.228.194.255,Amazon AWS,http://www.amazon.com/aws/
 23.228.196.0,23.228.198.255,Amazon AWS,http://www.amazon.com/aws/
+23.228.219.0,23.228.219.255,Amazon AWS,http://www.amazon.com/aws/
 23.228.228.0,23.228.235.255,Amazon AWS,http://www.amazon.com/aws/
 23.231.0.0,23.231.127.255,infinitie.net,http://www.serverhub.com/
 23.235.32.0,23.235.47.255,Fastly,https://www.fastly.com/
@@ -820,6 +822,7 @@
 43.198.0.0,43.213.255.255,Amazon AWS,http://www.amazon.com/aws/
 43.216.0.0,43.218.255.255,Amazon AWS,http://www.amazon.com/aws/
 43.220.0.0,43.220.255.255,Amazon AWS,http://www.amazon.com/aws/
+43.226.24.0,43.226.25.255,Amazon AWS,http://www.amazon.com/aws/
 43.246.114.0,43.246.115.255,Psychz Networks,http://psychz.net/
 43.249.72.0,43.249.75.255,Fastly,https://www.fastly.com/
 43.250.72.0,43.250.75.255,Psychz Networks,http://psychz.net/
@@ -3221,6 +3224,7 @@
 181.215.121.0,181.215.123.255,Psychz Networks,http://psychz.net/
 182.16.0.0,182.16.127.255,simcentric,http://simcentric.com/
 182.18.128.0,182.18.191.255,CtrlS,http://www.ctrls.in/
+182.24.0.0,182.27.255.255,Amazon AWS,http://www.amazon.com/aws/
 182.30.0.0,182.30.255.255,Amazon AWS,http://www.amazon.com/aws/
 182.50.128.0,182.50.159.255,GoDaddy.com Inc,http://www.godaddy.com/
 182.54.232.0,182.54.239.255,GPLHost,https://www.gplhost.com/

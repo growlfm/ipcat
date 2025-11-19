@@ -139,7 +139,7 @@
 13.154.0.0,13.154.255.255,Amazon AWS,http://www.amazon.com/aws/
 13.158.0.0,13.160.255.255,Amazon AWS,http://www.amazon.com/aws/
 13.162.0.0,13.162.255.255,Amazon AWS,http://www.amazon.com/aws/
-13.192.0.0,13.192.255.255,Amazon AWS,http://www.amazon.com/aws/
+13.192.0.0,13.193.255.255,Amazon AWS,http://www.amazon.com/aws/
 13.200.0.0,13.223.255.255,Amazon AWS,http://www.amazon.com/aws/
 13.228.0.0,13.239.255.255,Amazon AWS,http://www.amazon.com/aws/
 13.244.0.0,13.247.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -180,10 +180,10 @@
 16.15.0.0,16.15.27.255,Amazon AWS,http://www.amazon.com/aws/
 16.15.32.0,16.15.47.255,Amazon AWS,http://www.amazon.com/aws/
 16.15.176.0,16.16.255.255,Amazon AWS,http://www.amazon.com/aws/
-16.24.0.0,16.24.255.255,Amazon AWS,http://www.amazon.com/aws/
-16.26.0.0,16.28.255.255,Amazon AWS,http://www.amazon.com/aws/
+16.24.0.0,16.28.255.255,Amazon AWS,http://www.amazon.com/aws/
 16.50.0.0,16.52.255.255,Amazon AWS,http://www.amazon.com/aws/
 16.54.0.0,16.57.63.255,Amazon AWS,http://www.amazon.com/aws/
+16.58.0.0,16.58.255.255,Amazon AWS,http://www.amazon.com/aws/
 16.62.0.0,16.64.127.255,Amazon AWS,http://www.amazon.com/aws/
 16.65.0.0,16.65.255.255,Amazon AWS,http://www.amazon.com/aws/
 16.71.0.0,16.71.127.255,Amazon AWS,http://www.amazon.com/aws/
@@ -822,7 +822,6 @@
 43.198.0.0,43.213.255.255,Amazon AWS,http://www.amazon.com/aws/
 43.216.0.0,43.218.255.255,Amazon AWS,http://www.amazon.com/aws/
 43.220.0.0,43.220.255.255,Amazon AWS,http://www.amazon.com/aws/
-43.226.24.0,43.226.25.255,Amazon AWS,http://www.amazon.com/aws/
 43.246.114.0,43.246.115.255,Psychz Networks,http://psychz.net/
 43.249.72.0,43.249.75.255,Fastly,https://www.fastly.com/
 43.250.72.0,43.250.75.255,Psychz Networks,http://psychz.net/
@@ -2588,7 +2587,6 @@
 121.52.192.0,121.52.199.255,Conetix,http://conetix.com.au/
 121.78.0.0,121.78.255.255,kinx.net,http://idc.kinx.net/
 122.49.64.0,122.49.127.255,kinx.net,http://idc.kinx.net/
-122.200.61.0,122.200.61.255,Amazon AWS,http://www.amazon.com/aws/
 122.200.132.0,122.200.135.255,Datapipe,http://www.datapipe.com/
 122.248.192.0,122.248.255.255,Amazon AWS,http://www.amazon.com/aws/
 123.100.224.0,123.100.255.255,webvisions.com,http://webvisions.com/

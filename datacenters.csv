@@ -827,7 +827,6 @@
 43.198.0.0,43.213.255.255,Amazon AWS,http://www.amazon.com/aws/
 43.216.0.0,43.218.255.255,Amazon AWS,http://www.amazon.com/aws/
 43.220.0.0,43.220.255.255,Amazon AWS,http://www.amazon.com/aws/
-43.226.24.0,43.226.25.255,Amazon AWS,http://www.amazon.com/aws/
 43.246.114.0,43.246.115.255,Psychz Networks,http://psychz.net/
 43.249.72.0,43.249.75.255,Fastly,https://www.fastly.com/
 43.250.72.0,43.250.75.255,Psychz Networks,http://psychz.net/
@@ -2598,6 +2597,7 @@
 121.52.192.0,121.52.199.255,Conetix,http://conetix.com.au/
 121.78.0.0,121.78.255.255,kinx.net,http://idc.kinx.net/
 122.49.64.0,122.49.127.255,kinx.net,http://idc.kinx.net/
+122.200.61.0,122.200.61.255,Amazon AWS,http://www.amazon.com/aws/
 122.200.132.0,122.200.135.255,Datapipe,http://www.datapipe.com/
 122.248.192.0,122.248.255.255,Amazon AWS,http://www.amazon.com/aws/
 123.100.224.0,123.100.255.255,webvisions.com,http://webvisions.com/

@@ -88,6 +88,7 @@
 8.30.160.0,8.30.167.255,Native Hosting,http://nativehosting.com/
 8.34.208.0,8.34.223.255,Google Cloud,https://cloud.google.com/
 8.35.192.0,8.35.199.255,Google Cloud,https://cloud.google.com/
+8.228.0.0,8.228.191.255,Google Cloud,https://cloud.google.com/
 9.141.0.0,9.141.191.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 9.160.0.0,9.160.191.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 9.163.0.0,9.163.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -470,10 +471,10 @@
 34.157.0.0,34.157.9.255,Google Cloud,https://cloud.google.com/
 34.157.12.0,34.157.85.255,Google Cloud,https://cloud.google.com/
 34.157.87.0,34.157.119.255,Google Cloud,https://cloud.google.com/
-34.157.121.0,34.157.121.255,Google Cloud,https://cloud.google.com/
+34.157.121.0,34.157.122.255,Google Cloud,https://cloud.google.com/
 34.157.124.0,34.157.137.255,Google Cloud,https://cloud.google.com/
 34.157.140.0,34.157.213.255,Google Cloud,https://cloud.google.com/
-34.157.215.0,34.157.217.255,Google Cloud,https://cloud.google.com/
+34.157.215.0,34.157.218.255,Google Cloud,https://cloud.google.com/
 34.157.220.0,34.157.247.255,Google Cloud,https://cloud.google.com/
 34.157.249.0,34.157.255.255,Google Cloud,https://cloud.google.com/
 34.158.16.0,34.158.239.255,Google Cloud,https://cloud.google.com/

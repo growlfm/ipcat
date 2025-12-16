@@ -600,6 +600,7 @@
 37.187.0.0,37.187.255.255,OVH,http://www.ovh.co.uk/
 37.188.112.0,37.188.117.255,Rackspace,http://www.rackspace.com/
 37.188.120.0,37.188.127.255,Rackspace,http://www.rackspace.com/
+37.203.157.0,37.203.157.255,Amazon AWS,http://www.amazon.com/aws/
 37.220.0.96,37.220.0.103,Redstation Limited,http://redstation.com/
 37.220.1.0,37.220.1.95,Redstation Limited,http://redstation.com/
 37.220.1.96,37.220.1.127,idealhosting,http://www.idealhosting.com/
@@ -830,6 +831,7 @@
 43.198.0.0,43.213.255.255,Amazon AWS,http://www.amazon.com/aws/
 43.216.0.0,43.218.255.255,Amazon AWS,http://www.amazon.com/aws/
 43.220.0.0,43.220.255.255,Amazon AWS,http://www.amazon.com/aws/
+43.226.27.0,43.226.27.255,Amazon AWS,http://www.amazon.com/aws/
 43.246.114.0,43.246.115.255,Psychz Networks,http://psychz.net/
 43.249.72.0,43.249.75.255,Fastly,https://www.fastly.com/
 43.250.72.0,43.250.75.255,Psychz Networks,http://psychz.net/

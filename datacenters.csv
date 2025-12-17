@@ -186,6 +186,7 @@
 16.50.0.0,16.52.255.255,Amazon AWS,http://www.amazon.com/aws/
 16.54.0.0,16.57.63.255,Amazon AWS,http://www.amazon.com/aws/
 16.58.0.0,16.58.255.255,Amazon AWS,http://www.amazon.com/aws/
+16.60.0.0,16.60.255.255,Amazon AWS,http://www.amazon.com/aws/
 16.62.0.0,16.64.127.255,Amazon AWS,http://www.amazon.com/aws/
 16.65.0.0,16.65.255.255,Amazon AWS,http://www.amazon.com/aws/
 16.71.0.0,16.71.127.255,Amazon AWS,http://www.amazon.com/aws/
@@ -824,7 +825,7 @@
 40.192.0.0,40.192.127.255,Amazon AWS,http://www.amazon.com/aws/
 41.216.184.0,41.216.184.255,Psychz Networks,http://psychz.net/
 42.1.60.0,42.1.63.255,Exa Bytes Network Sdn Bhd,http://exabytes.com/
-43.192.0.0,43.193.64.255,Amazon AWS,http://www.amazon.com/aws/
+43.192.0.0,43.193.65.255,Amazon AWS,http://www.amazon.com/aws/
 43.194.0.0,43.194.16.255,Amazon AWS,http://www.amazon.com/aws/
 43.195.0.0,43.195.15.255,Amazon AWS,http://www.amazon.com/aws/
 43.196.0.0,43.196.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -1194,7 +1195,7 @@
 54.222.52.0,54.222.55.255,Amazon AWS,http://www.amazon.com/aws/
 54.222.58.32,54.222.58.47,Amazon AWS,http://www.amazon.com/aws/
 54.222.64.0,54.222.65.255,Amazon AWS,http://www.amazon.com/aws/
-54.222.88.0,54.222.88.255,Amazon AWS,http://www.amazon.com/aws/
+54.222.88.0,54.222.89.255,Amazon AWS,http://www.amazon.com/aws/
 54.222.100.0,54.222.103.255,Amazon AWS,http://www.amazon.com/aws/
 54.222.128.0,54.229.255.255,Amazon AWS,http://www.amazon.com/aws/
 54.232.0.0,54.238.255.255,Amazon AWS,http://www.amazon.com/aws/

@@ -148,7 +148,7 @@
 14.102.144.0,14.102.146.255,IP ServerOne,http://ipserverone.com/
 14.128.8.0,14.128.11.255,Servenet Solution Limited Partnership,http://servenet.co.th/
 15.103.0.0,15.103.255.255,Amazon AWS,http://www.amazon.com/aws/
-15.128.0.0,15.128.255.255,Amazon AWS,http://www.amazon.com/aws/
+15.128.0.0,15.129.7.255,Amazon AWS,http://www.amazon.com/aws/
 15.134.0.0,15.135.255.255,Amazon AWS,http://www.amazon.com/aws/
 15.145.0.0,15.145.5.255,Amazon AWS,http://www.amazon.com/aws/
 15.145.8.0,15.145.25.255,Amazon AWS,http://www.amazon.com/aws/
@@ -4352,7 +4352,7 @@
 216.187.64.0,216.187.127.255,PEER 1,http://www.peer1.com/
 216.189.144.0,216.189.159.255,Host US,http://hostus.us/
 216.198.192.0,216.198.194.255,Amazon AWS,http://www.amazon.com/aws/
-216.198.196.0,216.198.247.255,Amazon AWS,http://www.amazon.com/aws/
+216.198.196.0,216.198.255.255,Amazon AWS,http://www.amazon.com/aws/
 216.211.128.0,216.211.143.255,Adhost,http://www.adhost.com/
 216.213.0.0,216.213.191.255,thorn.net,http://www.thorn.net/
 216.218.128.0,216.218.255.255,Hurricane Electric,http://www.he.net/

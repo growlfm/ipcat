@@ -1,6 +1,6 @@
 1.178.1.0,1.178.1.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.4.0,1.178.11.255,Amazon AWS,http://www.amazon.com/aws/
-1.178.16.0,1.178.25.255,Amazon AWS,http://www.amazon.com/aws/
+1.178.16.0,1.178.29.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.64.0,1.178.65.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.88.0,1.178.95.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.100.0,1.178.103.255,Amazon AWS,http://www.amazon.com/aws/
@@ -2395,6 +2395,7 @@
 103.8.124.0,103.8.127.255,CtrlS,http://www.ctrls.in/
 103.11.152.0,103.11.155.255,Web Werks,http://www.web-werks.com/
 103.11.244.0,103.11.247.255,easyhost.com.hk,http://easyhost.com.hk/
+103.13.188.0,103.13.189.255,Amazon AWS,http://www.amazon.com/aws/
 103.21.58.0,103.21.59.255,Confluence Networks Inc,http://confluence-networks.com/
 103.21.244.0,103.21.247.255,Cloudflare Inc,https://www.cloudflare.com/
 103.22.128.0,103.22.131.254,Voxel,http://www.voxel.net/

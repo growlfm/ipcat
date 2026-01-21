@@ -1,7 +1,6 @@
 1.178.1.0,1.178.1.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.4.0,1.178.11.255,Amazon AWS,http://www.amazon.com/aws/
-1.178.16.0,1.178.29.255,Amazon AWS,http://www.amazon.com/aws/
-1.178.31.0,1.178.31.255,Amazon AWS,http://www.amazon.com/aws/
+1.178.16.0,1.178.31.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.64.0,1.178.65.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.88.0,1.178.95.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.100.0,1.178.103.255,Amazon AWS,http://www.amazon.com/aws/
@@ -408,6 +407,7 @@
 31.220.220.0,31.220.223.255,Amazon AWS,http://www.amazon.com/aws/
 31.220.236.0,31.220.236.255,Amazon AWS,http://www.amazon.com/aws/
 31.220.247.0,31.220.247.255,Amazon AWS,http://www.amazon.com/aws/
+31.220.252.0,31.220.252.255,Amazon AWS,http://www.amazon.com/aws/
 31.222.128.0,31.222.191.255,Rackspace,http://www.rackspace.com/
 32.236.0.0,32.237.255.255,Amazon AWS,http://www.amazon.com/aws/
 34.0.0.0,34.0.227.255,Google Cloud,https://cloud.google.com/

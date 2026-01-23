@@ -165,7 +165,8 @@
 15.184.0.0,15.185.255.255,Amazon AWS,http://www.amazon.com/aws/
 15.188.0.0,15.188.255.255,Amazon AWS,http://www.amazon.com/aws/
 15.193.0.0,15.193.11.255,Amazon AWS,http://www.amazon.com/aws/
-15.193.32.0,15.193.32.255,Amazon AWS,http://www.amazon.com/aws/
+15.193.32.0,15.193.36.255,Amazon AWS,http://www.amazon.com/aws/
+15.193.40.0,15.193.55.255,Amazon AWS,http://www.amazon.com/aws/
 15.193.128.0,15.193.179.255,Amazon AWS,http://www.amazon.com/aws/
 15.200.0.0,15.200.255.255,Amazon AWS,http://www.amazon.com/aws/
 15.205.0.0,15.207.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -822,8 +823,7 @@
 40.126.128.0,40.127.32.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.127.64.0,40.127.111.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.127.128.0,40.127.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.168.224.0,40.168.224.255,Amazon AWS,http://www.amazon.com/aws/
-40.168.226.0,40.168.226.255,Amazon AWS,http://www.amazon.com/aws/
+40.168.224.0,40.168.231.255,Amazon AWS,http://www.amazon.com/aws/
 40.172.0.0,40.172.255.255,Amazon AWS,http://www.amazon.com/aws/
 40.176.0.0,40.177.255.255,Amazon AWS,http://www.amazon.com/aws/
 40.183.96.0,40.183.109.255,Psychz Networks,http://psychz.net/
@@ -3033,7 +3033,7 @@
 173.83.192.0,173.83.198.255,Amazon AWS,http://www.amazon.com/aws/
 173.83.200.0,173.83.214.255,Amazon AWS,http://www.amazon.com/aws/
 173.83.216.0,173.83.220.255,Amazon AWS,http://www.amazon.com/aws/
-173.83.224.0,173.83.227.255,Amazon AWS,http://www.amazon.com/aws/
+173.83.224.0,173.83.231.255,Amazon AWS,http://www.amazon.com/aws/
 173.192.0.0,173.192.245.255,SoftLayer,http://www.softlayer.com/
 173.192.248.0,173.193.255.255,SoftLayer,http://www.softlayer.com/
 173.195.0.0,173.195.15.255,Reliable Hosting,http://reliablehosting.com/

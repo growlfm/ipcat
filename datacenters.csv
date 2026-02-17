@@ -207,6 +207,8 @@
 16.176.0.0,16.176.255.255,Amazon AWS,http://www.amazon.com/aws/
 16.184.0.0,16.184.63.255,Amazon AWS,http://www.amazon.com/aws/
 16.208.0.0,16.209.255.255,Amazon AWS,http://www.amazon.com/aws/
+16.214.0.0,16.214.11.255,Amazon AWS,http://www.amazon.com/aws/
+16.214.16.0,16.214.59.255,Amazon AWS,http://www.amazon.com/aws/
 18.34.0.0,18.34.31.255,Amazon AWS,http://www.amazon.com/aws/
 18.34.48.0,18.34.63.255,Amazon AWS,http://www.amazon.com/aws/
 18.34.72.0,18.34.79.255,Amazon AWS,http://www.amazon.com/aws/
@@ -1319,6 +1321,8 @@
 64.69.64.0,64.69.95.255,PEER 1,http://www.peer1.com/
 64.71.128.0,64.71.191.255,Hurricane Electric,http://www.he.net/
 64.71.224.0,64.71.239.255,Webhosting.net,http://www.webhosting.net/
+64.73.192.0,64.73.202.223,Amazon AWS,http://www.amazon.com/aws/
+64.73.203.160,64.73.203.191,Amazon AWS,http://www.amazon.com/aws/
 64.77.0.0,64.77.127.255,PEER 1,http://www.peer1.com/
 64.79.96.0,64.79.111.255,Continuum Data Centers,http://www.continuumdatacenters.com/
 64.79.128.0,64.79.159.255,SWITCH Communications Group LLC,http://www.switchnap.com/

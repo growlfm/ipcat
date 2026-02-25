@@ -151,7 +151,7 @@
 14.102.144.0,14.102.146.255,IP ServerOne,http://ipserverone.com/
 14.128.8.0,14.128.11.255,Servenet Solution Limited Partnership,http://servenet.co.th/
 15.103.0.0,15.103.255.255,Amazon AWS,http://www.amazon.com/aws/
-15.128.0.0,15.129.30.255,Amazon AWS,http://www.amazon.com/aws/
+15.128.0.0,15.129.31.255,Amazon AWS,http://www.amazon.com/aws/
 15.134.0.0,15.135.255.255,Amazon AWS,http://www.amazon.com/aws/
 15.145.0.0,15.145.5.255,Amazon AWS,http://www.amazon.com/aws/
 15.145.8.0,15.145.25.255,Amazon AWS,http://www.amazon.com/aws/
@@ -185,14 +185,12 @@
 16.15.0.0,16.15.27.255,Amazon AWS,http://www.amazon.com/aws/
 16.15.32.0,16.15.47.255,Amazon AWS,http://www.amazon.com/aws/
 16.15.176.0,16.16.255.255,Amazon AWS,http://www.amazon.com/aws/
-16.18.0.0,16.18.255.255,Amazon AWS,http://www.amazon.com/aws/
+16.18.0.0,16.19.255.255,Amazon AWS,http://www.amazon.com/aws/
 16.22.0.0,16.22.255.255,Amazon AWS,http://www.amazon.com/aws/
 16.24.0.0,16.28.255.255,Amazon AWS,http://www.amazon.com/aws/
 16.50.0.0,16.52.255.255,Amazon AWS,http://www.amazon.com/aws/
 16.54.0.0,16.57.63.255,Amazon AWS,http://www.amazon.com/aws/
-16.58.0.0,16.58.255.255,Amazon AWS,http://www.amazon.com/aws/
-16.60.0.0,16.60.255.255,Amazon AWS,http://www.amazon.com/aws/
-16.62.0.0,16.64.127.255,Amazon AWS,http://www.amazon.com/aws/
+16.58.0.0,16.64.127.255,Amazon AWS,http://www.amazon.com/aws/
 16.65.0.0,16.65.255.255,Amazon AWS,http://www.amazon.com/aws/
 16.71.0.0,16.71.127.255,Amazon AWS,http://www.amazon.com/aws/
 16.76.0.0,16.76.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -206,6 +204,7 @@
 16.174.0.0,16.174.255.255,Amazon AWS,http://www.amazon.com/aws/
 16.176.0.0,16.176.255.255,Amazon AWS,http://www.amazon.com/aws/
 16.184.0.0,16.184.63.255,Amazon AWS,http://www.amazon.com/aws/
+16.192.0.0,16.192.255.255,Amazon AWS,http://www.amazon.com/aws/
 16.208.0.0,16.209.255.255,Amazon AWS,http://www.amazon.com/aws/
 16.214.0.0,16.214.11.255,Amazon AWS,http://www.amazon.com/aws/
 16.214.16.0,16.214.59.255,Amazon AWS,http://www.amazon.com/aws/
@@ -826,6 +825,7 @@
 40.183.112.0,40.183.115.255,Psychz Networks,http://psychz.net/
 40.183.118.0,40.183.127.255,Psychz Networks,http://psychz.net/
 40.192.0.0,40.192.127.255,Amazon AWS,http://www.amazon.com/aws/
+40.235.64.0,40.235.127.255,Amazon AWS,http://www.amazon.com/aws/
 41.216.184.0,41.216.184.255,Psychz Networks,http://psychz.net/
 42.1.60.0,42.1.63.255,Exa Bytes Network Sdn Bhd,http://exabytes.com/
 43.192.0.0,43.193.65.255,Amazon AWS,http://www.amazon.com/aws/
@@ -1235,7 +1235,7 @@
 54.232.0.0,54.238.255.255,Amazon AWS,http://www.amazon.com/aws/
 54.239.103.128,54.239.103.191,Amazon AWS,http://www.amazon.com/aws/
 54.241.0.0,54.255.255.255,Amazon AWS,http://www.amazon.com/aws/
-56.10.0.0,56.10.255.255,Amazon AWS,http://www.amazon.com/aws/
+56.10.0.0,56.11.255.255,Amazon AWS,http://www.amazon.com/aws/
 56.68.0.0,56.68.127.255,Amazon AWS,http://www.amazon.com/aws/
 56.69.0.0,56.70.255.255,Amazon AWS,http://www.amazon.com/aws/
 56.112.0.0,56.112.255.255,Amazon AWS,http://www.amazon.com/aws/

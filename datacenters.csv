@@ -156,7 +156,7 @@
 14.102.144.0,14.102.146.255,IP ServerOne,http://ipserverone.com/
 14.128.8.0,14.128.11.255,Servenet Solution Limited Partnership,http://servenet.co.th/
 15.103.0.0,15.103.255.255,Amazon AWS,http://www.amazon.com/aws/
-15.128.0.0,15.129.35.255,Amazon AWS,http://www.amazon.com/aws/
+15.128.0.0,15.129.37.255,Amazon AWS,http://www.amazon.com/aws/
 15.134.0.0,15.135.255.255,Amazon AWS,http://www.amazon.com/aws/
 15.145.0.0,15.145.5.255,Amazon AWS,http://www.amazon.com/aws/
 15.145.8.0,15.145.25.255,Amazon AWS,http://www.amazon.com/aws/
@@ -334,7 +334,6 @@
 23.226.64.0,23.226.79.255,Input Output Flood LLC,http://ioflood.com/
 23.227.160.0,23.227.191.255,Incero,http://www.incero.com/
 23.228.196.0,23.228.198.255,Amazon AWS,http://www.amazon.com/aws/
-23.228.213.0,23.228.214.255,Amazon AWS,http://www.amazon.com/aws/
 23.228.219.0,23.228.219.255,Amazon AWS,http://www.amazon.com/aws/
 23.228.228.0,23.228.231.255,Amazon AWS,http://www.amazon.com/aws/
 23.231.0.0,23.231.127.255,infinitie.net,http://www.serverhub.com/
@@ -1026,7 +1025,7 @@
 51.56.0.0,51.56.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 51.57.0.0,51.58.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 51.59.0.0,51.59.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-51.72.0.0,51.74.16.255,Amazon AWS,http://www.amazon.com/aws/
+51.72.0.0,51.74.17.255,Amazon AWS,http://www.amazon.com/aws/
 51.84.0.0,51.85.255.255,Amazon AWS,http://www.amazon.com/aws/
 51.92.0.0,51.92.255.255,Amazon AWS,http://www.amazon.com/aws/
 51.94.0.0,51.96.255.255,Amazon AWS,http://www.amazon.com/aws/

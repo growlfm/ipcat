@@ -91,8 +91,8 @@
 8.30.160.0,8.30.167.255,Native Hosting,http://nativehosting.com/
 8.34.208.0,8.34.223.255,Google Cloud,https://cloud.google.com/
 8.35.192.0,8.35.199.255,Google Cloud,https://cloud.google.com/
-8.228.0.0,8.228.239.255,Google Cloud,https://cloud.google.com/
-8.229.0.0,8.230.127.255,Google Cloud,https://cloud.google.com/
+8.228.0.0,8.230.127.255,Google Cloud,https://cloud.google.com/
+8.231.32.0,8.231.255.255,Google Cloud,https://cloud.google.com/
 9.141.0.0,9.141.191.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 9.160.0.0,9.160.191.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 9.163.0.0,9.163.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -430,7 +430,7 @@
 34.3.76.0,34.3.111.255,Google Cloud,https://cloud.google.com/
 34.4.16.0,34.4.19.255,Google Cloud,https://cloud.google.com/
 34.4.24.0,34.4.99.255,Google Cloud,https://cloud.google.com/
-34.4.102.0,34.4.103.255,Google Cloud,https://cloud.google.com/
+34.4.102.0,34.4.111.255,Google Cloud,https://cloud.google.com/
 34.4.128.0,34.4.191.255,Google Cloud,https://cloud.google.com/
 34.6.0.0,34.13.63.255,Google Cloud,https://cloud.google.com/
 34.13.68.0,34.13.79.255,Google Cloud,https://cloud.google.com/
@@ -468,6 +468,7 @@
 34.128.58.0,34.128.191.255,Google Cloud,https://cloud.google.com/
 34.128.208.0,34.128.239.255,Google Cloud,https://cloud.google.com/
 34.129.0.0,34.142.255.255,Google Cloud,https://cloud.google.com/
+34.143.64.0,34.143.71.255,Google Cloud,https://cloud.google.com/
 34.143.128.0,34.143.255.255,Google Cloud,https://cloud.google.com/
 34.144.176.0,34.152.69.255,Google Cloud,https://cloud.google.com/
 34.152.72.0,34.152.81.255,Google Cloud,https://cloud.google.com/
@@ -491,14 +492,14 @@
 34.157.140.0,34.157.213.255,Google Cloud,https://cloud.google.com/
 34.157.215.0,34.157.247.255,Google Cloud,https://cloud.google.com/
 34.157.249.0,34.157.255.255,Google Cloud,https://cloud.google.com/
-34.158.16.0,34.158.239.255,Google Cloud,https://cloud.google.com/
+34.158.8.0,34.158.247.255,Google Cloud,https://cloud.google.com/
 34.159.0.0,34.166.255.255,Google Cloud,https://cloud.google.com/
 34.168.0.0,34.176.255.255,Google Cloud,https://cloud.google.com/
 34.177.32.0,34.177.37.255,Google Cloud,https://cloud.google.com/
 34.177.40.0,34.177.55.255,Google Cloud,https://cloud.google.com/
 34.177.64.0,34.177.66.255,Google Cloud,https://cloud.google.com/
 34.177.68.0,34.177.78.127,Google Cloud,https://cloud.google.com/
-34.177.79.0,34.177.111.255,Google Cloud,https://cloud.google.com/
+34.177.79.0,34.177.119.255,Google Cloud,https://cloud.google.com/
 34.178.0.0,34.180.127.255,Google Cloud,https://cloud.google.com/
 34.181.0.0,34.183.9.255,Google Cloud,https://cloud.google.com/
 34.183.12.0,34.183.19.255,Google Cloud,https://cloud.google.com/
@@ -568,8 +569,7 @@
 35.242.31.0,35.243.15.255,Google Cloud,https://cloud.google.com/
 35.243.32.0,35.243.47.255,Google Cloud,https://cloud.google.com/
 35.243.56.0,35.247.255.255,Google Cloud,https://cloud.google.com/
-35.252.0.0,35.252.63.255,Google Cloud,https://cloud.google.com/
-35.253.0.0,35.255.255.255,Google Cloud,https://cloud.google.com/
+35.252.0.0,35.255.255.255,Google Cloud,https://cloud.google.com/
 37.9.169.0,37.9.169.255,WebSupport,https://www.websupport.sk/
 37.9.224.0,37.9.228.223,seeweb.it,http://seeweb.it/
 37.10.0.0,37.10.127.255,Optimate Server,http://optimate-server.de/

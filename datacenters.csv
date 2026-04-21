@@ -4,7 +4,7 @@
 1.178.64.0,1.178.65.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.86.0,1.178.95.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.100.0,1.178.103.255,Amazon AWS,http://www.amazon.com/aws/
-1.178.174.0,1.178.174.255,Amazon AWS,http://www.amazon.com/aws/
+1.178.172.0,1.178.174.255,Amazon AWS,http://www.amazon.com/aws/
 1.179.101.0,1.179.103.255,Amazon AWS,http://www.amazon.com/aws/
 2.16.0.0,2.23.255.255,Akamai,http://akamai.com/
 2.56.8.0,2.56.9.255,Psychz Networks,http://psychz.net/
@@ -416,7 +416,7 @@
 31.220.247.0,31.220.247.255,Amazon AWS,http://www.amazon.com/aws/
 31.220.252.0,31.220.252.255,Amazon AWS,http://www.amazon.com/aws/
 31.222.128.0,31.222.191.255,Rackspace,http://www.rackspace.com/
-32.192.0.0,32.199.255.255,Amazon AWS,http://www.amazon.com/aws/
+32.184.0.0,32.199.255.255,Amazon AWS,http://www.amazon.com/aws/
 32.236.0.0,32.237.255.255,Amazon AWS,http://www.amazon.com/aws/
 34.0.0.0,34.0.227.255,Google Cloud,https://cloud.google.com/
 34.0.240.0,34.1.63.255,Google Cloud,https://cloud.google.com/

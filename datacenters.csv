@@ -3066,9 +3066,7 @@
 173.44.32.0,173.44.63.255,QuadraNet,https://quadranet.com/
 173.44.128.0,173.44.255.255,infinitie.net,http://www.serverhub.com/
 173.45.224.0,173.45.255.255,Rackspace,http://www.rackspace.com/
-173.83.192.0,173.83.198.255,Amazon AWS,http://www.amazon.com/aws/
-173.83.200.0,173.83.214.255,Amazon AWS,http://www.amazon.com/aws/
-173.83.216.0,173.83.220.255,Amazon AWS,http://www.amazon.com/aws/
+173.83.192.0,173.83.222.255,Amazon AWS,http://www.amazon.com/aws/
 173.83.224.0,173.83.231.255,Amazon AWS,http://www.amazon.com/aws/
 173.192.0.0,173.192.245.255,SoftLayer,http://www.softlayer.com/
 173.192.248.0,173.193.255.255,SoftLayer,http://www.softlayer.com/

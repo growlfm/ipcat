@@ -157,7 +157,7 @@
 14.102.144.0,14.102.146.255,IP ServerOne,http://ipserverone.com/
 14.128.8.0,14.128.11.255,Servenet Solution Limited Partnership,http://servenet.co.th/
 15.103.0.0,15.103.255.255,Amazon AWS,http://www.amazon.com/aws/
-15.128.0.0,15.129.56.255,Amazon AWS,http://www.amazon.com/aws/
+15.128.0.0,15.129.60.255,Amazon AWS,http://www.amazon.com/aws/
 15.134.0.0,15.135.255.255,Amazon AWS,http://www.amazon.com/aws/
 15.145.0.0,15.145.5.255,Amazon AWS,http://www.amazon.com/aws/
 15.145.8.0,15.145.25.255,Amazon AWS,http://www.amazon.com/aws/
@@ -175,6 +175,7 @@
 15.193.32.0,15.193.63.255,Amazon AWS,http://www.amazon.com/aws/
 15.193.128.0,15.193.179.255,Amazon AWS,http://www.amazon.com/aws/
 15.200.0.0,15.200.255.255,Amazon AWS,http://www.amazon.com/aws/
+15.201.1.0,15.201.1.255,Amazon AWS,http://www.amazon.com/aws/
 15.205.0.0,15.207.255.255,Amazon AWS,http://www.amazon.com/aws/
 15.216.0.0,15.217.255.255,Amazon AWS,http://www.amazon.com/aws/
 15.220.0.0,15.220.43.255,Amazon AWS,http://www.amazon.com/aws/

@@ -1120,6 +1120,7 @@
 51.56.0.0,51.56.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 51.57.0.0,51.59.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 51.72.0.0,51.74.17.255,Amazon AWS,http://www.amazon.com/aws/
+51.74.128.0,51.74.191.255,Amazon AWS,http://www.amazon.com/aws/
 51.84.0.0,51.85.255.255,Amazon AWS,http://www.amazon.com/aws/
 51.92.0.0,51.92.255.255,Amazon AWS,http://www.amazon.com/aws/
 51.94.0.0,51.96.255.255,Amazon AWS,http://www.amazon.com/aws/

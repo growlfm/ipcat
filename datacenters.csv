@@ -93,6 +93,7 @@
 8.35.192.0,8.35.199.255,Google Cloud,https://cloud.google.com/
 8.228.0.0,8.230.127.255,Google Cloud,https://cloud.google.com/
 8.231.32.0,8.233.255.255,Google Cloud,https://cloud.google.com/
+8.234.128.0,8.235.255.255,Google Cloud,https://cloud.google.com/
 9.141.0.0,9.141.191.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 9.160.0.0,9.160.223.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 9.163.0.0,9.163.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -522,13 +523,15 @@
 34.183.32.0,34.183.37.255,Google Cloud,https://cloud.google.com/
 34.183.40.0,34.183.47.255,Google Cloud,https://cloud.google.com/
 34.183.50.0,34.183.61.255,Google Cloud,https://cloud.google.com/
-34.183.66.0,34.183.81.255,Google Cloud,https://cloud.google.com/
+34.183.66.0,34.183.82.255,Google Cloud,https://cloud.google.com/
+34.183.84.0,34.183.87.255,Google Cloud,https://cloud.google.com/
 34.184.0.0,34.184.9.255,Google Cloud,https://cloud.google.com/
 34.184.12.0,34.184.19.255,Google Cloud,https://cloud.google.com/
 34.184.22.0,34.184.27.255,Google Cloud,https://cloud.google.com/
 34.184.30.0,34.184.35.255,Google Cloud,https://cloud.google.com/
 34.184.40.0,34.184.59.255,Google Cloud,https://cloud.google.com/
-34.184.64.0,34.184.80.255,Google Cloud,https://cloud.google.com/
+34.184.64.0,34.184.81.255,Google Cloud,https://cloud.google.com/
+34.184.84.0,34.184.87.255,Google Cloud,https://cloud.google.com/
 34.185.128.0,34.187.255.255,Google Cloud,https://cloud.google.com/
 34.192.0.0,34.255.255.255,Amazon AWS,http://www.amazon.com/aws/
 35.42.0.0,35.42.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -2874,6 +2877,7 @@
 136.18.128.0,136.18.163.255,Amazon AWS,http://www.amazon.com/aws/
 136.18.168.0,136.18.175.255,Amazon AWS,http://www.amazon.com/aws/
 136.18.254.0,136.18.255.255,Amazon AWS,http://www.amazon.com/aws/
+136.64.0.0,136.67.255.255,Google Cloud,https://cloud.google.com/
 136.107.0.0,136.119.255.255,Google Cloud,https://cloud.google.com/
 137.74.0.0,137.74.255.255,OVH,https://www.ovh.ie/
 137.116.0.0,137.116.99.255,Microsoft Azure,http://www.windowsazure.com/en-us/

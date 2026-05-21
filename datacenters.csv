@@ -1152,6 +1152,7 @@
 51.142.48.0,51.142.55.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 51.142.64.0,51.145.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 51.168.0.0,51.169.255.255,Amazon AWS,http://www.amazon.com/aws/
+51.200.0.0,51.201.255.255,Amazon AWS,http://www.amazon.com/aws/
 51.224.0.0,51.225.255.255,Amazon AWS,http://www.amazon.com/aws/
 51.254.0.0,51.255.255.255,OVH,http://www.ovh.co.uk/
 52.0.0.0,52.45.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -1465,7 +1466,9 @@
 64.69.64.0,64.69.95.255,PEER 1,http://www.peer1.com/
 64.71.128.0,64.71.191.255,Hurricane Electric,http://www.he.net/
 64.71.224.0,64.71.239.255,Webhosting.net,http://www.webhosting.net/
-64.73.192.0,64.73.216.255,Amazon AWS,http://www.amazon.com/aws/
+64.73.192.0,64.73.194.255,Amazon AWS,http://www.amazon.com/aws/
+64.73.196.0,64.73.197.255,Amazon AWS,http://www.amazon.com/aws/
+64.73.202.0,64.73.216.255,Amazon AWS,http://www.amazon.com/aws/
 64.77.0.0,64.77.127.255,PEER 1,http://www.peer1.com/
 64.79.96.0,64.79.111.255,Continuum Data Centers,http://www.continuumdatacenters.com/
 64.79.128.0,64.79.159.255,SWITCH Communications Group LLC,http://www.switchnap.com/
@@ -3444,6 +3447,7 @@
 184.171.240.0,184.171.255.255,DimeNOC,http://dimenoc.com/
 184.172.0.0,184.173.255.255,"ThePlanet.com Internet Services, Inc.",http://theplanet.com
 184.174.0.0,184.174.127.255,Colocation America Inc,http://www.colocationamerica.com/
+184.192.0.0,184.207.255.255,Amazon AWS,http://www.amazon.com/aws/
 185.2.8.0,185.2.11.255,ISPpro Germany,http://isppro.de/
 185.4.92.0,185.4.95.255,inAsset,https://inasset.es/
 185.5.96.0,185.5.99.255,Biznes-Host.pl,http://biznes-host.pl

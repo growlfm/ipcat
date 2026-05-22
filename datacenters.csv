@@ -1991,6 +1991,7 @@
 77.93.192.0,77.93.223.255,Master Internet S.R.O.,http://www.master.cz/
 77.94.240.0,77.94.247.255,Global-e Datacenter B.V.,http://www.global-datacenter.nl
 77.95.224.0,77.95.231.255,Snel Internet Services B.V.,https://www.snelserver.com/
+77.112.0.0,77.115.255.255,Amazon AWS,http://www.amazon.com/aws/
 77.120.108.128,77.120.108.191,Volia Datacenter,http://www.hosting-service.com.ua
 77.221.128.0,77.221.143.255,Infobox,https://infobox.ru/
 77.222.40.0,77.222.43.255,SpaceWeb,https://sweb.ru/

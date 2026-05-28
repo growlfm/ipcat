@@ -1097,9 +1097,9 @@
 40.235.192.0,40.235.255.255,Amazon AWS,http://www.amazon.com/aws/
 41.216.184.0,41.216.184.255,Psychz Networks,http://psychz.net/
 42.1.60.0,42.1.63.255,Exa Bytes Network Sdn Bhd,http://exabytes.com/
-43.192.0.0,43.193.65.255,Amazon AWS,http://www.amazon.com/aws/
+43.192.0.0,43.193.67.255,Amazon AWS,http://www.amazon.com/aws/
 43.194.0.0,43.194.16.255,Amazon AWS,http://www.amazon.com/aws/
-43.195.0.0,43.195.15.255,Amazon AWS,http://www.amazon.com/aws/
+43.195.0.0,43.195.21.255,Amazon AWS,http://www.amazon.com/aws/
 43.196.0.0,43.196.255.255,Amazon AWS,http://www.amazon.com/aws/
 43.198.0.0,43.213.255.255,Amazon AWS,http://www.amazon.com/aws/
 43.216.0.0,43.218.255.255,Amazon AWS,http://www.amazon.com/aws/

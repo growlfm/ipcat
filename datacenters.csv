@@ -3038,8 +3038,8 @@
 136.18.128.0,136.18.163.255,Amazon AWS,http://www.amazon.com/aws/
 136.18.168.0,136.18.175.255,Amazon AWS,http://www.amazon.com/aws/
 136.18.254.0,136.18.255.255,Amazon AWS,http://www.amazon.com/aws/
-136.23.64.0,136.23.95.255,Google Cloud,https://cloud.google.com/
-136.64.0.0,136.70.63.255,Google Cloud,https://cloud.google.com/
+136.23.64.0,136.23.127.255,Google Cloud,https://cloud.google.com/
+136.64.0.0,136.71.255.255,Google Cloud,https://cloud.google.com/
 136.107.0.0,136.119.255.255,Google Cloud,https://cloud.google.com/
 137.74.0.0,137.74.255.255,OVH,https://www.ovh.ie/
 137.116.0.0,137.116.99.255,Microsoft Azure,http://www.windowsazure.com/en-us/

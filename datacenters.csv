@@ -550,6 +550,7 @@
 35.50.224.0,35.50.224.255,Amazon AWS,http://www.amazon.com/aws/
 35.50.226.0,35.50.239.255,Amazon AWS,http://www.amazon.com/aws/
 35.54.32.0,35.54.62.255,Amazon AWS,http://www.amazon.com/aws/
+35.54.64.0,35.54.127.255,Amazon AWS,http://www.amazon.com/aws/
 35.55.1.0,35.55.27.255,Amazon AWS,http://www.amazon.com/aws/
 35.55.29.0,35.55.30.255,Amazon AWS,http://www.amazon.com/aws/
 35.55.32.0,35.55.42.255,Amazon AWS,http://www.amazon.com/aws/

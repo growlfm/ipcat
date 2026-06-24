@@ -699,7 +699,7 @@
 37.221.160.224,37.221.160.255,CINIPAC,http://cinipac.com/
 37.235.49.0,37.235.49.255,EDIS,http://www.edis.at/
 37.235.53.0,37.235.63.255,EDIS,http://www.edis.at/
-40.38.0.0,40.38.255.255,Amazon AWS,http://www.amazon.com/aws/
+40.38.0.0,40.39.255.255,Amazon AWS,http://www.amazon.com/aws/
 40.64.0.0,40.64.135.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.64.144.0,40.64.144.95,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.64.144.128,40.64.147.79,Microsoft Azure,http://www.windowsazure.com/en-us/

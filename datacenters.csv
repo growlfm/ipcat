@@ -1505,7 +1505,6 @@
 63.246.0.0,63.246.31.255,Xiolink,http://xiolink.com
 63.246.112.0,63.246.113.255,Amazon AWS,http://www.amazon.com/aws/
 63.246.119.0,63.246.119.255,Amazon AWS,http://www.amazon.com/aws/
-63.249.128.0,63.249.255.255,C I Host,http://www.cihost.com/
 64.4.8.0,64.4.8.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 64.4.54.0,64.4.54.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 64.5.32.0,64.5.63.255,"ThePlanet.com Internet Services, Inc.",http://theplanet.com
@@ -1572,7 +1571,7 @@
 64.151.64.0,64.151.127.255,GoGrid,http://www.gogrid.com/
 64.156.112.0,64.156.127.255,Hostway,http://www.hostway.com/
 64.179.224.0,64.179.239.255,LightEdge,http://www.lightedge.com
-64.182.0.0,64.182.255.255,C I Host,http://www.cihost.com/
+64.182.0.0,64.182.255.255,Corespace,https://corespace.com/
 64.187.96.0,64.187.127.255,AccelerateBiz Inc.,http://www.acceleratebiz.com/
 64.187.128.0,64.187.143.255,Amazon AWS,http://www.amazon.com/aws/
 64.191.0.0,64.191.127.255,hostnoc,http://www.hostnoc.net/
@@ -1646,7 +1645,6 @@
 66.23.224.0,66.23.239.255,InterServer.net,http://www.interserver.net/
 66.33.0.0,66.33.127.255,PEER 1,http://www.peer1.com/
 66.33.192.0,66.33.223.255,Dreamhost,http://www.dreamhost.com/
-66.34.0.0,66.34.255.255,C I Host,http://www.cihost.com/
 66.36.96.0,66.36.111.255,PEER 1,http://www.peer1.com/
 66.36.224.0,66.36.255.255,HopOne,http://www.hopone.net/
 66.39.0.0,66.39.159.255,Pair Networks,http://www.pair.com/
@@ -1693,7 +1691,6 @@
 66.219.16.0,66.219.31.255,netriplex,http://www.netriplex.com/
 66.219.96.0,66.219.111.255,Advanced Internet Technologies,http://www.ait.com/
 66.220.0.0,66.220.31.255,Hurricane Electric,http://www.he.net/
-66.221.0.0,66.221.255.255,C I Host,http://www.cihost.com/
 66.223.0.0,66.223.127.255,PEER 1,http://www.peer1.com/
 66.225.192.0,66.225.255.255,ServerCentral,http://www.servercentral.net/
 66.226.72.0,66.226.79.255,Codero,http://www.codero.com/
@@ -1819,7 +1816,7 @@
 69.10.32.0,69.10.63.255,InterServer.net,http://www.interserver.net/
 69.10.128.0,69.10.159.255,RackForce,http://www.rockforce.com/
 69.12.64.0,69.12.95.255,QuadraNet,https://quadranet.com/
-69.13.0.0,69.13.255.255,C I Host,http://www.cihost.com/
+69.13.0.0,69.13.255.255,Corespace,https://corespace.com/
 69.16.192.0,69.16.255.255,Liquid Web,http://www.liquidweb.com/
 69.20.0.0,69.20.127.255,Rackspace,http://www.rackspace.com/
 69.24.64.0,69.24.95.255,Gearhost,http://www.gearhost.com/
@@ -4422,7 +4419,6 @@
 209.159.144.0,209.159.159.255,InterServer.net,http://www.interserver.net/
 209.160.0.0,209.160.79.255,HopOne,http://www.hopone.net/
 209.164.0.0,209.164.63.255,HostMySite.com,http://www.webmysite.com/
-209.164.64.0,209.164.127.255,C I Host,http://www.cihost.com/
 209.172.32.0,209.172.63.255,iWeb Technologies Inc.,http://iweb.com/
 209.173.240.0,209.173.255.255,Securewebs.com,http://www.securewebs.com/
 209.177.80.0,209.177.95.255,Zenlayer,http://www.zenlayer.com/
@@ -4572,7 +4568,6 @@
 216.87.208.0,216.87.223.255,PEER 1,http://www.peer1.com/
 216.92.0.0,216.92.255.255,Pair Networks,http://www.pair.com/
 216.93.160.0,216.93.191.255,GoGrid,http://www.gogrid.com/
-216.97.0.0,216.97.127.255,C I Host,http://www.cihost.com/
 216.97.224.0,216.97.239.255,Lunar Pages,http://www.lunarpages.com/
 216.98.128.0,216.98.159.255,cari.net,http://cari.net/
 216.104.32.0,216.104.47.255,SingleHop,http://www.singlehop.com/
@@ -4618,7 +4613,6 @@
 216.218.128.0,216.218.255.255,Hurricane Electric,http://www.he.net/
 216.219.80.0,216.219.95.255,Host Department LLC,http://www.hostdepartment.com/
 216.220.208.0,216.220.212.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-216.221.160.0,216.221.191.255,C I Host,http://www.cihost.com/
 216.222.192.0,216.222.207.255,Jumpline Inc,http://www.jumpline.com/
 216.224.112.0,216.224.127.255,ethr.net,http://ethr.net/
 216.227.208.0,216.227.223.255,Lunar Pages,http://www.lunarpages.com/

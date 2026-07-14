@@ -1,7 +1,7 @@
 Datacenter Name, Total IPs
-Amazon AWS,76821053
+Amazon AWS,76886845
 Microsoft Azure,50166931
-Google Cloud,19084672
+Google Cloud,19091840
 Akamai,13172736
 DigitalOcean,2653312
 SoftLayer,1903104
@@ -17,7 +17,6 @@ Hetzner Online AG,697664
 GoDaddy.com Inc,668672
 1&1 Internet,368640
 Hurricane Electric,359424
-C I Host,352256
 Leaseweb,345344
 infinitie.net,313344
 Fastly,304128
@@ -60,6 +59,7 @@ everhost,141312
 colo4dallas.com,139264
 The Endurance International Group Inc,132096
 1000dedi.net,131072
+Corespace,131072
 Enzu USA,131072
 IT.NET,131072
 OVH CA,131072

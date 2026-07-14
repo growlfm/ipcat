@@ -2,6 +2,7 @@
 1.178.4.0,1.178.11.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.16.0,1.178.31.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.64.0,1.178.65.255,Amazon AWS,http://www.amazon.com/aws/
+1.178.86.0,1.178.86.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.88.0,1.178.95.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.100.0,1.178.103.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.174.0,1.178.174.255,Amazon AWS,http://www.amazon.com/aws/
@@ -92,7 +93,7 @@
 8.228.0.0,8.230.127.255,Google Cloud,https://cloud.google.com/
 8.231.32.0,8.233.255.255,Google Cloud,https://cloud.google.com/
 8.234.2.0,8.234.17.255,Google Cloud,https://cloud.google.com/
-8.234.32.0,8.235.255.255,Google Cloud,https://cloud.google.com/
+8.234.20.0,8.235.255.255,Google Cloud,https://cloud.google.com/
 9.129.0.0,9.129.58.159,Microsoft Azure,http://www.windowsazure.com/en-us/
 9.141.0.0,9.141.191.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 9.160.0.0,9.160.223.255,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -192,7 +193,7 @@
 15.228.0.0,15.229.255.255,Amazon AWS,http://www.amazon.com/aws/
 15.232.0.0,15.233.255.255,Amazon AWS,http://www.amazon.com/aws/
 15.236.0.0,15.237.255.255,Amazon AWS,http://www.amazon.com/aws/
-15.240.0.0,15.240.255.255,Amazon AWS,http://www.amazon.com/aws/
+15.240.0.0,15.241.255.255,Amazon AWS,http://www.amazon.com/aws/
 15.252.0.0,15.254.255.255,Amazon AWS,http://www.amazon.com/aws/
 16.15.0.0,16.15.27.255,Amazon AWS,http://www.amazon.com/aws/
 16.15.32.0,16.15.59.255,Amazon AWS,http://www.amazon.com/aws/
@@ -481,6 +482,7 @@
 34.127.156.0,34.127.175.255,Google Cloud,https://cloud.google.com/
 34.127.177.0,34.127.180.255,Google Cloud,https://cloud.google.com/
 34.127.184.0,34.127.191.255,Google Cloud,https://cloud.google.com/
+34.128.4.0,34.128.7.255,Google Cloud,https://cloud.google.com/
 34.128.32.0,34.128.37.255,Google Cloud,https://cloud.google.com/
 34.128.42.0,34.128.49.255,Google Cloud,https://cloud.google.com/
 34.128.52.0,34.128.55.255,Google Cloud,https://cloud.google.com/
@@ -489,7 +491,7 @@
 34.129.0.0,34.142.255.255,Google Cloud,https://cloud.google.com/
 34.143.64.0,34.143.71.255,Google Cloud,https://cloud.google.com/
 34.143.128.0,34.143.255.255,Google Cloud,https://cloud.google.com/
-34.144.176.0,34.152.69.255,Google Cloud,https://cloud.google.com/
+34.144.172.0,34.152.69.255,Google Cloud,https://cloud.google.com/
 34.152.72.0,34.152.81.255,Google Cloud,https://cloud.google.com/
 34.152.84.0,34.152.87.255,Google Cloud,https://cloud.google.com/
 34.152.96.0,34.152.98.255,Google Cloud,https://cloud.google.com/
@@ -517,7 +519,7 @@
 34.177.40.0,34.177.55.255,Google Cloud,https://cloud.google.com/
 34.177.64.0,34.177.66.255,Google Cloud,https://cloud.google.com/
 34.177.68.0,34.177.78.127,Google Cloud,https://cloud.google.com/
-34.177.79.0,34.177.119.255,Google Cloud,https://cloud.google.com/
+34.177.79.0,34.177.123.255,Google Cloud,https://cloud.google.com/
 34.178.0.0,34.180.127.255,Google Cloud,https://cloud.google.com/
 34.181.0.0,34.183.9.255,Google Cloud,https://cloud.google.com/
 34.183.12.0,34.183.19.255,Google Cloud,https://cloud.google.com/
@@ -577,6 +579,7 @@
 35.220.31.0,35.228.255.255,Google Cloud,https://cloud.google.com/
 35.229.16.0,35.230.191.255,Google Cloud,https://cloud.google.com/
 35.230.240.0,35.235.127.255,Google Cloud,https://cloud.google.com/
+35.235.172.0,35.235.175.255,Google Cloud,https://cloud.google.com/
 35.235.216.0,35.235.223.255,Google Cloud,https://cloud.google.com/
 35.236.0.0,35.242.27.255,Google Cloud,https://cloud.google.com/
 35.242.31.0,35.243.15.255,Google Cloud,https://cloud.google.com/
@@ -1505,6 +1508,7 @@
 63.246.0.0,63.246.31.255,Xiolink,http://xiolink.com
 63.246.112.0,63.246.113.255,Amazon AWS,http://www.amazon.com/aws/
 63.246.119.0,63.246.119.255,Amazon AWS,http://www.amazon.com/aws/
+63.249.128.0,63.249.215.255,Amazon AWS,http://www.amazon.com/aws/
 64.4.8.0,64.4.8.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 64.4.54.0,64.4.54.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 64.5.32.0,64.5.63.255,"ThePlanet.com Internet Services, Inc.",http://theplanet.com

@@ -479,6 +479,7 @@
 34.124.112.0,34.125.255.255,Google Cloud,https://cloud.google.com/
 34.126.64.0,34.126.223.255,Google Cloud,https://cloud.google.com/
 34.127.0.0,34.127.127.255,Google Cloud,https://cloud.google.com/
+34.127.145.0,34.127.146.255,Google Cloud,https://cloud.google.com/
 34.127.156.0,34.127.175.255,Google Cloud,https://cloud.google.com/
 34.127.177.0,34.127.180.255,Google Cloud,https://cloud.google.com/
 34.127.184.0,34.127.191.255,Google Cloud,https://cloud.google.com/
@@ -549,7 +550,7 @@
 35.50.208.0,35.50.214.255,Amazon AWS,http://www.amazon.com/aws/
 35.50.224.0,35.50.224.255,Amazon AWS,http://www.amazon.com/aws/
 35.50.226.0,35.50.242.255,Amazon AWS,http://www.amazon.com/aws/
-35.54.32.0,35.54.62.255,Amazon AWS,http://www.amazon.com/aws/
+35.54.16.0,35.54.62.255,Amazon AWS,http://www.amazon.com/aws/
 35.54.64.0,35.54.127.255,Amazon AWS,http://www.amazon.com/aws/
 35.55.1.0,35.55.27.255,Amazon AWS,http://www.amazon.com/aws/
 35.55.29.0,35.55.30.255,Amazon AWS,http://www.amazon.com/aws/
@@ -1503,7 +1504,10 @@
 63.246.0.0,63.246.31.255,Xiolink,http://xiolink.com
 63.246.112.0,63.246.113.255,Amazon AWS,http://www.amazon.com/aws/
 63.246.119.0,63.246.119.255,Amazon AWS,http://www.amazon.com/aws/
-63.249.128.0,63.249.216.255,Amazon AWS,http://www.amazon.com/aws/
+63.249.128.0,63.249.133.255,Amazon AWS,http://www.amazon.com/aws/
+63.249.138.0,63.249.186.255,Amazon AWS,http://www.amazon.com/aws/
+63.249.188.0,63.249.209.255,Amazon AWS,http://www.amazon.com/aws/
+63.249.213.0,63.249.216.255,Amazon AWS,http://www.amazon.com/aws/
 64.4.8.0,64.4.8.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 64.4.54.0,64.4.54.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 64.5.32.0,64.5.63.255,"ThePlanet.com Internet Services, Inc.",http://theplanet.com
@@ -1543,7 +1547,8 @@
 64.69.64.0,64.69.95.255,PEER 1,http://www.peer1.com/
 64.71.128.0,64.71.191.255,Hurricane Electric,http://www.he.net/
 64.71.224.0,64.71.239.255,Webhosting.net,http://www.webhosting.net/
-64.73.192.0,64.73.216.255,Amazon AWS,http://www.amazon.com/aws/
+64.73.195.0,64.73.197.255,Amazon AWS,http://www.amazon.com/aws/
+64.73.201.0,64.73.216.255,Amazon AWS,http://www.amazon.com/aws/
 64.77.0.0,64.77.127.255,PEER 1,http://www.peer1.com/
 64.79.96.0,64.79.111.255,Continuum Data Centers,http://www.continuumdatacenters.com/
 64.79.128.0,64.79.159.255,SWITCH Communications Group LLC,http://www.switchnap.com/

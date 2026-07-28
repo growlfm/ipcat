@@ -2200,7 +2200,7 @@
 82.211.0.0,82.211.63.255,accelerated.de,http://accelerated.de/
 83.98.128.0,83.98.128.255,Flexwebhosting.nl,http://www.flexwebhosting.nl/
 83.118.240.0,83.118.243.255,Amazon AWS,http://www.amazon.com/aws/
-83.119.64.0,83.119.191.255,Amazon AWS,http://www.amazon.com/aws/
+83.119.128.0,83.119.191.255,Amazon AWS,http://www.amazon.com/aws/
 83.136.80.0,83.136.87.255,myLoc,http://www.myloc.de/
 83.136.248.0,83.136.255.255,UpCloud,https://www.upcloud.com/
 83.137.144.0,83.137.151.255,duocast,http://duocast.nl/
@@ -3278,8 +3278,7 @@
 173.44.32.0,173.44.63.255,QuadraNet,https://quadranet.com/
 173.44.128.0,173.44.255.255,infinitie.net,http://www.serverhub.com/
 173.45.224.0,173.45.255.255,Rackspace,http://www.rackspace.com/
-173.83.192.0,173.83.222.255,Amazon AWS,http://www.amazon.com/aws/
-173.83.224.0,173.83.231.255,Amazon AWS,http://www.amazon.com/aws/
+173.83.192.0,173.83.232.255,Amazon AWS,http://www.amazon.com/aws/
 173.192.0.0,173.192.245.255,SoftLayer,http://www.softlayer.com/
 173.192.248.0,173.193.255.255,SoftLayer,http://www.softlayer.com/
 173.195.0.0,173.195.15.255,Reliable Hosting,http://reliablehosting.com/

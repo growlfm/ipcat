@@ -2,7 +2,6 @@
 1.178.4.0,1.178.11.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.16.0,1.178.31.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.64.0,1.178.65.255,Amazon AWS,http://www.amazon.com/aws/
-1.178.86.0,1.178.86.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.88.0,1.178.95.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.100.0,1.178.103.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.174.0,1.178.174.255,Amazon AWS,http://www.amazon.com/aws/
@@ -160,8 +159,7 @@
 14.102.144.0,14.102.146.255,IP ServerOne,http://ipserverone.com/
 14.128.8.0,14.128.11.255,Servenet Solution Limited Partnership,http://servenet.co.th/
 15.103.0.0,15.103.255.255,Amazon AWS,http://www.amazon.com/aws/
-15.128.0.0,15.129.77.255,Amazon AWS,http://www.amazon.com/aws/
-15.129.80.0,15.129.83.255,Amazon AWS,http://www.amazon.com/aws/
+15.128.0.0,15.129.85.255,Amazon AWS,http://www.amazon.com/aws/
 15.129.96.0,15.129.99.255,Amazon AWS,http://www.amazon.com/aws/
 15.134.0.0,15.135.255.255,Amazon AWS,http://www.amazon.com/aws/
 15.145.0.0,15.145.5.255,Amazon AWS,http://www.amazon.com/aws/
@@ -478,6 +476,7 @@
 34.124.112.0,34.125.255.255,Google Cloud,https://cloud.google.com/
 34.126.64.0,34.126.223.255,Google Cloud,https://cloud.google.com/
 34.127.0.0,34.127.127.255,Google Cloud,https://cloud.google.com/
+34.127.145.0,34.127.146.255,Google Cloud,https://cloud.google.com/
 34.127.156.0,34.127.175.255,Google Cloud,https://cloud.google.com/
 34.127.177.0,34.127.180.255,Google Cloud,https://cloud.google.com/
 34.127.184.0,34.127.191.255,Google Cloud,https://cloud.google.com/
@@ -1643,6 +1642,7 @@
 66.23.224.0,66.23.239.255,InterServer.net,http://www.interserver.net/
 66.33.0.0,66.33.127.255,PEER 1,http://www.peer1.com/
 66.33.192.0,66.33.223.255,Dreamhost,http://www.dreamhost.com/
+66.36.0.0,66.36.0.255,Amazon AWS,http://www.amazon.com/aws/
 66.36.10.0,66.36.10.255,Amazon AWS,http://www.amazon.com/aws/
 66.36.96.0,66.36.111.255,PEER 1,http://www.peer1.com/
 66.36.224.0,66.36.255.255,HopOne,http://www.hopone.net/
@@ -3272,7 +3272,7 @@
 173.44.32.0,173.44.63.255,QuadraNet,https://quadranet.com/
 173.44.128.0,173.44.255.255,infinitie.net,http://www.serverhub.com/
 173.45.224.0,173.45.255.255,Rackspace,http://www.rackspace.com/
-173.83.192.0,173.83.232.255,Amazon AWS,http://www.amazon.com/aws/
+173.83.192.0,173.83.233.255,Amazon AWS,http://www.amazon.com/aws/
 173.192.0.0,173.192.245.255,SoftLayer,http://www.softlayer.com/
 173.192.248.0,173.193.255.255,SoftLayer,http://www.softlayer.com/
 173.195.0.0,173.195.15.255,Reliable Hosting,http://reliablehosting.com/

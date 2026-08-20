@@ -1,6 +1,6 @@
 Datacenter Name, Total IPs
 Amazon AWS,79865149
-Microsoft Azure,50473589
+Microsoft Azure,50515467
 Google Cloud,19091840
 Akamai,13172736
 DigitalOcean,2653312
@@ -65,7 +65,6 @@ IT.NET,131072
 OVH CA,131072
 Dedibox SAS,130304
 Optimate Server,122880
-Hostway,120576
 kinx.net,110592
 Secure Servers,110592
 trueserver.nl,109824
@@ -83,6 +82,7 @@ EGIHosting.com,90112
 Limestone Networks,90112
 Radore Hosting,90112
 WholeSale Internet Inc,90112
+Hostway,87808
 GoGrid LLC,86784
 Canaca-com Inc.,86016
 LightEdge,86016
@@ -226,6 +226,7 @@ Incero,16384
 Joe's Datacenter,16384
 Keyweb Germany Leipzig,16384
 Leaseweb USA,16384
+Ntirety,16384
 Premia Networks Corporation,16384
 Roya Hosting,16384
 Secure Private Network,16384

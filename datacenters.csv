@@ -374,7 +374,7 @@
 23.251.128.0,23.251.159.255,Google Cloud,https://cloud.google.com/
 23.252.112.0,23.252.127.255,WebNX Internet Services,http://webnx.com/
 23.253.0.0,23.253.255.255,Rackspace,http://www.rackspace.com/
-23.254.0.0,23.254.39.255,Amazon AWS,http://www.amazon.com/aws/
+23.254.0.0,23.254.41.255,Amazon AWS,http://www.amazon.com/aws/
 23.254.57.0,23.254.57.255,Server Mania,http://www.servermania.com/
 23.254.107.0,23.254.107.255,Server Mania,http://www.servermania.com/
 23.254.120.0,23.254.127.255,Amazon AWS,http://www.amazon.com/aws/
@@ -1488,6 +1488,7 @@
 64.18.128.0,64.18.159.255,Rackvibe.com,http://www.rackvibe.com/
 64.20.32.0,64.20.63.255,InterServer.net,http://www.interserver.net/
 64.22.192.0,64.22.223.255,LightEdge,http://www.lightedge.com
+64.23.0.0,64.23.63.255,Amazon AWS,http://www.amazon.com/aws/
 64.26.0.0,64.26.63.255,Hostway,http://www.hostway.com/
 64.27.0.0,64.27.31.255,calPOP,http://calpop.com/
 64.27.48.0,64.27.63.255,wehostwebsites.com,http://wehostwebsites.com/

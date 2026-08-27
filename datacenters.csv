@@ -11,7 +11,7 @@
 2.56.137.0,2.56.137.255,Psychz Networks,http://psychz.net/
 3.0.0.0,3.2.0.255,Amazon AWS,http://www.amazon.com/aws/
 3.2.2.0,3.2.3.255,Amazon AWS,http://www.amazon.com/aws/
-3.2.64.0,3.2.102.255,Amazon AWS,http://www.amazon.com/aws/
+3.2.64.0,3.2.103.255,Amazon AWS,http://www.amazon.com/aws/
 3.3.2.0,3.3.2.255,Amazon AWS,http://www.amazon.com/aws/
 3.3.5.0,3.3.5.255,Amazon AWS,http://www.amazon.com/aws/
 3.3.32.0,3.3.33.255,Amazon AWS,http://www.amazon.com/aws/
@@ -1065,10 +1065,7 @@
 63.246.0.0,63.246.31.255,Xiolink,http://xiolink.com
 63.246.112.0,63.246.113.255,Amazon AWS,http://www.amazon.com/aws/
 63.246.119.0,63.246.119.255,Amazon AWS,http://www.amazon.com/aws/
-63.249.128.0,63.249.133.255,Amazon AWS,http://www.amazon.com/aws/
-63.249.138.0,63.249.186.255,Amazon AWS,http://www.amazon.com/aws/
-63.249.188.0,63.249.209.255,Amazon AWS,http://www.amazon.com/aws/
-63.249.213.0,63.249.216.255,Amazon AWS,http://www.amazon.com/aws/
+63.249.128.0,63.249.223.255,Amazon AWS,http://www.amazon.com/aws/
 64.4.8.0,64.4.8.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 64.4.54.0,64.4.54.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 64.5.32.0,64.5.63.255,"ThePlanet.com Internet Services, Inc.",http://theplanet.com

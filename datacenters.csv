@@ -91,6 +91,8 @@
 8.231.32.0,8.233.255.255,Google Cloud,https://cloud.google.com/
 8.234.2.0,8.234.17.255,Google Cloud,https://cloud.google.com/
 8.234.20.0,8.235.255.255,Google Cloud,https://cloud.google.com/
+8.236.144.0,8.236.159.255,Google Cloud,https://cloud.google.com/
+8.236.192.0,8.237.63.255,Google Cloud,https://cloud.google.com/
 9.129.0.0,9.129.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 9.141.0.0,9.141.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 9.160.0.0,9.160.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -378,6 +380,7 @@
 34.4.24.0,34.4.99.255,Google Cloud,https://cloud.google.com/
 34.4.102.0,34.4.111.255,Google Cloud,https://cloud.google.com/
 34.4.128.0,34.4.192.255,Google Cloud,https://cloud.google.com/
+34.4.208.0,34.4.223.255,Google Cloud,https://cloud.google.com/
 34.6.0.0,34.13.63.255,Google Cloud,https://cloud.google.com/
 34.13.68.0,34.13.79.255,Google Cloud,https://cloud.google.com/
 34.13.112.0,34.14.223.255,Google Cloud,https://cloud.google.com/

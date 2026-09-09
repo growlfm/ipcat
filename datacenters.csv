@@ -486,7 +486,7 @@
 35.55.32.0,35.55.42.255,Amazon AWS,http://www.amazon.com/aws/
 35.55.126.0,35.55.127.255,Amazon AWS,http://www.amazon.com/aws/
 35.71.64.0,35.71.79.255,Amazon AWS,http://www.amazon.com/aws/
-35.71.92.0,35.71.94.255,Amazon AWS,http://www.amazon.com/aws/
+35.71.90.0,35.71.94.255,Amazon AWS,http://www.amazon.com/aws/
 35.71.96.0,35.71.127.255,Amazon AWS,http://www.amazon.com/aws/
 35.72.0.0,35.95.255.255,Amazon AWS,http://www.amazon.com/aws/
 35.128.64.0,35.128.191.255,Amazon AWS,http://www.amazon.com/aws/
@@ -1005,7 +1005,7 @@
 52.246.0.0,52.246.143.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.246.152.0,52.247.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.247.192.0,52.249.95.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.249.128.0,52.251.129.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.249.128.0,52.251.131.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.252.0.0,52.253.143.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.253.148.0,52.253.239.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.254.0.0,52.255.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -2792,7 +2792,7 @@
 173.44.32.0,173.44.63.255,QuadraNet,https://quadranet.com/
 173.44.128.0,173.44.255.255,infinitie.net,http://www.serverhub.com/
 173.45.224.0,173.45.255.255,Rackspace,http://www.rackspace.com/
-173.83.192.0,173.83.235.255,Amazon AWS,http://www.amazon.com/aws/
+173.83.192.0,173.83.236.255,Amazon AWS,http://www.amazon.com/aws/
 173.192.0.0,173.192.245.255,SoftLayer,http://www.softlayer.com/
 173.192.248.0,173.193.255.255,SoftLayer,http://www.softlayer.com/
 173.195.0.0,173.195.15.255,Reliable Hosting,http://reliablehosting.com/

@@ -2,7 +2,6 @@
 1.178.4.0,1.178.11.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.16.0,1.178.31.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.64.0,1.178.65.255,Amazon AWS,http://www.amazon.com/aws/
-1.178.86.0,1.178.86.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.88.0,1.178.95.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.100.0,1.178.103.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.174.0,1.178.174.255,Amazon AWS,http://www.amazon.com/aws/
@@ -155,7 +154,7 @@
 14.102.144.0,14.102.146.255,IP ServerOne,http://ipserverone.com/
 14.128.8.0,14.128.11.255,Servenet Solution Limited Partnership,http://servenet.co.th/
 15.103.0.0,15.103.255.255,Amazon AWS,http://www.amazon.com/aws/
-15.128.0.0,15.129.85.255,Amazon AWS,http://www.amazon.com/aws/
+15.128.0.0,15.129.86.255,Amazon AWS,http://www.amazon.com/aws/
 15.129.96.0,15.129.99.255,Amazon AWS,http://www.amazon.com/aws/
 15.134.0.0,15.135.255.255,Amazon AWS,http://www.amazon.com/aws/
 15.145.0.0,15.145.5.255,Amazon AWS,http://www.amazon.com/aws/
@@ -1077,6 +1076,7 @@
 64.5.32.0,64.5.63.255,"ThePlanet.com Internet Services, Inc.",http://theplanet.com
 64.6.96.0,64.6.111.255,amerinoc,https://www.amerinoc.com/
 64.6.224.0,64.6.255.255,Jumpline Inc,http://www.jumpline.com/
+64.7.200.0,64.7.207.255,Amazon AWS,http://www.amazon.com/aws/
 64.13.192.0,64.13.255.255,Media Temple,http://www.mediatemple.net/
 64.15.64.0,64.15.79.255,Netelligent,http://www.netelligent.ca/en/ca
 64.15.128.0,64.15.159.255,iWeb Technologies Inc.,http://iweb.com/

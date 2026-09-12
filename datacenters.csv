@@ -2,6 +2,7 @@
 1.178.4.0,1.178.11.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.16.0,1.178.31.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.64.0,1.178.65.255,Amazon AWS,http://www.amazon.com/aws/
+1.178.86.0,1.178.86.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.88.0,1.178.95.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.100.0,1.178.103.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.174.0,1.178.174.255,Amazon AWS,http://www.amazon.com/aws/
@@ -91,7 +92,7 @@
 8.234.2.0,8.234.17.255,Google Cloud,https://cloud.google.com/
 8.234.20.0,8.235.255.255,Google Cloud,https://cloud.google.com/
 8.236.144.0,8.236.159.255,Google Cloud,https://cloud.google.com/
-8.236.192.0,8.237.63.255,Google Cloud,https://cloud.google.com/
+8.236.192.0,8.237.127.255,Google Cloud,https://cloud.google.com/
 9.129.0.0,9.129.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 9.141.0.0,9.141.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 9.160.0.0,9.160.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -1114,8 +1115,7 @@
 64.69.64.0,64.69.95.255,PEER 1,http://www.peer1.com/
 64.71.128.0,64.71.191.255,Hurricane Electric,http://www.he.net/
 64.71.224.0,64.71.239.255,Webhosting.net,http://www.webhosting.net/
-64.73.195.0,64.73.197.255,Amazon AWS,http://www.amazon.com/aws/
-64.73.201.0,64.73.216.255,Amazon AWS,http://www.amazon.com/aws/
+64.73.192.0,64.73.223.255,Amazon AWS,http://www.amazon.com/aws/
 64.77.0.0,64.77.127.255,PEER 1,http://www.peer1.com/
 64.79.96.0,64.79.111.255,Continuum Data Centers,http://www.continuumdatacenters.com/
 64.79.128.0,64.79.159.255,SWITCH Communications Group LLC,http://www.switchnap.com/

@@ -93,6 +93,7 @@
 8.234.20.0,8.235.255.255,Google Cloud,https://cloud.google.com/
 8.236.144.0,8.236.159.255,Google Cloud,https://cloud.google.com/
 8.236.192.0,8.237.127.255,Google Cloud,https://cloud.google.com/
+8.237.192.0,8.237.255.255,Google Cloud,https://cloud.google.com/
 9.129.0.0,9.129.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 9.141.0.0,9.141.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 9.160.0.0,9.160.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -2599,6 +2600,7 @@
 151.237.176.0,151.237.177.255,webexxpurts.com,http://webexxpurts.com/
 151.237.181.0,151.237.181.255,webexxpurts.com,http://webexxpurts.com/
 151.237.184.0,151.237.184.255,webexxpurts.com,http://webexxpurts.com/
+152.239.128.0,152.239.255.255,Google Cloud,https://cloud.google.com/
 154.6.224.0,154.6.231.255,Psychz Networks,http://psychz.net/
 154.22.5.0,154.22.5.255,Psychz Networks,http://psychz.net/
 155.94.128.0,155.94.255.255,QuadraNet,https://www.quadranet.com/
@@ -3004,6 +3006,7 @@
 178.255.192.0,178.255.199.255,qweb,http://www.qweb.nl/
 179.61.207.0,179.61.207.255,Host1Plus Brazil,http://www.host1plus.com/
 179.61.238.0,179.61.238.255,Psychz Networks,http://psychz.net/
+179.67.0.0,179.67.63.255,Google Cloud,https://cloud.google.com/
 179.107.32.0,179.107.47.255,alog,http://www.alog.com.br/
 180.92.184.0,180.92.191.255,Voxel,http://www.voxel.net/
 180.149.240.0,180.149.247.255,Web Werks,http://www.web-werks.com/

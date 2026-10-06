@@ -93,7 +93,7 @@
 8.234.20.0,8.235.255.255,Google Cloud,https://cloud.google.com/
 8.236.144.0,8.236.159.255,Google Cloud,https://cloud.google.com/
 8.236.192.0,8.237.127.255,Google Cloud,https://cloud.google.com/
-8.237.192.0,8.237.255.255,Google Cloud,https://cloud.google.com/
+8.237.160.0,8.237.255.255,Google Cloud,https://cloud.google.com/
 9.129.0.0,9.129.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 9.141.0.0,9.141.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 9.160.0.0,9.160.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -383,8 +383,7 @@
 34.4.208.0,34.4.223.255,Google Cloud,https://cloud.google.com/
 34.6.0.0,34.13.63.255,Google Cloud,https://cloud.google.com/
 34.13.68.0,34.13.79.255,Google Cloud,https://cloud.google.com/
-34.13.112.0,34.14.223.255,Google Cloud,https://cloud.google.com/
-34.15.0.0,34.34.191.255,Google Cloud,https://cloud.google.com/
+34.13.112.0,34.34.191.255,Google Cloud,https://cloud.google.com/
 34.34.216.0,34.34.223.255,Google Cloud,https://cloud.google.com/
 34.35.0.0,34.42.255.255,Google Cloud,https://cloud.google.com/
 34.44.0.0,34.50.127.255,Google Cloud,https://cloud.google.com/
@@ -458,14 +457,18 @@
 34.183.40.0,34.183.47.255,Google Cloud,https://cloud.google.com/
 34.183.50.0,34.183.61.255,Google Cloud,https://cloud.google.com/
 34.183.66.0,34.183.125.255,Google Cloud,https://cloud.google.com/
-34.183.128.0,34.183.129.255,Google Cloud,https://cloud.google.com/
+34.183.128.0,34.183.133.255,Google Cloud,https://cloud.google.com/
+34.183.136.0,34.183.139.255,Google Cloud,https://cloud.google.com/
+34.183.144.0,34.183.159.255,Google Cloud,https://cloud.google.com/
 34.184.0.0,34.184.9.255,Google Cloud,https://cloud.google.com/
 34.184.12.0,34.184.19.255,Google Cloud,https://cloud.google.com/
 34.184.22.0,34.184.27.255,Google Cloud,https://cloud.google.com/
 34.184.30.0,34.184.35.255,Google Cloud,https://cloud.google.com/
 34.184.40.0,34.184.59.255,Google Cloud,https://cloud.google.com/
 34.184.64.0,34.184.123.255,Google Cloud,https://cloud.google.com/
-34.184.126.0,34.184.128.255,Google Cloud,https://cloud.google.com/
+34.184.126.0,34.184.133.255,Google Cloud,https://cloud.google.com/
+34.184.136.0,34.184.139.255,Google Cloud,https://cloud.google.com/
+34.184.144.0,34.184.159.255,Google Cloud,https://cloud.google.com/
 34.185.64.0,34.187.255.255,Google Cloud,https://cloud.google.com/
 34.192.0.0,34.255.255.255,Amazon AWS,http://www.amazon.com/aws/
 35.42.0.0,35.45.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -3005,8 +3008,10 @@
 178.255.192.0,178.255.199.255,qweb,http://www.qweb.nl/
 179.61.207.0,179.61.207.255,Host1Plus Brazil,http://www.host1plus.com/
 179.61.238.0,179.61.238.255,Psychz Networks,http://psychz.net/
-179.67.0.0,179.67.63.255,Google Cloud,https://cloud.google.com/
+179.67.0.0,179.67.127.255,Google Cloud,https://cloud.google.com/
+179.69.128.0,179.69.255.255,Google Cloud,https://cloud.google.com/
 179.107.32.0,179.107.47.255,alog,http://www.alog.com.br/
+179.193.128.0,179.193.159.255,Google Cloud,https://cloud.google.com/
 180.92.184.0,180.92.191.255,Voxel,http://www.voxel.net/
 180.149.240.0,180.149.247.255,Web Werks,http://www.web-werks.com/
 180.150.128.0,180.150.159.255,Rackspace,http://www.rackspace.com/

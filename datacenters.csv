@@ -2,7 +2,6 @@
 1.178.4.0,1.178.11.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.16.0,1.178.31.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.64.0,1.178.65.255,Amazon AWS,http://www.amazon.com/aws/
-1.178.86.0,1.178.86.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.88.0,1.178.95.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.100.0,1.178.103.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.174.0,1.178.174.255,Amazon AWS,http://www.amazon.com/aws/
@@ -191,7 +190,7 @@
 15.240.0.0,15.241.255.255,Amazon AWS,http://www.amazon.com/aws/
 15.252.0.0,15.254.255.255,Amazon AWS,http://www.amazon.com/aws/
 16.4.0.0,16.4.255.255,Amazon AWS,http://www.amazon.com/aws/
-16.15.0.0,16.15.79.255,Amazon AWS,http://www.amazon.com/aws/
+16.15.0.0,16.15.99.255,Amazon AWS,http://www.amazon.com/aws/
 16.15.156.0,16.16.255.255,Amazon AWS,http://www.amazon.com/aws/
 16.18.0.0,16.19.255.255,Amazon AWS,http://www.amazon.com/aws/
 16.22.0.0,16.22.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -1128,6 +1127,8 @@
 64.106.128.0,64.106.255.255,Datapipe,http://www.datapipe.com/
 64.111.16.0,64.111.31.255,Data 102,http://data102.com/
 64.111.96.0,64.111.127.255,Dreamhost,http://www.dreamhost.com/
+64.113.192.0,64.113.195.255,Amazon AWS,http://www.amazon.com/aws/
+64.113.223.0,64.113.223.255,Amazon AWS,http://www.amazon.com/aws/
 64.118.80.0,64.118.95.255,4rweb.com,http://4rweb.com/
 64.119.160.0,64.119.191.255,latisys,http://www.latisys.com/
 64.120.0.0,64.120.127.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/

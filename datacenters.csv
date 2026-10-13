@@ -1893,6 +1893,7 @@
 89.248.172.0,89.248.172.255,Ecatel,http://ecatel.net/
 89.250.112.0,89.250.127.255,basefarm.com,http://basefarm.com/
 89.255.0.0,89.255.63.255,Hosting Concepts,http://hosting-concepts.nl/
+90.98.0.0,90.98.191.255,Fastly,https://www.fastly.com/
 91.90.24.0,91.90.31.255,PatrikWeb,http://patrikweb.net/
 91.102.88.0,91.102.95.255,Solido Hosting A/S,http://solidohosting.com/
 91.105.232.0,91.105.239.255,H1 Host,https://www.h1host.ru/
@@ -2795,7 +2796,7 @@
 173.44.32.0,173.44.63.255,QuadraNet,https://quadranet.com/
 173.44.128.0,173.44.255.255,infinitie.net,http://www.serverhub.com/
 173.45.224.0,173.45.255.255,Rackspace,http://www.rackspace.com/
-173.83.192.0,173.83.236.255,Amazon AWS,http://www.amazon.com/aws/
+173.83.192.0,173.83.237.255,Amazon AWS,http://www.amazon.com/aws/
 173.192.0.0,173.192.245.255,SoftLayer,http://www.softlayer.com/
 173.192.248.0,173.193.255.255,SoftLayer,http://www.softlayer.com/
 173.195.0.0,173.195.15.255,Reliable Hosting,http://reliablehosting.com/

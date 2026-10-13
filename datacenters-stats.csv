@@ -1,5 +1,5 @@
 Datacenter Name, Total IPs
-Amazon AWS,79950909
+Amazon AWS,79951165
 Microsoft Azure,54386157
 Google Cloud,19302528
 Akamai,13172736
@@ -17,9 +17,9 @@ Hetzner Online AG,697664
 GoDaddy.com Inc,668672
 1&1 Internet,368640
 Hurricane Electric,359424
+Fastly,353280
 Leaseweb,345344
 infinitie.net,313344
-Fastly,304128
 Choopa,286808
 HostMySite.com,280320
 SingleHop,266240

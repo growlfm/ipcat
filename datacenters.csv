@@ -2,7 +2,6 @@
 1.178.4.0,1.178.11.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.16.0,1.178.31.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.64.0,1.178.65.255,Amazon AWS,http://www.amazon.com/aws/
-1.178.86.0,1.178.86.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.88.0,1.178.95.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.100.0,1.178.103.255,Amazon AWS,http://www.amazon.com/aws/
 1.178.174.0,1.178.174.255,Amazon AWS,http://www.amazon.com/aws/
@@ -893,7 +892,7 @@
 51.53.0.0,51.53.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 51.56.0.0,51.59.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 51.72.0.0,51.74.17.255,Amazon AWS,http://www.amazon.com/aws/
-51.74.128.0,51.74.191.255,Amazon AWS,http://www.amazon.com/aws/
+51.74.64.0,51.74.191.255,Amazon AWS,http://www.amazon.com/aws/
 51.84.0.0,51.85.255.255,Amazon AWS,http://www.amazon.com/aws/
 51.92.0.0,51.92.255.255,Amazon AWS,http://www.amazon.com/aws/
 51.94.0.0,51.96.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -1530,7 +1529,7 @@
 72.52.128.0,72.52.255.255,Liquid Web,http://www.liquidweb.com/
 72.55.128.0,72.55.191.255,iWeb Technologies Inc.,http://iweb.com/
 72.144.0.0,72.147.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-72.150.0.0,72.150.19.255,Amazon AWS,http://www.amazon.com/aws/
+72.150.0.0,72.150.20.255,Amazon AWS,http://www.amazon.com/aws/
 72.152.0.0,72.155.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 72.167.0.0,72.167.255.255,GoDaddy.com Inc,http://www.godaddy.com/
 72.172.128.0,72.172.143.255,Jumpline Inc,http://www.jumpline.com/

@@ -701,7 +701,7 @@
 40.126.128.0,40.127.32.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.127.64.0,40.127.111.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.127.128.0,40.127.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.163.0.0,40.163.0.255,Amazon AWS,http://www.amazon.com/aws/
+40.163.0.0,40.163.3.255,Amazon AWS,http://www.amazon.com/aws/
 40.164.0.0,40.164.255.255,Amazon AWS,http://www.amazon.com/aws/
 40.168.224.0,40.168.231.255,Amazon AWS,http://www.amazon.com/aws/
 40.168.255.0,40.168.255.255,Amazon AWS,http://www.amazon.com/aws/

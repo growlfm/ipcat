@@ -1,15 +1,15 @@
 Datacenter Name, Total IPs
-Amazon AWS,80253757
+Amazon AWS,80252221
 Microsoft Azure,65446795
 Google Cloud,19385984
 Akamai,13172736
+SoftLayer,3367936
 DigitalOcean,2653312
-SoftLayer,1903104
-"ThePlanet.com Internet Services, Inc.",1638656
 Cloudflare Inc,1524736
 PEER 1,1462288
 Ubiquity Server Solutions,1441792
 Rackspace,1350658
+"ThePlanet.com Internet Services, Inc.",1230080
 OVH,1200640
 21vianet,794624
 ColoCrossing,718848
@@ -94,7 +94,6 @@ SharkTECH Internet Services,79872
 demos,78592
 BlueConnex,78080
 Server Network Technologies,77824
-Data 102,73728
 Datapoint,73728
 OVH FR,73472
 panamaserver.com,72960
@@ -133,6 +132,7 @@ ColoStore,45056
 wiredtree,44032
 ecritel.net,41984
 Hivelocity Hosting,41984
+Data 102,40960
 Lunar Pages,40960
 Netelligent,40960
 Unbelievable Machine,40960

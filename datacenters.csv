@@ -759,7 +759,7 @@
 40.100.44.128,40.100.44.191,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.100.45.64,40.100.45.127,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.100.58.0,40.100.73.191,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.100.80.0,40.100.80.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.100.80.0,40.100.81.63,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.101.0.0,40.101.3.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.101.20.0,40.101.27.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.101.56.0,40.101.59.255,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -786,7 +786,7 @@
 40.126.128.0,40.127.32.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.127.64.0,40.127.111.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.127.128.0,40.127.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.163.0.0,40.163.3.255,Amazon AWS,http://www.amazon.com/aws/
+40.163.0.0,40.163.4.255,Amazon AWS,http://www.amazon.com/aws/
 40.164.0.0,40.164.255.255,Amazon AWS,http://www.amazon.com/aws/
 40.168.224.0,40.168.231.255,Amazon AWS,http://www.amazon.com/aws/
 40.168.255.0,40.168.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -1668,7 +1668,8 @@
 72.147.145.32,72.147.145.35,Microsoft Azure,http://www.windowsazure.com/en-us/
 72.147.145.40,72.147.145.47,Microsoft Azure,http://www.windowsazure.com/en-us/
 72.147.145.112,72.147.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-72.150.20.0,72.150.22.255,Amazon AWS,http://www.amazon.com/aws/
+72.150.20.0,72.150.20.255,Amazon AWS,http://www.amazon.com/aws/
+72.150.22.0,72.150.22.255,Amazon AWS,http://www.amazon.com/aws/
 72.152.0.0,72.152.23.31,Microsoft Azure,http://www.windowsazure.com/en-us/
 72.152.23.50,72.152.159.119,Microsoft Azure,http://www.windowsazure.com/en-us/
 72.152.159.124,72.152.159.127,Microsoft Azure,http://www.windowsazure.com/en-us/
